@@ -1,0 +1,950 @@
+[
+  {
+    "id": "QC-01",
+    "nameFr": "INFO-SOCIAL 811 (OPTION 2)",
+    "nameEn": "INFO-SOCIAL 811 (OPTION 2)",
+    "categoryId": "HEALTH",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "811",
+    "smsOrChat": "Option 2 — Intervenants psychosociaux",
+    "website": "https://www.quebec.ca/sante/trouver-une-ressource/info-social-811",
+    "is247": true,
+    "hasChatOrSms": false,
+    "descFr": "Consultation téléphonique gratuite et confidentielle avec un professionnel psychosocial (crise, anxiété, conflit familial, deuil).",
+    "descEn": "Free, confidential telephone consultation with a psychosocial worker (crisis, anxiety, family conflict, grief).",
+    "tags": [
+      "811",
+      "psychosocial",
+      "anxiete",
+      "crise",
+      "clsc"
+    ]
+  },
+  {
+    "id": "QC-02",
+    "nameFr": "LIGNE QUÉBÉCOISE DE PRÉVENTION DU SUICIDE",
+    "nameEn": "QUEBEC SUICIDE PREVENTION LINE",
+    "categoryId": "CRISIS",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-866-277-3553",
+    "smsOrChat": "SMS: 535353 | Clavardage: suicide.ca",
+    "website": "https://suicide.ca",
+    "is247": true,
+    "hasChatOrSms": true,
+    "descFr": "Soutien immédiat par téléphone, texto ou clavardage pour les personnes en détresse, les proches inquiets et les personnes 
+endeuillées.",
+    "descEn": "Immediate support by phone, text, or chat for people in distress, worried loved ones, and those bereaved by suicide.",
+    "tags": [
+      "suicide",
+      "988",
+      "535353",
+      "detresse",
+      "urgence"
+    ]
+  },
+  {
+    "id": "QC-03",
+    "nameFr": "211 QUÉBEC — RÉPERTOIRE COMMUNAUTAIRE",
+    "nameEn": "211 QUEBEC — 
+COMMUNITY DIRECTORY",
+    "categoryId": "HOUSING",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "211",
+    "smsOrChat": "Clavardage sur 211qc.ca (8h à 18h)",
+    "website": "https://www.211qc.ca",
+    "is247": false,
+    "hasChatOrSms": true,
+    "descFr": "Orientation vers les banques alimentaires, l’aide au logement, les popotes roulantes, le soutien financier et les organismes locaux.",
+    "descEn": "Referral service to food banks, housing aid, 
+meals-on-wheels, financial support, and local community organizations.",
+    "tags": [
+      "211",
+      "banque alimentaire",
+      "logement",
+      "pauvrete",
+      "aide"
+    ]
+  },
+  {
+    "id": "QC-04",
+    "nameFr": "SOS VIOLENCE CONJUGALE",
+    "nameEn": "SOS VIOLENCE CONJUGALE",
+    "categoryId": "VIOLENCE",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-363-9010",
+    "smsOrChat": "SMS: 438-601-1211 | Clavardage sécurisé",
+    "website": "https://sosviolenceconjugale.ca",
+    "is247": true,
+    "hasChatOrSms": true,
+    "descFr": "Accueil, évaluation, information et référence vers des maisons d’hébergement pour les victimes de violence conjugale et leurs proches.",
+    "descEn": "Intake, assessment, and referral to shelters for victims of domestic violence and their loved ones.",
+    "tags": [
+      "violence",
+      "conjugale",
+      "hebergement",
+      "femme",
+      "securite"
+    ]
+  },
+  {
+    "id": "QC-05",
+    "nameFr": "TEL-JEUNES",
+    "nameEn": "TEL-JEUNES",
+    "categoryId": "YOUTH",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-263-2266",
+    "smsOrChat": "SMS: 514-600-1002 | Clavardage web",
+    "website": "https://www.teljeunes.com",
+    "is247": true,
+    "hasChatOrSms": true,
+    "descFr": "Service confidentiel et gratuit pour les jeunes de 12 à 20 ans : relations, sexualité, intimidation, santé mentale et famille.",
+    "descEn": "Free, confidential service for youth aged 12 to 20: relationships, sexuality, bullying, mental health, and family.",
+    "tags": [
+      "jeunes",
+      "ado",
+      "intimidation",
+      "ecole",
+      "texto"
+    ]
+  },
+  {
+    "id": "QC-06",
+    "nameFr": "LIGNEPARENTS",
+    "nameEn": "LIGNEPARENTS",
+    "categoryId": "YOUTH",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-361-5085",
+    "smsOrChat": "Clavardage sur ligneparents.com",
+    "website": "https://www.ligneparents.com",
+    "is247": true,
+    "hasChatOrSms": true,
+    "descFr": "Accompagnement 
+professionnel gratuit pour tous les parents d’enfants de 0 à 20 ans confrontés à des défis éducatifs ou familiaux.",
+    "descEn": "Free professional support for all parents of children aged 0 to 20 facing parenting or family challenges.",
+    "tags": [
+      "parents",
+      "enfant",
+      "famille",
+      "crise ado"
+    ]
+  },
+  {
+    "id": "QC-07",
+    "nameFr": "INTERLIGNE 
+(SOUTIEN LGBTQ+)",
+    "nameEn": "INTERLIGNE (LGBTQ+ SUPPORT)",
+    "categoryId": "LGBTQ",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-888-505-1010",
+    "smsOrChat": "SMS: 1-888-505-1010 | Clavardage 24/7",
+    "website": "https://interligne.co",
+    "is247": true,
+    "hasChatOrSms": true,
+    "descFr": "Centre de première ligne offrant écoute, information et intervention en matière de diversité sexuelle et de pluralité des genres.",
+    "descEn": "Frontline center 
+providing listening, information, and intervention regarding sexual diversity and gender plurality.",
+    "tags": [
+      "lgbtq",
+      "trans",
+      "gai",
+      "lesbienne",
+      "identite"
+    ]
+  },
+  {
+    "id": "QC-08",
+    "nameFr": "AIDE AUX TRANS DU QUÉBEC (ATQ)",
+    "nameEn": "AIDE AUX TRANS DU QUÉBEC (ATQ)",
+    "categoryId": "LGBTQ",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-855-909-9038",
+    "smsOrChat": "Clavardage et courriel d’entraide",
+    "website": "https://atq1980.org",
+    "is247": false,
+    "hasChatOrSms": true,
+    "descFr": "Écoute par des pairs, référencement juridique et médical et soutien pour les personnes trans, non binaires et leurs proches.",
+    "descEn": "Peer listening, legal/medical referrals, and support for trans, non-binary individuals and their families.",
+    "tags": [
+      "trans",
+      "non-binaire",
+      "transition",
+      "pairs"
+    ]
+  },
+  {
+    "id": "QC-09",
+    "nameFr": "LIGNE AIDE ABUS AÎNÉS",
+    "nameEn": "ELDER MISTREATMENT HELPLINE",
+    "categoryId": "SENIORS",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-888-489-2287",
+    "smsOrChat": "8h à 20h, 7 jours sur 7",
+    "website": "https://www
+.aideabusaines.ca",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Ligne provinciale d’écoute, d’évaluation et de référence face à la maltraitance psychologique, financière ou physique envers les aînés.",
+    "descEn": "Provincial helpline for listening, assessment, and referral regarding psychological, financial, or physical elder abuse.",
+    "tags": [
+      "aines",
+      "maltraitance",
+      "abus financier",
+      "personne agee"
+    ]
+  },
+  {
+    "id": "QC-10",
+    "nameFr": "INFO-AIDANT (L’APPUI PROCHES AIDANTS)",
+    "nameEn": "INFO-AIDANT (CAREGIVER SUPPORT)",
+    "categoryId": "SENIORS",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-855-852-7784",
+    "smsOrChat": "info-aidant@lappui.org",
+    "website": "https://www.lappui.org",
+    "is247": false,
+    "hasChatOrSms": true,
+    "descFr": "Écoute professionnelle, 
+information et répit pour les personnes qui soutiennent un proche en perte d’autonomie.",
+    "descEn": "Professional listening, information, and respite resources for those caring for a loved one with loss of autonomy.",
+    "tags": [
+      "proche aidant",
+      "alzheimer",
+      "repit",
+      "epuisement"
+    ]
+  },
+  {
+    "id": "QC-11",
+    "nameFr": "DROGUE : AIDE ET RÉFÉRENCE (DAR)",
+    "nameEn": "DRUGS: HELP AND REFERRAL",
+    "categoryId": "ADDICTION",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-265-2626",
+    "smsOrChat": "Clavardage sur aidedrogue.ca",
+    "website": "https://www.aidedrogue.ca",
+    "is247": true,
+    "hasChatOrSms": true,
+    "descFr": "Soutien, information et orientation vers les centres de réadaptation en dépendance (alcool, drogues, médicaments) partout au Québec.",
+    "descEn": "Support, information, 
+and referral to addiction rehabilitation centers (alcohol, drugs, medication) across Quebec.",
+    "tags": [
+      "drogue",
+      "alcool",
+      "dependance",
+      "desintox",
+      "consommation"
+    ]
+  },
+  {
+    "id": "QC-12",
+    "nameFr": "JEU : AIDE ET RÉFÉRENCE",
+    "nameEn": "GAMBLING: HELP AND REFERRAL",
+    "categoryId": "ADDICTION",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-461-0140",
+    "smsOrChat": "Clavardage sur aidejeu.ca",
+    "website": "https://www.aidejeu.ca",
+    "is247": true,
+    "hasChatOrSms": true,
+    "descFr": "Aide confidentielle et gratuite pour les joueurs compulsifs (casino, paris en ligne, loterie) et leur entourage.",
+    "descEn": "Free, confidential help for compulsive gamblers (casino, online betting, lottery) and their families.",
+    "tags": [
+      "jeu",
+      "casino",
+      "paris",
+      "dettes",
+      "dependance"
+    ]
+  },
+  {
+    "id": "QC-13",
+    "nameFr": "INFO-AIDE VIOLENCE SEXUELLE",
+    "nameEn": "SEXUAL VIOLENCE HELPLINE",
+    "categoryId": "VIOLENCE",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-888-933-9007",
+    "smsOrChat": "Clavardage sur 
+infoaideviolencesexuelle.ca",
+    "website": "https://infoaideviolencesexuelle.ca",
+    "is247": true,
+    "hasChatOrSms": true,
+    "descFr": "Écoute, soutien et orientation vers les CALACS et les trousses médico-légales pour toute personne victime d’agression sexuelle.",
+    "descEn": "Listening, support, and referral to CALACS centers and forensic kits for anyone affected by sexual assault.",
+    "tags": [
+      "agression",
+      "calacs",
+      "violence sexuelle",
+      "consentement"
+    ]
+  },
+  {
+    "id": "QC-14",
+    "nameFr": "CAVAC — AIDE AUX VICTIMES D’ACTES CRIMINELS",
+    "nameEn": "CAVAC — CRIME VICTIMS ASSISTANCE",
+    "categoryId": "LEGAL",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-866-532-2822",
+    "smsOrChat": "18 centres régionaux au Québec",
+    "website": "https://cavac.qc.ca",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Intervention post-traumatique, accompagnement à la cour, aide aux demandes IVAC et information sur les droits des victimes.",
+    "descEn": "Post-trauma intervention, court accompaniment, IVAC claim assistance, and victim rights information.",
+    "tags": [
+      "crime",
+      "ivac",
+      "tribunal",
+      "victime",
+      "justice"
+    ]
+  },
+  {
+    "id": "QC-15",
+    "nameFr": "TRIBUNAL ADMINISTRATIF DU LOGEMENT (TAL)",
+    "nameEn": "ADMINISTRATIVE HOUSING TRIBUNAL (TAL)",
+    "categoryId": "HOUSING",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-683-2245",
+    "smsOrChat": "Renseignements locataires / propriétaires",
+    "website": "https://www.tal.gouv.qc.ca",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Information officielle 
+sur les baux, hausses de loyer, évictions, insalubrité et recours en matière de logement au Québec.",
+    "descEn": "Official information on leases, rent increases, evictions, unsanitary conditions, and housing remedies in Quebec.",
+    "tags": [
+      "loyer",
+      "bail",
+      "eviction",
+      "proprietaire",
+      "regie"
+    ]
+  },
+  {
+    "id": "QC-16",
+    "nameFr": "COMMISSION DES 
+SERVICES JURIDIQUES (AIDE JURIDIQUE)",
+    "nameEn": "LEGAL AID QUEBEC (CSJ)",
+    "categoryId": "LEGAL",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "514-873-3562",
+    "smsOrChat": "Bureaux régionaux partout au Québec",
+    "website": "https://www.csj.qc.ca",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Services juridiques gratuits ou à faible coût pour les personnes financièrement admissibles (droit familial, criminel, logement, aide sociale).",
+    "descEn": "Free or low-cost legal services for financially eligible individuals (family, criminal, housing, welfare law).",
+    "tags": [
+      "avocat",
+      "aide juridique",
+      "cour",
+      "gratuit",
+      "droit"
+    ]
+  },
+  {
+    "id": "QC-17",
+    "nameFr": "LIGNE D’ÉCOUTE D’ESPOIR POUR LE MIEUX-ÊTRE",
+    "nameEn": "HOPE FOR WELLNESS INDIGENOUS 
+HELPLINE",
+    "categoryId": "INDIGENOUS",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-855-242-3310",
+    "smsOrChat": "Clavardage sur espoirpourlemieuxetre.ca",
+    "website": "https://www.espoirpourlemieuxetre.ca",
+    "is247": true,
+    "hasChatOrSms": true,
+    "descFr": "Counseling immédiat et intervention de crise culturellement adaptée pour tous les peuples autochtones (Premières Nations, Inuit, Métis).",
+    "descEn": "Immediate counseling and culturally grounded crisis 
+intervention for all Indigenous peoples (First Nations, Inuit, Métis).",
+    "tags": [
+      "autochtone",
+      "premieres nations",
+      "inuit",
+      "cri",
+      "innu"
+    ]
+  },
+  {
+    "id": "QC-18",
+    "nameFr": "TEL-AIDE MONTÉRÉGIE / SUROÎT (VALLEYFIELD)",
+    "nameEn": "TEL-AIDE MONTÉRÉGIE / SUROÎT",
+    "categoryId": "HEALTH",
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-371-4090",
+    "smsOrChat": "Ligne locale Salaberry-de-Valleyfield / Suroît",
+    "website": "https://www.telaide.org",
+    "is247": true,
+    "hasChatOrSms": false,
+    "descFr": "Écoute active, anonyme et sans jugement pour les résidents de Salaberry-de-Valleyfield, Beauharnois, Vaudreuil-Soulanges et la Montérégie.",
+    "descEn": "Active, anonymous, non-judgmental 
+listening for residents of Salaberry-de-Valleyfield, Beauharnois, Vaudreuil-Soulanges, and Montérégie.",
+    "tags": [
+      "valleyfield",
+      "suroit",
+      "monteregie",
+      "solitude",
+      "ecoute"
+    ]
+  },
+  {
+    "id": "QC-19",
+    "nameFr": "LE TOURNANT — CENTRE DE CRISE (SUROÎT)",
+    "nameEn": "LE TOURNANT — CRISIS CENTER (SUROÎT)",
+    "categoryId": "CRISIS",
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-371-4090",
+    "smsOrChat": "Intervention de crise 24/7 et hébergement",
+    "website": "https://www.letournant.org",
+    "is247": true,
+    "hasChatOrSms": false,
+    "descFr": "Intervention téléphonique, mobile dans le milieu et hébergement temporaire de crise pour adultes dans le secteur du Suroît.",
+    "descEn": "Telephone intervention, mobile outreach, and temporary crisis shelter for adults 
+in the Suroît area.",
+    "tags": [
+      "valleyfield",
+      "crise",
+      "hebergement",
+      "suroit",
+      "mobile"
+    ]
+  },
+  {
+    "id": "QC-20",
+    "nameFr": "TRACOM — CENTRE DE CRISE (MONTRÉAL)",
+    "nameEn": "TRACOM — CRISIS CENTER (MONTREAL)",
+    "categoryId": "CRISIS",
+    "region": "06 - MONTRÉAL",
+    "phone": "514-483-3033",
+    "smsOrChat": "Intervention mobile et hébergement 24/7",
+    "website": "https://www.tracom.ca",
+    "is247": true,
+    "hasChatOrSms": false,
+    "descFr": "Équipe mobile d’intervention de crise dans le milieu, ligne téléphonique 24/7 et lit de crise à Montréal.",
+    "descEn": "Mobile crisis outreach team, 24/7 telephone line, and crisis beds in Montreal.",
+    "tags": [
+      "montreal",
+      "mobile",
+      "crise",
+      "urgence psychiatrique"
+    ]
+  },
+  {
+    "id": "QC-21",
+    "nameFr": "LES PIRATES VERTS — COOPÉRATIVE DE SOLIDARITÉ",
+    "nameEn": "LES PIRATES VERTS — SOLIDARITY COOPERATIVE",
+    "categoryId": "HOUSING",
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-377-1555",
+    "smsOrChat": "Épicerie solidaire, sécurité alimentaire & agriculture urbaine",
+    "website": "https://www.211qc.ca",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme de sécurité alimentaire à Salaberry-de-Valleyfield offrant accès à des aliments frais à coût solidaire, cuisines collectives et entraide citoyenne.",
+    "descEn": "Food security organization in Salaberry-de-Valleyfield offering affordable fresh produce, collective kitchens, and community mutual aid.",
+    "tags": [
+      "pirates verts",
+      "valleyfield",
+      "alimentaire",
+      "epicerie",
+      "suroit"
+    ]
+  },
+  {
+    "id": "QC-22",
+    "nameFr": "SERVICE ALIMENTAIRE COMMUNAUTAIRE (SAC VALLEYFIELD)",
+    "nameEn": "COMMUNITY FOOD SERVICE (SAC VALLEYFIELD)",
+    "categoryId": "HOUSING",
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-371-2332",
+    "smsOrChat": "Dépannage alimentaire & comptoir vestimentaire",
+    "website": "https://www
+.sacvalleyfield.com",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Banque alimentaire principale de Salaberry-de-Valleyfield : distribution de paniers de provisions, dépannage d’urgence et soutien aux familles.",
+    "descEn": "Main food bank in Salaberry-de-Valleyfield: food basket distribution, emergency food relief, and family support.",
+    "tags": [
+      "sac",
+      "banque alimentaire",
+      "valleyfield",
+      "panier",
+      "nourriture"
+    ]
+  },
+  {
+    "id": "QC-23",
+    "nameFr": "ACCUEIL POUR ELLE — MAISON D’HÉBERGEMENT (SUROÎT)",
+    "nameEn": "ACCUEIL POUR ELLE — WOMEN’S SHELTER (SUROÎT)",
+    "categoryId": "VIOLENCE",
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-371-4618",
+    "smsOrChat": "Hébergement sécuritaire & écoute 24/7",
+    "website": "https://www.accueilpourelle.com",
+    "is247": true,
+    "hasChatOrSms": false,
+    "descFr": "Maison d’aide et d’hébergement confidentielle pour femmes et enfants victimes de violence conjugale dans le secteur de Beauharnois-Salaberry.",
+    "descEn": "Confidential shelter and support center for women and children experiencing domestic violence in the Beauharnois-Salaberry area.",
+    "tags": [
+      "valleyfield",
+      "violence",
+      "femme",
+      "hebergement",
+      "suroit"
+    ]
+  },
+  {
+    "id": "QC-24",
+    "nameFr": "PACT DE RUE — TRAVAIL DE MILIEU (BEAUHARNOIS-SALABERRY)",
+    "nameEn": "PACT DE RUE — STREET OUTREACH WORK",
+    "categoryId": "YOUTH",
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-371-3345",
+    "smsOrChat": "Intervention de rue, prévention & réduction des méfaits",
+    "website": "https://www.pactderue.org",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Travailleurs de rue accompagnant les jeunes et adultes en situation de vulnérabilité, d’itinérance ou de consommation à Salaberry-de-Valleyfield.",
+    "descEn": "Street outreach workers supporting youth and adults facing vulnerability, homelessness, or substance use in Salaberry-de-Valleyfield.",
+    "tags": [
+      "travail de rue",
+      "valleyfield",
+      "jeunes",
+      "itinerance",
+      "pact"
+    ]
+  },
+  {
+    "id": "QC-25",
+    "nameFr": "RÉSEAU D’AIDE AUX PERSONNES SEULES ET ITINÉRANTES (RAPSIM)",
+    "nameEn": "HOMELESSNESS & HOUSING ADVOCACY NETWORK (RAPSIM)",
+    "categoryId": "HOUSING",
+    "region": "06 - MONTRÉAL",
+    "phone": "514-879-1949",
+    "smsOrChat": "Défense des droits & orientation refuges",
+    "website": "https://www.rapsim.org",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Regroupement d’organismes communautaires dédiés à la défense des droits des personnes en situation d’itinérance et à l’accès au logement social.",
+    "descEn": "Coalition of community organizations advocating for the rights of unhoused people and access to social housing.",
+    "tags": [
+      "itinerance",
+      "refuge",
+      "droits",
+      "montreal",
+      "logement"
+    ]
+  },
+  {
+    "id": "QC-26",
+    "nameFr": "COMITÉ LOGEMENT VALLEYFIELD",
+    "nameEn": "VALLEYFIELD HOUSING COMMITTEE",
+    "categoryId": "LEGAL",
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-377-3060",
+    "smsOrChat": "Défense des droits des locataires & aide au bail",
+    "website": "https://rclalq.qc.ca",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Information juridique populaire et accompagnement 
+gratuit pour les locataires (hausse de loyer, reprise de logement, réparations et dossiers TAL).",
+    "descEn": "Grassroots legal information and free support for tenants (rent increases, evictions, repairs, and TAL filings).",
+    "tags": [
+      "locataire",
+      "loyer",
+      "bail",
+      "valleyfield",
+      "tal",
+      "droits"
+    ]
+  },
+  {
+    "id": "QC-27",
+    "nameFr": "CENTRE D’ACTION BÉNÉVOLE DE VALLEYFIELD",
+    "nameEn": "VALLEYFIELD VOLUNTEER ACTION CENTER",
+    "categoryId": "SENIORS",
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-373-2111",
+    "smsOrChat": "Popote roulante, accompagnement-transport & impôts",
+    "website": "https://www.cabvalleyfield.com",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Maintien à domicile, popote roulante, transport médical bénévole et cliniques d’impôts pour 
+personnes à faible revenu et aînés du secteur.",
+    "descEn": "Home support, meals-on-wheels, volunteer medical transport, and tax clinics for low-income residents and seniors.",
+    "tags": [
+      "popote roulante",
+      "transport",
+      "aines",
+      "benevole",
+      "valleyfield"
+    ]
+  },
+  {
+    "id": "QC-28",
+    "nameFr": "MOISSON SUD-OUEST 
+— BANQUE ALIMENTAIRE RÉGIONALE",
+    "nameEn": "MOISSON SUD-OUEST — REGIONAL FOOD BANK",
+    "categoryId": "HOUSING",
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-377-7696",
+    "smsOrChat": "Approvisionnement alimentaire & récupération",
+    "website": "https://www.moissonsudouest.org",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Principale banque alimentaire desservant les 
+organismes communautaires du Suroît, de Vaudreuil-Soulanges et du Haut-Saint-Laurent.",
+    "descEn": "Primary regional food bank supplying community organizations across Suroît, Vaudreuil-Soulanges, and Haut-Saint-Laurent.",
+    "tags": [
+      "moisson",
+      "banque alimentaire",
+      "suroit",
+      "valleyfield",
+      "faim"
+    ]
+  },
+  {
+    "id": "QC-29",
+    "nameFr": "MAISON D’HÉBERGEMENT DÉPANNAGE DE VALLEYFIELD (MHDV)",
+    "nameEn": "VALLEYFIELD EMERGENCY SHELTER (MHDV)",
+    "categoryId": "HOUSING",
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-371-9617",
+    "smsOrChat": "Refuge d’urgence 24/7 & réinsertion (67 rue Wilfrid / 79 rue du Zouave)",
+    "website": "https://mhdv.org",
+    "is247": true,
+    "hasChatOrSms": false,
+    "descFr": "Refuge d’urgence sans-abri, accueil de jour, hébergement temporaire pour 
+hommes, femmes et familles du Suroît et accompagnement psychosocial.",
+    "descEn": "Emergency homeless shelter, day center, temporary housing for men, women, and families in Suroît, plus psychosocial support.",
+    "tags": [
+      "refuge",
+      "shelter",
+      "itinerance",
+      "sans-abri",
+      "valleyfield",
+      "mhdv"
+    ]
+  },
+  {
+    "id": "QC-30",
+    "nameFr": "MISSION OLD BREWERY — REFUGE & SOUTIEN ITINÉRANCE",
+    "nameEn": "OLD BREWERY MISSION — EMERGENCY SHELTER",
+    "categoryId": "HOUSING",
+    "region": "06 - MONTRÉAL",
+    "phone": "514-798-2244",
+    "smsOrChat": "Urgence hébergement hommes & femmes 24/7 (915 rue Clark)",
+    "website": "https://www.missionoldbrewery.ca",
+    "is247": true,
+    "hasChatOrSms": false,
+    "descFr": "Plus grand refuge 
+d’urgence au Québec pour hommes et femmes sans-abri : lits d’urgence, repas chauds, soins de santé et transition vers le logement.",
+    "descEn": "Largest emergency shelter in Quebec for unhoused men and women: emergency beds, hot meals, healthcare, and housing transition.",
+    "tags": [
+      "refuge",
+      "shelter",
+      "itinerance",
+      "montreal",
+      "repas",
+      "lit"
+    ]
+  },
+  {
+    "id": "QC-31",
+    "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE MONTRÉAL (CAAM)",
+    "nameEn": "NATIVE FRIENDSHIP CENTRE OF MONTREAL (NFCM)",
+    "categoryId": "INDIGENOUS",
+    "region": "06 - MONTRÉAL",
+    "phone": "514-499-1854",
+    "smsOrChat": "Sans frais: 1-877-499-1854 | Centre de jour & refuge",
+    "website": "https://www.nfcm.org/fr/",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Carrefour de services 
+gratuits pour les Premières Nations, Inuit et Métis en milieu urbain : centre de jour, sécurité alimentaire, santé et logement.",
+    "descEn": "Hub of free services for urban First Nations, Inuit, and Métis: day center, food security, health, and housing navigation.",
+    "tags": [
+      "autochtone",
+      "premieres nations",
+      "inuit",
+      "metis",
+      "refuge",
+      "caam"
+    ]
+  },
+  {
+    "id": "QC-32",
+    "nameFr": "REGROUPEMENT DES CENTRES D’AMITIÉ AUTOCHTONES DU QUÉBEC (RCAAQ)",
+    "nameEn": "QUEBEC NATIVE FRIENDSHIP CENTRES ASSOCIATION (RCAAQ)",
+    "categoryId": "INDIGENOUS",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-877-842-6354",
+    "smsOrChat": "Réseau de 14 centres de services autochtones au Québec",
+    "website": "https://www.rcaaq.info",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Orientation vers les centres d’amitié autochtones partout au Québec (Joliette, Val-d’Or, La Tuque, Québec, Trois-Rivières, Sept-Îles, etc.).",
+    "descEn": "Directory and referral to Native Friendship Centres across Quebec (Joliette, Val-d’Or, La Tuque, Quebec City, Trois-Rivières, Sept-Îles, etc.).",
+    "tags": [
+      "autochtone",
+      "centre amitie",
+      "premieres nations",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-33",
+    "nameFr": "FEMMES AUTOCHTONES DU QUÉBEC (FAQ)",
+    "nameEn": "QUEBEC NATIVE WOMEN (QNW)",
+    "categoryId": "INDIGENOUS",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-363-0322",
+    "smsOrChat": "Défense des droits, justice & soutien communautaire",
+    "website": "https://faq-qnw.org",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Soutien, défense des droits, prévention de la violence et accompagnement juridique et social pour les femmes autochtones 
+et leurs familles.",
+    "descEn": "Support, advocacy, violence prevention, and legal/social guidance for Indigenous women and their families across Quebec.",
+    "tags": [
+      "femmes autochtones",
+      "kahnawake",
+      "droits",
+      "justice",
+      "faq"
+    ]
+  },
+  {
+    "id": "QC-34",
+    "nameFr": "ASRSQ — RÉSEAU DE RÉHABILITATION SOCIALE DU 
+QUÉBEC",
+    "nameEn": "ASRSQ — QUEBEC SOCIAL REHABILITATION NETWORK",
+    "categoryId": "EMPLOYMENT",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "514-521-3733",
+    "smsOrChat": "Répertoire de 60+ maisons de transition & OBNL au Québec",
+    "website": "https://asrsq.ca",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Regroupement provincial des OBNL accompagnant les anciens détenus et personnes judiciarisées : maisons de 
+transition, logement, emploi et droits.",
+    "descEn": "Provincial coalition of non-profits supporting formerly incarcerated individuals: halfway houses, housing, employment, and rights.",
+    "tags": [
+      "detenu",
+      "prison",
+      "transition",
+      "casier judiciaire",
+      "reinsertion",
+      "asrsq"
+    ]
+  },
+  {
+    "id": "QC-35",
+    "nameFr": "RÉHABEX — EMPLOI & RÉINSERTION PERSONNES JUDICIARISÉES",
+    "nameEn": "RÉHABEX — REENTRY & EMPLOYMENT FOR FORMERLY INCARCERATED",
+    "categoryId": "EMPLOYMENT",
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "819-770-6061",
+    "smsOrChat": "Service OBNL 100 % gratuit — emploi & suspension de casier",
+    "website": "https://rehabex.ca",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme sans but lucratif spécialisé dans l’intégration 
+en emploi des ex-détenus, l’aide au retour aux études et la demande de pardon (casier judiciaire).",
+    "descEn": "Non-profit helping formerly incarcerated individuals find employment, return to school, and apply for criminal record suspension (pardon).",
+    "tags": [
+      "detenu",
+      "ex-detenu",
+      "casier",
+      "pardon",
+      "emploi",
+      "obnl",
+      "rehabex"
+    ]
+  },
+  {
+    "id": "QC-36",
+    "nameFr": "CARREFOUR JEUNESSE-EMPLOI BEAUHARNOIS-SALABERRY (OBNL)",
+    "nameEn": "CARREFOUR JEUNESSE-EMPLOI BEAUHARNOIS-SALABERRY (NON-PROFIT)",
+    "categoryId": "EMPLOYMENT",
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-373-6767",
+    "smsOrChat": "100 % gratuit (16-35 ans) — CV, entrevue, retour aux études",
+    "website": "https://cjeb-s.ca",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire gratuit à Valleyfield et Beauharnois pour les 16 à 35 ans : rédaction de CV, préparation d’entrevue, orientation et projets.",
+    "descEn": "Free community non-profit in Valleyfield and Beauharnois for ages 16–35: resume building, interview prep, career guidance, and projects.",
+    "tags": [
+      "emploi",
+      "travail",
+      "cv",
+      "jeunes",
+      "valleyfield",
+      "obnl",
+      "gratuit"
+    ]
+  },
+  {
+    "id": "QC-37",
+    "nameFr": "CRESO — CENTRE-CONSEIL EN EMPLOI (VALLEYFIELD / SUROÎT)",
+    "nameEn": "CRESO — COMMUNITY EMPLOYMENT COUNSELING CENTER",
+    "categoryId": "EMPLOYMENT",
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-377-4889",
+    "smsOrChat": "OBNL gratuit — 
+adultes, nouveaux arrivants & réorientation",
+    "website": "https://www.creso-emploi.ca",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Service communautaire gratuit d’aide à la recherche d’emploi (139 rue Victoria, Valleyfield) : bilan de compétences, CV, subventions salariales et intégration.",
+    "descEn": "Free non-profit job search assistance (139 Victoria St, Valleyfield): skills assessment, resumes, wage subsidies, and newcomer integration.",
+    "tags": [
+      "emploi",
+      "travail",
+      "cv",
+      "creso",
+      "valleyfield",
+      "obnl",
+      "gratuit"
+    ]
+  },
+  {
+    "id": "QC-38",
+    "nameFr": "VISION-TRAVAIL & PS JEUNESSE — EMPLOYABILITÉ (OBNL)",
+    "nameEn": "VISION-TRAVAIL & PS JEUNESSE — NON-PROFIT EMPLOYABILITY",
+    "categoryId": "EMPLOYMENT",
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-371-9533",
+    "smsOrChat": "OBNL gratuit — 40 ans et + (450-371-9533) / PS Jeunesse (450-377-4949)",
+    "website": "https://www.visiontravail.ca",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organismes à but non lucratif de Salaberry-de-Valleyfield offrant du counseling d’emploi gratuit pour les travailleurs expérimentés (40+) et les personnes éloignées du marché du travail.",
+    "descEn": "Salaberry-de-Valleyfield 
+non-profits offering free career counseling for experienced workers (40+) and individuals re-entering the workforce.",
+    "tags": [
+      "emploi",
+      "40 ans",
+      "carriere",
+      "valleyfield",
+      "obnl",
+      "gratuit"
+    ]
+  },
+  {
+    "id": "QC-39",
+    "nameFr": "L’ANONYME — UNITÉ MOBILE & CONSOMMATION SUPERVISÉE",
+    "nameEn": "L’ANONYME — MOBILE UNIT & SUPERVISED CONSUMPTION",
+    "categoryId": "ADDICTION",
+    "region": "06 - MONTRÉAL",
+    "phone": "514-842-1488",
+    "smsOrChat": "Unité mobile SIS (soir/nuit), naloxone & matériel stérile",
+    "website": "https://www.anonyme.ca",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Unité mobile de consommation supervisée, prévention des surdoses, distribution de naloxone et matériel d’injection/inhalation 
+stérile, écoute et référence.",
+    "descEn": "Mobile supervised consumption unit, overdose prevention, naloxone and sterile supply distribution, listening, and referrals.",
+    "tags": [
+      "anonyme",
+      "consommation supervisee",
+      "sis",
+      "surdose",
+      "naloxone",
+      "seringue",
+      "reduction des mefaits"
+    ]
+  },
+  {
+    "id": "QC-40",
+    "nameFr": "CACTUS MONTRÉAL — CENTRE DE CONSOMMATION SUPERVISÉE",
+    "nameEn": "CACTUS MONTRÉAL — SUPERVISED CONSUMPTION SITE",
+    "categoryId": "ADDICTION",
+    "region": "06 - MONTRÉAL",
+    "phone": "514-847-0067",
+    "smsOrChat": "1300 rue Sanguinet — SIS, naloxone & soins infirmiers",
+    "website": "https://cactusmontreal.org",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Service d’injection et d’inhalation supervisée 
+au centre-ville de Montréal : prévention des surdoses, soins infirmiers de base, matériel stérile et soutien psychosocial.",
+    "descEn": "Supervised injection and inhalation site in downtown Montreal: overdose prevention, basic nursing care, sterile supplies, and psychosocial support.",
+    "tags": [
+      "cactus",
+      "consommation supervisee",
+      "sis",
+      "injection",
+      "inhalation",
+      "naloxone",
+      "montreal"
+    ]
+  },
+  {
+    "id": "QC-41",
+    "nameFr": "DOPAMINE — CENTRE DE CONSOMMATION SUPERVISÉE (HOCHELAGA)",
+    "nameEn": "DOPAMINE — SUPERVISED CONSUMPTION SITE (HOCHELAGA)",
+    "categoryId": "ADDICTION",
+    "region": "06 - MONTRÉAL",
+    "phone": "514-251-8872",
+    "smsOrChat": "3591 rue Sainte-Catherine Est — SIS & accompagnement",
+    "website": "https://www.dopamine.ca",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Centre de consommation supervisée dans Hochelaga-Maisonneuve offrant un espace sécuritaire, distribution de naloxone, matériel stérile et aide alimentaire.",
+    "descEn": "Supervised consumption site in Hochelaga-Maisonneuve offering a safe space, naloxone kits, sterile supplies, and food assistance.",
+    "tags": [
+      "dopamine",
+      "consommation supervisee",
+      "sis",
+      "hochelaga",
+      "naloxone",
+      "surdose"
+    ]
+  },
+  {
+    "id": "QC-42",
+    "nameFr": "SPECTRE DE RUE — CONSOMMATION SUPERVISÉE & HALTE",
+    "nameEn": "SPECTRE DE RUE — SUPERVISED CONSUMPTION & DROP-IN",
+    "categoryId": "ADDICTION",
+    "region": "06 - MONTRÉAL",
+    "phone": "514-528-1700",
+    "smsOrChat": "1280 rue Ontario Est — SIS, halte-chaleur & soins",
+    "website": "https://spectrederue.org",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Service de consommation supervisée, halte-accueil, dépistage ITSS, trousses de naloxone et accompagnement pour personnes en situation d’itinérance ou de consommation.",
+    "descEn": "Supervised consumption service, drop-in center, STI testing, naloxone kits, and support for unhoused people or people who use drugs.",
+    "tags": [
+      "spectre de rue",
+      "consommation supervisee",
+      "sis",
+      "naloxone",
+      "itinerance",
+      "montreal"
+    ]
+  },
+  {
+    "id": "QC-43",
+    "nameFr": "POINT DE REPÈRES — CONSOMMATION SUPERVISÉE (QUÉBEC)",
+    "nameEn": "POINT DE REPÈRES — SUPERVISED CONSUMPTION (QUEBEC CITY)",
+    "categoryId": "ADDICTION",
+    "region": "03 - CAPITALE-NATIONALE",
+    "phone": "418-648-8042",
+    "smsOrChat": "SIS fixe & mobile 
+à Québec — naloxone & matériel stérile",
+    "website": "https://www.pointdereperes.com",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire de réduction des méfaits à Québec offrant un site fixe et une unité mobile de consommation supervisée, naloxone et soutien.",
+    "descEn": "Harm reduction community organization in Quebec City offering fixed and mobile supervised consumption services, naloxone, and peer support.",
+    "tags": [
+      "point de reperes",
+      "consommation supervisee",
+      "sis",
+      "quebec",
+      "naloxone",
+      "reduction des mefaits"
+    ]
+  }
+]
