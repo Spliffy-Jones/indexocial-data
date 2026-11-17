@@ -1,9 +1,13 @@
 [
   {
-    "id": "QC-03-HOUSING",
-    "nameFr": "211 QUÉBEC — AIDE AU LOGEMENT & REFUGES D’URGENCE",
-    "nameEn": "211 QUEBEC — HOUSING AID & EMERGENCY SHELTERS",
-    "categoryId": "HOUSING",
+    "id": "QC-01",
+    "nameFr": "211 QUÉBEC — RÉPERTOIRE COMMUNAUTAIRE",
+    "nameEn": "211 QUEBEC — COMMUNITY DIRECTORY",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING",
+      "SENIORS"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "211",
     "smsOrChat": "Clavardage sur 211qc.ca (8h à 18h)",
@@ -25,310 +29,13 @@
     ]
   },
   {
-    "id": "QC-03-STUDENT",
-    "nameFr": "211 QUÉBEC — AIDE ÉTUDIANTE & PERSÉVÉRANCE SCOLAIRE",
-    "nameEn": "211 QUEBEC — STUDENT AID & SCHOOL PERSEVERANCE",
-    "categoryId": "STUDENT",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "211",
-    "smsOrChat": "Clavardage sur 211qc.ca (8h à 18h)",
-    "website": "https://www.211qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": true,
-    "descFr": "Service d’information et de référence vers les banques alimentaires, l’aide au logement, les popotes roulantes, le soutien financier et les organismes locaux.",
-    "descEn": "Information and referral service connecting citizens to food banks, housing aid, meals-on-wheels, financial support, and local community organizations.",
-    "tags": [
-      "211",
-      "banque alimentaire",
-      "logement",
-      "pauvrete",
-      "aide",
-      "repertoire",
-      "communautaire",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-03-LEGAL",
-    "nameFr": "211 QUÉBEC — DROITS, AIDE JURIDIQUE & FINANCES",
-    "nameEn": "211 QUEBEC — LEGAL AID, RIGHTS & FINANCES",
-    "categoryId": "LEGAL",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "211",
-    "smsOrChat": "Clavardage sur 211qc.ca (8h à 18h)",
-    "website": "https://www.211qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": true,
-    "descFr": "Service d’information et de référence vers les banques alimentaires, l’aide au logement, les popotes roulantes, le soutien financier et les organismes locaux.",
-    "descEn": "Information and referral service connecting citizens to food banks, housing aid, meals-on-wheels, financial support, and local community organizations.",
-    "tags": [
-      "211",
-      "banque alimentaire",
-      "logement",
-      "pauvrete",
-      "aide",
-      "repertoire",
-      "communautaire",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-03-EMPLOYMENT",
-    "nameFr": "211 QUÉBEC — EMPLOYABILITÉ & RÉINSERTION",
-    "nameEn": "211 QUEBEC — EMPLOYABILITY & REINTEGRATION",
-    "categoryId": "EMPLOYMENT",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "211",
-    "smsOrChat": "Clavardage sur 211qc.ca (8h à 18h)",
-    "website": "https://www.211qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": true,
-    "descFr": "Service d’information et de référence vers les banques alimentaires, l’aide au logement, les popotes roulantes, le soutien financier et les organismes locaux.",
-    "descEn": "Information and referral service connecting citizens to food banks, housing aid, meals-on-wheels, financial support, and local community organizations.",
-    "tags": [
-      "211",
-      "banque alimentaire",
-      "logement",
-      "pauvrete",
-      "aide",
-      "repertoire",
-      "communautaire",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-03-LGBTQ",
-    "nameFr": "211 QUÉBEC — ORIENTATION COMMUNAUTÉ LGBTQ+",
-    "nameEn": "211 QUEBEC — LGBTQ+ COMMUNITY REFERRALS",
-    "categoryId": "LGBTQ",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "211",
-    "smsOrChat": "Clavardage sur 211qc.ca (8h à 18h)",
-    "website": "https://www.211qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": true,
-    "descFr": "Service d’information et de référence vers les banques alimentaires, l’aide au logement, les popotes roulantes, le soutien financier et les organismes locaux.",
-    "descEn": "Information and referral service connecting citizens to food banks, housing aid, meals-on-wheels, financial support, and local community organizations.",
-    "tags": [
-      "211",
-      "banque alimentaire",
-      "logement",
-      "pauvrete",
-      "aide",
-      "repertoire",
-      "communautaire",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-03-CRISIS",
-    "nameFr": "211 QUÉBEC — ORIENTATION CRISE & URGENCES SOCIALES",
-    "nameEn": "211 QUEBEC — CRISIS & SOCIAL EMERGENCY REFERRALS",
-    "categoryId": "CRISIS",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "211",
-    "smsOrChat": "Clavardage sur 211qc.ca (8h à 18h)",
-    "website": "https://www.211qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": true,
-    "descFr": "Service d’information et de référence vers les banques alimentaires, l’aide au logement, les popotes roulantes, le soutien financier et les organismes locaux.",
-    "descEn": "Information and referral service connecting citizens to food banks, housing aid, meals-on-wheels, financial support, and local community organizations.",
-    "tags": [
-      "211",
-      "banque alimentaire",
-      "logement",
-      "pauvrete",
-      "aide",
-      "repertoire",
-      "communautaire",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-03-ADDICTION",
-    "nameFr": "211 QUÉBEC — ORIENTATION DÉPENDANCES & RÉDUCTION DES MÉFAITS",
-    "nameEn": "211 QUEBEC — ADDICTION & HARM REDUCTION REFERRALS",
-    "categoryId": "ADDICTION",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "211",
-    "smsOrChat": "Clavardage sur 211qc.ca (8h à 18h)",
-    "website": "https://www.211qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": true,
-    "descFr": "Service d’information et de référence vers les banques alimentaires, l’aide au logement, les popotes roulantes, le soutien financier et les organismes locaux.",
-    "descEn": "Information and referral service connecting citizens to food banks, housing aid, meals-on-wheels, financial support, and local community organizations.",
-    "tags": [
-      "211",
-      "banque alimentaire",
-      "logement",
-      "pauvrete",
-      "aide",
-      "repertoire",
-      "communautaire",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-03-HEALTH",
-    "nameFr": "211 QUÉBEC — ORIENTATION SANTÉ & SOUTIEN PSYCHOSOCIAL",
-    "nameEn": "211 QUEBEC — HEALTH & PSYCHOSOCIAL SUPPORT REFERRALS",
-    "categoryId": "HEALTH",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "211",
-    "smsOrChat": "Clavardage sur 211qc.ca (8h à 18h)",
-    "website": "https://www.211qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": true,
-    "descFr": "Service d’information et de référence vers les banques alimentaires, l’aide au logement, les popotes roulantes, le soutien financier et les organismes locaux.",
-    "descEn": "Information and referral service connecting citizens to food banks, housing aid, meals-on-wheels, financial support, and local community organizations.",
-    "tags": [
-      "211",
-      "banque alimentaire",
-      "logement",
-      "pauvrete",
-      "aide",
-      "repertoire",
-      "communautaire",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-03-VIOLENCE",
-    "nameFr": "211 QUÉBEC — ORIENTATION VIOLENCE & HÉBERGEMENT",
-    "nameEn": "211 QUEBEC — VIOLENCE & SHELTER REFERRALS",
-    "categoryId": "VIOLENCE",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "211",
-    "smsOrChat": "Clavardage sur 211qc.ca (8h à 18h)",
-    "website": "https://www.211qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": true,
-    "descFr": "Service d’information et de référence vers les banques alimentaires, l’aide au logement, les popotes roulantes, le soutien financier et les organismes locaux.",
-    "descEn": "Information and referral service connecting citizens to food banks, housing aid, meals-on-wheels, financial support, and local community organizations.",
-    "tags": [
-      "211",
-      "banque alimentaire",
-      "logement",
-      "pauvrete",
-      "aide",
-      "repertoire",
-      "communautaire",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-03",
-    "nameFr": "211 QUÉBEC — RÉPERTOIRE COMMUNAUTAIRE (ALIMENTATION)",
-    "nameEn": "211 QUEBEC — COMMUNITY DIRECTORY (FOOD AID)",
-    "categoryId": "FOOD",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "211",
-    "smsOrChat": "Clavardage sur 211qc.ca (8h à 18h)",
-    "website": "https://www.211qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": true,
-    "descFr": "Service d’information et de référence vers les banques alimentaires, l’aide au logement, les popotes roulantes, le soutien financier et les organismes locaux.",
-    "descEn": "Information and referral service connecting citizens to food banks, housing aid, meals-on-wheels, financial support, and local community organizations.",
-    "tags": [
-      "211",
-      "banque alimentaire",
-      "logement",
-      "pauvrete",
-      "aide",
-      "repertoire",
-      "communautaire",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-03-INDIGENOUS",
-    "nameFr": "211 QUÉBEC — RESSOURCES COMMUNAUTÉS AUTOCHTONES",
-    "nameEn": "211 QUEBEC — INDIGENOUS COMMUNITY RESOURCES",
-    "categoryId": "INDIGENOUS",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "211",
-    "smsOrChat": "Clavardage sur 211qc.ca (8h à 18h)",
-    "website": "https://www.211qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": true,
-    "descFr": "Service d’information et de référence vers les banques alimentaires, l’aide au logement, les popotes roulantes, le soutien financier et les organismes locaux.",
-    "descEn": "Information and referral service connecting citizens to food banks, housing aid, meals-on-wheels, financial support, and local community organizations.",
-    "tags": [
-      "211",
-      "banque alimentaire",
-      "logement",
-      "pauvrete",
-      "aide",
-      "repertoire",
-      "communautaire",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-03-YOUTH",
-    "nameFr": "211 QUÉBEC — RESSOURCES JEUNESSE & FAMILLE",
-    "nameEn": "211 QUEBEC — YOUTH & FAMILY RESOURCES",
-    "categoryId": "YOUTH",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "211",
-    "smsOrChat": "Clavardage sur 211qc.ca (8h à 18h)",
-    "website": "https://www.211qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": true,
-    "descFr": "Service d’information et de référence vers les banques alimentaires, l’aide au logement, les popotes roulantes, le soutien financier et les organismes locaux.",
-    "descEn": "Information and referral service connecting citizens to food banks, housing aid, meals-on-wheels, financial support, and local community organizations.",
-    "tags": [
-      "211",
-      "banque alimentaire",
-      "logement",
-      "pauvrete",
-      "aide",
-      "repertoire",
-      "communautaire",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-03-SENIORS",
-    "nameFr": "211 QUÉBEC — SOUTIEN AUX AÎNÉS & PROCHES AIDANTS",
-    "nameEn": "211 QUEBEC — SENIORS & CAREGIVER SUPPORT",
-    "categoryId": "SENIORS",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "211",
-    "smsOrChat": "Clavardage sur 211qc.ca (8h à 18h)",
-    "website": "https://www.211qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": true,
-    "descFr": "Service d’information et de référence vers les banques alimentaires, l’aide au logement, les popotes roulantes, le soutien financier et les organismes locaux.",
-    "descEn": "Information and referral service connecting citizens to food banks, housing aid, meals-on-wheels, financial support, and local community organizations.",
-    "tags": [
-      "211",
-      "banque alimentaire",
-      "logement",
-      "pauvrete",
-      "aide",
-      "repertoire",
-      "communautaire",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-88",
+    "id": "QC-02",
     "nameFr": "À CŒUR D’HOMME — AIDE AUX HOMMES (VIOLENCE CONJUGALE)",
     "nameEn": "À CŒUR D’HOMME — MEN’S DOMESTIC VIOLENCE INTERVENTION",
-    "categoryId": "VIOLENCE",
+    "categoryIds": [
+      "VIOLENCE",
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-877-660-7799",
     "smsOrChat": "Référence vers 32 organismes spécialisés au Québec",
@@ -349,10 +56,13 @@
     ]
   },
   {
-    "id": "QC-175",
+    "id": "QC-03",
     "nameFr": "ACADEMOS — MENTORAT VIRTUEL ET ORIENTATION SCOLAIRE",
     "nameEn": "ACADEMOS — FREE VIRTUAL CAREER MENTORING FOR STUDENTS",
-    "categoryId": "STUDENT",
+    "categoryIds": [
+      "STUDENT",
+      "EMPLOYMENT"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "514-332-3006",
     "smsOrChat": "Application gratuite de mentorat pour les 14-30 ans",
@@ -373,10 +83,14 @@
     ]
   },
   {
-    "id": "QC-126",
+    "id": "QC-04",
     "nameFr": "ACCUEIL BONNEAU — SOUTIEN À L’ITINÉRANCE",
     "nameEn": "ACCUEIL BONNEAU — HOMELESSNESS SUPPORT SERVICES",
-    "categoryId": "HOUSING",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD",
+      "HEALTH"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-845-3906",
     "smsOrChat": "Repas quotidiens, vestiaire, soins et hébergement",
@@ -397,10 +111,13 @@
     ]
   },
   {
-    "id": "QC-22",
+    "id": "QC-05",
     "nameFr": "ACCUEIL POUR ELLE — MAISON D’HÉBERGEMENT (SUROÎT)",
     "nameEn": "ACCUEIL POUR ELLE — WOMEN’S SHELTER (SUROÎT)",
-    "categoryId": "VIOLENCE",
+    "categoryIds": [
+      "VIOLENCE",
+      "HOUSING"
+    ],
     "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
     "phone": "450-371-4618",
     "smsOrChat": "Hébergement sécuritaire et écoute 24/7",
@@ -421,10 +138,14 @@
     ]
   },
   {
-    "id": "QC-08",
+    "id": "QC-06",
     "nameFr": "AIDE AUX TRANS DU QUÉBEC (ATQ)",
     "nameEn": "AIDE AUX TRANS DU QUÉBEC (ATQ)",
-    "categoryId": "LGBTQ",
+    "categoryIds": [
+      "LGBTQ",
+      "LEGAL",
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-855-909-9038",
     "smsOrChat": "Clavardage et courriel d’entraide",
@@ -445,10 +166,13 @@
     ]
   },
   {
-    "id": "QC-170",
+    "id": "QC-07",
     "nameFr": "AIDE FINANCIÈRE AUX ÉTUDES (AFE — PRÊTS ET BOURSES)",
     "nameEn": "STUDENT FINANCIAL ASSISTANCE (AFE — LOANS & BURSARIES)",
-    "categoryId": "STUDENT",
+    "categoryIds": [
+      "STUDENT",
+      "LEGAL"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-877-643-3750",
     "smsOrChat": "Renseignements prêts, bourses et remboursement différé",
@@ -470,10 +194,12 @@
     ]
   },
   {
-    "id": "QC-57",
+    "id": "QC-08",
     "nameFr": "ALCOOLIQUES ANONYMES DU QUÉBEC (AA)",
     "nameEn": "ALCOHOLICS ANONYMOUS QUEBEC (AA)",
-    "categoryId": "ADDICTION",
+    "categoryIds": [
+      "ADDICTION"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-877-790-2526",
     "smsOrChat": "Ligne d’aide 24/7 et répertoire des réunions",
@@ -495,10 +221,13 @@
     ]
   },
   {
-    "id": "QC-169",
+    "id": "QC-09",
     "nameFr": "ALLOPROF — AIDE AUX DEVOIRS ET SOUTIEN SCOLAIRE GRATUIT",
     "nameEn": "ALLOPROF — FREE HOMEWORK HELP & ACADEMIC SUPPORT",
-    "categoryId": "STUDENT",
+    "categoryIds": [
+      "STUDENT",
+      "YOUTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-888-776-4455",
     "smsOrChat": "Clavardage, forums et texto avec des enseignants",
@@ -520,10 +249,12 @@
     ]
   },
   {
-    "id": "QC-59",
+    "id": "QC-10",
     "nameFr": "AMI-QUÉBEC — AGIR CONTRE LA MALADIE MENTALE",
     "nameEn": "AMI-QUEBEC — ACTION ON MENTAL ILLNESS",
-    "categoryId": "HEALTH",
+    "categoryIds": [
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-877-303-0264",
     "smsOrChat": "Soutien bilingue (EN/FR), groupes et ateliers",
@@ -544,10 +275,13 @@
     ]
   },
   {
-    "id": "QC-50",
+    "id": "QC-11",
     "nameFr": "ANEB QUÉBEC (ANOREXIE ET BOULIMIE QUÉBEC)",
     "nameEn": "ANEB QUEBEC (EATING DISORDERS SUPPORT)",
-    "categoryId": "HEALTH",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-800-630-0907",
     "smsOrChat": "SMS : 1-800-630-0907 | Clavardage sur anebquebec.com",
@@ -568,10 +302,13 @@
     ]
   },
   {
-    "id": "QC-141",
+    "id": "QC-12",
     "nameFr": "AQDR — DÉFENSE DES DROITS DES PERSONNES RETRAITÉES",
     "nameEn": "AQDR — RETIRED & SENIOR CITIZENS’ RIGHTS ASSOCIATION",
-    "categoryId": "SENIORS",
+    "categoryIds": [
+      "SENIORS",
+      "LEGAL"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "514-935-1551",
     "smsOrChat": "Défense des droits économiques et sociaux des aînés",
@@ -592,10 +329,13 @@
     ]
   },
   {
-    "id": "QC-148",
+    "id": "QC-13",
     "nameFr": "AQEPA — ASSOCIATION DU QUÉBEC POUR ENFANTS AVEC PROBLÈMES AUDITIFS",
     "nameEn": "AQEPA — QUEBEC ASSOCIATION FOR CHILDREN WITH HEARING LOSS",
-    "categoryId": "HEALTH",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "514-842-8706",
     "smsOrChat": "Soutien familial, information et défense des droits",
@@ -616,10 +356,14 @@
     ]
   },
   {
-    "id": "QC-33",
+    "id": "QC-14",
     "nameFr": "ASRSQ — RÉSEAU DE RÉHABILITATION SOCIALE DU QUÉBEC",
     "nameEn": "ASRSQ — QUEBEC SOCIAL REHABILITATION NETWORK",
-    "categoryId": "EMPLOYMENT",
+    "categoryIds": [
+      "EMPLOYMENT",
+      "HOUSING",
+      "LEGAL"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "514-521-3733",
     "smsOrChat": "Répertoire de 60+ maisons de transition et OBNL",
@@ -640,10 +384,12 @@
     ]
   },
   {
-    "id": "QC-92",
+    "id": "QC-15",
     "nameFr": "ASSOCIATION QUÉBÉCOISE DE LA DOULEUR CHRONIQUE (AQDC)",
     "nameEn": "QUEBEC CHRONIC PAIN ASSOCIATION (AQDC)",
-    "categoryId": "HEALTH",
+    "categoryIds": [
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-855-368-5387",
     "smsOrChat": "Ligne d’écoute et groupes d’entraide en ligne",
@@ -664,10 +410,12 @@
     ]
   },
   {
-    "id": "QC-146",
+    "id": "QC-16",
     "nameFr": "ASSOCIATION QUÉBÉCOISE DE LA FIBROMYALGIE (AQF)",
     "nameEn": "QUEBEC FIBROMYALGIA ASSOCIATION (AQF)",
-    "categoryId": "HEALTH",
+    "categoryIds": [
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-877-736-3061",
     "smsOrChat": "Orientation vers les associations régionales",
@@ -688,10 +436,12 @@
     ]
   },
   {
-    "id": "QC-85",
+    "id": "QC-17",
     "nameFr": "ASSOCIATION QUÉBÉCOISE DE PRÉVENTION DU SUICIDE (AQPS)",
     "nameEn": "QUEBEC ASSOCIATION FOR SUICIDE PREVENTION (AQPS)",
-    "categoryId": "CRISIS",
+    "categoryIds": [
+      "CRISIS"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "418-614-5909",
     "smsOrChat": "Répertoire des centres de crise et outils sur suicide.ca",
@@ -711,10 +461,13 @@
     ]
   },
   {
-    "id": "QC-138",
+    "id": "QC-18",
     "nameFr": "AU BAS DE L’ÉCHELLE — DÉFENSE DES TRAVAILLEURS NON SYNDIQUÉS",
     "nameEn": "AU BAS DE L’ÉCHELLE — NON-UNIONIZED WORKERS’ RIGHTS",
-    "categoryId": "LEGAL",
+    "categoryIds": [
+      "LEGAL",
+      "EMPLOYMENT"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "514-270-7878",
     "smsOrChat": "Ligne d’information gratuite sur les normes du travail",
@@ -735,10 +488,13 @@
     ]
   },
   {
-    "id": "QC-52",
+    "id": "QC-19",
     "nameFr": "AU CŒUR DES FAMILLES AGRICOLES (ACFA — TRAVAILLEURS DE RANG)",
     "nameEn": "AU CŒUR DES FAMILLES AGRICOLES (FARMING STRESS & CRISIS)",
-    "categoryId": "CRISIS",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "450-768-6995",
     "smsOrChat": "Ligne d’écoute et travailleurs de rang au Québec",
@@ -759,10 +515,12 @@
     ]
   },
   {
-    "id": "QC-160",
+    "id": "QC-20",
     "nameFr": "BOUFFE-ACTION DE ROSEMONT (SÉCURITÉ ALIMENTAIRE)",
     "nameEn": "BOUFFE-ACTION DE ROSEMONT (FOOD SECURITY)",
-    "categoryId": "FOOD",
+    "categoryIds": [
+      "FOOD"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-523-2460",
     "smsOrChat": "Dépannage alimentaire, cuisines collectives et marchés",
@@ -782,10 +540,13 @@
     ]
   },
   {
-    "id": "QC-39",
+    "id": "QC-21",
     "nameFr": "CACTUS MONTRÉAL — CENTRE DE CONSOMMATION SUPERVISÉE",
     "nameEn": "CACTUS MONTRÉAL — SUPERVISED CONSUMPTION SITE",
-    "categoryId": "ADDICTION",
+    "categoryIds": [
+      "ADDICTION",
+      "HEALTH"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-847-0067",
     "smsOrChat": "SIS, naloxone et soins infirmiers",
@@ -807,19 +568,22 @@
     ]
   },
   {
-    "id": "QC-131",
+    "id": "QC-22",
     "nameFr": "CALACS LA BÔME (VIOLENCE SEXUELLE — GASPÉSIE)",
     "nameEn": "CALACS LA BÔME — SEXUAL ASSAULT CENTER (GASPÉSIE)",
-    "categoryId": "VIOLENCE",
+    "categoryIds": [
+      "VIOLENCE",
+      "LEGAL"
+    ],
     "region": "11 - GASPÉSIE–ÎLES-DE-LA-MADELEINE",
     "phone": "418-368-1166",
-    "smsOrChat": "Écoute, accompagnement médical et judiciaire",
+    "smsOrChat": "Écoute, soutien et accompagnement judiciaire",
     "website": "https://www.calacslabome.com",
     "address": "Gaspé, QC",
     "is247": false,
     "hasChatOrSms": false,
-    "descFr": "Soutien confidentiel, écoute, groupes d’entraide et accompagnement médical ou judiciaire pour les femmes victimes d’agression sexuelle en Gaspésie.",
-    "descEn": "Confidential support, listening, peer groups, and medical or legal accompaniment for women who have experienced sexual assault in Gaspésie.",
+    "descFr": "Soutien confidentiel, écoute, groupes d’entraide et accompagnement dans les démarches policières ou judiciaires pour les femmes victimes d’agression sexuelle en Gaspésie.",
+    "descEn": "Confidential support, listening, peer groups, and accompaniment through police or legal proceedings for women who have experienced sexual assault in Gaspésie.",
     "tags": [
       "calacs",
       "gaspesie",
@@ -830,10 +594,13 @@
     ]
   },
   {
-    "id": "QC-110",
+    "id": "QC-23",
     "nameFr": "CAP SAINT-BARNABÉ — COMPTOIR ALIMENTAIRE & REPAS (HOCHELAGA)",
     "nameEn": "CAP SAINT-BARNABÉ — FOOD PANTRY & HOT MEALS",
-    "categoryId": "FOOD",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-521-0467",
     "smsOrChat": "Comptoir alimentaire et repas chauds (Est de Montréal)",
@@ -853,10 +620,12 @@
     ]
   },
   {
-    "id": "QC-51",
+    "id": "QC-24",
     "nameFr": "CAP SANTÉ MENTALE (SOUTIEN AUX PROCHES)",
     "nameEn": "CAP SANTÉ MENTALE (FAMILY & CAREGIVER MENTAL HEALTH)",
-    "categoryId": "HEALTH",
+    "categoryIds": [
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-855-272-7837",
     "smsOrChat": "Réseau de 50+ associations membres au Québec",
@@ -877,10 +646,12 @@
     ]
   },
   {
-    "id": "QC-161",
+    "id": "QC-25",
     "nameFr": "CARREFOUR ALIMENTAIRE CENTRE-SUD (BANQUE ALIMENTAIRE)",
     "nameEn": "CARREFOUR ALIMENTAIRE CENTRE-SUD (FOOD BANK & MARKETS)",
-    "categoryId": "FOOD",
+    "categoryIds": [
+      "FOOD"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-525-6611",
     "smsOrChat": "Banque alimentaire, marchés solidaires et cuisines",
@@ -900,10 +671,14 @@
     ]
   },
   {
-    "id": "QC-35",
+    "id": "QC-26",
     "nameFr": "CARREFOUR JEUNESSE-EMPLOI BEAUHARNOIS-SALABERRY (OBNL)",
     "nameEn": "CARREFOUR JEUNESSE-EMPLOI BEAUHARNOIS-SALABERRY (NON-PROFIT)",
-    "categoryId": "EMPLOYMENT",
+    "categoryIds": [
+      "EMPLOYMENT",
+      "YOUTH",
+      "STUDENT"
+    ],
     "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
     "phone": "450-373-6767",
     "smsOrChat": "Gratuit (16-35 ans) — CV, entrevue et orientation",
@@ -925,10 +700,14 @@
     ]
   },
   {
-    "id": "QC-122",
+    "id": "QC-27",
     "nameFr": "CARREFOUR JEUNESSE-EMPLOI VAUDREUIL-SOULANGES (OBNL)",
     "nameEn": "CARREFOUR JEUNESSE-EMPLOI VAUDREUIL-SOULANGES (NON-PROFIT)",
-    "categoryId": "EMPLOYMENT",
+    "categoryIds": [
+      "EMPLOYMENT",
+      "YOUTH",
+      "STUDENT"
+    ],
     "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
     "phone": "450-455-3185",
     "smsOrChat": "Aide gratuite emploi et études (16-35 ans)",
@@ -950,10 +729,13 @@
     ]
   },
   {
-    "id": "QC-14",
+    "id": "QC-28",
     "nameFr": "CAVAC — AIDE AUX VICTIMES D’ACTES CRIMINELS",
     "nameEn": "CAVAC — CRIME VICTIMS ASSISTANCE",
-    "categoryId": "LEGAL",
+    "categoryIds": [
+      "LEGAL",
+      "VIOLENCE"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-866-532-2822",
     "smsOrChat": "18 centres régionaux au Québec",
@@ -975,10 +757,13 @@
     ]
   },
   {
-    "id": "QC-176",
+    "id": "QC-29",
     "nameFr": "CÉGEP DE VALLEYFIELD — SERVICES PSYCHOSOCIAUX & AIDE ÉTUDIANTE",
     "nameEn": "CÉGEP DE VALLEYFIELD — STUDENT PSYCHOSOCIAL & FINANCIAL AID",
-    "categoryId": "STUDENT",
+    "categoryIds": [
+      "STUDENT",
+      "HEALTH"
+    ],
     "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
     "phone": "450-373-9441",
     "smsOrChat": "Consultation psychosociale, aide financière et services adaptés",
@@ -998,10 +783,13 @@
     ]
   },
   {
-    "id": "QC-96",
+    "id": "QC-30",
     "nameFr": "CENTRE ANTIPOISON DU QUÉBEC (CAPQ)",
     "nameEn": "QUEBEC POISON CONTROL CENTRE (CAPQ)",
-    "categoryId": "CRISIS",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-800-463-5060",
     "smsOrChat": "Urgence toxicologique 24/7 partout au Québec",
@@ -1022,10 +810,13 @@
     ]
   },
   {
-    "id": "QC-113",
+    "id": "QC-31",
     "nameFr": "CENTRE COMMUNAUTAIRE BÉNÉVOLE DE SAINT-LAURENT (ALIMENTATION)",
     "nameEn": "SAINT-LAURENT VOLUNTEER COMMUNITY CENTER (FOOD BANK)",
-    "categoryId": "FOOD",
+    "categoryIds": [
+      "FOOD",
+      "SENIORS"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-744-5511",
     "smsOrChat": "Banque alimentaire, dépannage et popote roulante",
@@ -1045,10 +836,13 @@
     ]
   },
   {
-    "id": "QC-105",
+    "id": "QC-32",
     "nameFr": "CENTRE DE BÉNÉVOLAT ET MOISSON LAVAL (AIDE ALIMENTAIRE)",
     "nameEn": "LAVAL VOLUNTEER CENTER & FOOD BANK",
-    "categoryId": "FOOD",
+    "categoryIds": [
+      "FOOD",
+      "SENIORS"
+    ],
     "region": "13 - LAVAL",
     "phone": "450-681-6164",
     "smsOrChat": "Dépannage alimentaire d’urgence et paniers à Laval",
@@ -1068,10 +862,14 @@
     ]
   },
   {
-    "id": "QC-64",
+    "id": "QC-33",
     "nameFr": "CENTRE DE CRISE DE L’OUTAOUAIS (AIDE-CRISE)",
     "nameEn": "OUTAOUAIS CRISIS CENTER",
-    "categoryId": "CRISIS",
+    "categoryIds": [
+      "CRISIS",
+      "HOUSING",
+      "HEALTH"
+    ],
     "region": "07 - OUTAOUAIS",
     "phone": "819-595-9999",
     "smsOrChat": "Intervention téléphonique, mobile et lits de crise 24/7",
@@ -1091,10 +889,14 @@
     ]
   },
   {
-    "id": "QC-81",
+    "id": "QC-34",
     "nameFr": "CENTRE DE CRISE ET DE PRÉVENTION DU SUICIDE CHAUDIÈRE-APPALACHES",
     "nameEn": "CHAUDIÈRE-APPALACHES CRISIS & SUICIDE PREVENTION CENTER",
-    "categoryId": "CRISIS",
+    "categoryIds": [
+      "CRISIS",
+      "HOUSING",
+      "HEALTH"
+    ],
     "region": "12 - CHAUDIÈRE-APPALACHES",
     "phone": "418-837-1113",
     "smsOrChat": "Ligne 24/7, équipe mobile et lits de crise (Lévis)",
@@ -1114,10 +916,14 @@
     ]
   },
   {
-    "id": "QC-60",
+    "id": "QC-35",
     "nameFr": "CENTRE DE CRISE L’AUTRE MAISON (MONTRÉAL SUD-OUEST)",
     "nameEn": "L’AUTRE MAISON CRISIS CENTER (SOUTHWEST MONTREAL)",
-    "categoryId": "CRISIS",
+    "categoryIds": [
+      "CRISIS",
+      "HOUSING",
+      "HEALTH"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-768-7225",
     "smsOrChat": "Intervention téléphonique 24/7 et hébergement de crise",
@@ -1137,10 +943,13 @@
     ]
   },
   {
-    "id": "QC-65",
+    "id": "QC-36",
     "nameFr": "CENTRE DE PRÉVENTION DU SUICIDE 02 (SAGUENAY–LAC-SAINT-JEAN)",
     "nameEn": "SUICIDE PREVENTION CENTER 02 (SAGUENAY–LAC-SAINT-JEAN)",
-    "categoryId": "CRISIS",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
     "region": "02 - SAGUENAY–LAC-SAINT-JEAN",
     "phone": "418-545-1919",
     "smsOrChat": "Intervention d’urgence 24/7 et suivi dans le milieu",
@@ -1160,10 +969,13 @@
     ]
   },
   {
-    "id": "QC-63",
+    "id": "QC-37",
     "nameFr": "CENTRE DE PRÉVENTION DU SUICIDE ACCALMIE (MAURICIE)",
     "nameEn": "ACCALMIE SUICIDE PREVENTION CENTER (MAURICIE)",
-    "categoryId": "CRISIS",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
     "region": "04 - MAURICIE ET CENTRE-DU-QUÉBEC",
     "phone": "819-376-7000",
     "smsOrChat": "Intervention de crise 24/7 et suivi en Mauricie",
@@ -1183,10 +995,13 @@
     ]
   },
   {
-    "id": "QC-61",
+    "id": "QC-38",
     "nameFr": "CENTRE DE PRÉVENTION DU SUICIDE DE QUÉBEC (CPSQ)",
     "nameEn": "QUEBEC CITY SUICIDE PREVENTION CENTER (CPSQ)",
-    "categoryId": "CRISIS",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
     "region": "03 - CAPITALE-NATIONALE",
     "phone": "418-683-4588",
     "smsOrChat": "Urgence 24/7 (1-866-277-3553) et suivi postvention",
@@ -1194,8 +1009,8 @@
     "address": "8180, boulevard Pierre-Bertrand, Québec, QC",
     "is247": true,
     "hasChatOrSms": false,
-    "descFr": "Intervention de crise 24/7, hébergement temporaire de crise, soutien aux proches inquiets et groupes de deuil suite à un suicide dans la région de Québec.",
-    "descEn": "24/7 crisis intervention, temporary crisis beds, support for worried loved ones, and suicide bereavement groups in the Quebec City region.",
+    "descFr": "Intervention de crise téléphonique 24/7, suivi psychosocial, soutien aux proches inquiets et groupes de deuil suite à un suicide dans la région de Québec.",
+    "descEn": "24/7 telephone crisis intervention, psychosocial follow-up, support for worried loved ones, and suicide bereavement groups in the Quebec City region.",
     "tags": [
       "suicide",
       "crise",
@@ -1206,10 +1021,13 @@
     ]
   },
   {
-    "id": "QC-74",
+    "id": "QC-39",
     "nameFr": "CENTRE DE PRÉVENTION DU SUICIDE DU HAUT-RICHELIEU",
     "nameEn": "HAUT-RICHELIEU SUICIDE PREVENTION CENTER",
-    "categoryId": "CRISIS",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
     "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
     "phone": "450-348-6300",
     "smsOrChat": "Intervention 24/7, suivi de crise et soutien deuil",
@@ -1229,10 +1047,14 @@
     ]
   },
   {
-    "id": "QC-79",
+    "id": "QC-40",
     "nameFr": "CENTRE DE PRÉVENTION DU SUICIDE ET D’INTERVENTION DE CRISE DU BSL",
     "nameEn": "BAS-SAINT-LAURENT CRISIS & SUICIDE PREVENTION CENTER",
-    "categoryId": "CRISIS",
+    "categoryIds": [
+      "CRISIS",
+      "HOUSING",
+      "HEALTH"
+    ],
     "region": "01 - BAS-SAINT-LAURENT",
     "phone": "418-724-4633",
     "smsOrChat": "Intervention 24/7 et hébergement de crise (Rimouski)",
@@ -1252,10 +1074,13 @@
     ]
   },
   {
-    "id": "QC-45",
+    "id": "QC-41",
     "nameFr": "CENTRE DE SANTÉ ET DE SERVICES SOCIAUX DE KANESATAKE",
     "nameEn": "KANESATAKE HEALTH CENTER",
-    "categoryId": "INDIGENOUS",
+    "categoryIds": [
+      "INDIGENOUS",
+      "HEALTH"
+    ],
     "region": "15 - LAURENTIDES",
     "phone": "450-479-8373",
     "smsOrChat": "Services de santé et soutien social communautaire",
@@ -1275,10 +1100,13 @@
     ]
   },
   {
-    "id": "QC-26",
+    "id": "QC-42",
     "nameFr": "CENTRE D’ACTION BÉNÉVOLE DE VALLEYFIELD",
     "nameEn": "VALLEYFIELD VOLUNTEER ACTION CENTER",
-    "categoryId": "SENIORS",
+    "categoryIds": [
+      "SENIORS",
+      "FOOD"
+    ],
     "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
     "phone": "450-373-2111",
     "smsOrChat": "Popote roulante, transport médical et impôts",
@@ -1299,10 +1127,13 @@
     ]
   },
   {
-    "id": "QC-70",
+    "id": "QC-43",
     "nameFr": "CENTRE D’ACTION BÉNÉVOLE DU GRAND CHÂTEAUGUAY",
     "nameEn": "GREATER CHÂTEAUGUAY VOLUNTEER ACTION CENTER",
-    "categoryId": "SENIORS",
+    "categoryIds": [
+      "SENIORS",
+      "FOOD"
+    ],
     "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
     "phone": "450-699-6289",
     "smsOrChat": "Popote roulante, transport médical et soutien aux aînés",
@@ -1323,10 +1154,13 @@
     ]
   },
   {
-    "id": "QC-182",
+    "id": "QC-44",
     "nameFr": "CENTRE D’AIDE AUX ÉTUDIANTS DE L’UNIVERSITÉ LAVAL (QUÉBEC)",
     "nameEn": "UNIVERSITÉ LAVAL STUDENT COUNSELING CENTER (QUEBEC CITY)",
-    "categoryId": "STUDENT",
+    "categoryIds": [
+      "STUDENT",
+      "HEALTH"
+    ],
     "region": "03 - CAPITALE-NATIONALE",
     "phone": "418-656-7987",
     "smsOrChat": "Consultation psychologique, réussite et services adaptés",
@@ -1346,10 +1180,15 @@
     ]
   },
   {
-    "id": "QC-83",
+    "id": "QC-45",
     "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE CHIBOUGAMAU (EENOU)",
     "nameEn": "CHIBOUGAMAU EENOU FRIENDSHIP CENTRE",
-    "categoryId": "INDIGENOUS",
+    "categoryIds": [
+      "INDIGENOUS",
+      "HOUSING",
+      "FOOD",
+      "HEALTH"
+    ],
     "region": "10 - NORD-DU-QUÉBEC",
     "phone": "418-748-7667",
     "smsOrChat": "Services culturels, hébergement, santé et alimentation",
@@ -1369,10 +1208,13 @@
     ]
   },
   {
-    "id": "QC-132",
+    "id": "QC-46",
     "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE GASPÉ (GESPEG)",
     "nameEn": "GASPÉ NATIVE FRIENDSHIP CENTRE (GESPEG)",
-    "categoryId": "INDIGENOUS",
+    "categoryIds": [
+      "INDIGENOUS",
+      "HEALTH"
+    ],
     "region": "11 - GASPÉSIE–ÎLES-DE-LA-MADELEINE",
     "phone": "418-368-6005",
     "smsOrChat": "Services communautaires, santé et soutien culturel",
@@ -1392,10 +1234,14 @@
     ]
   },
   {
-    "id": "QC-167",
+    "id": "QC-47",
     "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE JOLIETTE",
     "nameEn": "JOLIETTE NATIVE FRIENDSHIP CENTRE",
-    "categoryId": "INDIGENOUS",
+    "categoryIds": [
+      "INDIGENOUS",
+      "HEALTH",
+      "FOOD"
+    ],
     "region": "14 - LANAUDIÈRE",
     "phone": "450-760-3865",
     "smsOrChat": "Soutien culturel, santé, jeunesse et entraide",
@@ -1415,10 +1261,15 @@
     ]
   },
   {
-    "id": "QC-166",
+    "id": "QC-48",
     "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE LA TUQUE",
     "nameEn": "LA TUQUE NATIVE FRIENDSHIP CENTRE",
-    "categoryId": "INDIGENOUS",
+    "categoryIds": [
+      "INDIGENOUS",
+      "HOUSING",
+      "FOOD",
+      "HEALTH"
+    ],
     "region": "04 - MAURICIE ET CENTRE-DU-QUÉBEC",
     "phone": "819-523-6121",
     "smsOrChat": "Services communautaires, hébergement et santé",
@@ -1438,10 +1289,15 @@
     ]
   },
   {
-    "id": "QC-30",
+    "id": "QC-49",
     "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE MONTRÉAL (CAAM)",
     "nameEn": "NATIVE FRIENDSHIP CENTRE OF MONTREAL (NFCM)",
-    "categoryId": "INDIGENOUS",
+    "categoryIds": [
+      "INDIGENOUS",
+      "FOOD",
+      "HOUSING",
+      "HEALTH"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-499-1854",
     "smsOrChat": "Sans frais: 1-877-499-1854 | Centre de jour",
@@ -1462,10 +1318,14 @@
     ]
   },
   {
-    "id": "QC-168",
+    "id": "QC-50",
     "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE SEPT-ÎLES",
     "nameEn": "SEPT-ÎLES NATIVE FRIENDSHIP CENTRE",
-    "categoryId": "INDIGENOUS",
+    "categoryIds": [
+      "INDIGENOUS",
+      "HEALTH",
+      "FOOD"
+    ],
     "region": "09 - CÔTE-NORD",
     "phone": "418-968-4424",
     "smsOrChat": "Accueil, santé, sécurité alimentaire et soutien",
@@ -1485,10 +1345,15 @@
     ]
   },
   {
-    "id": "QC-165",
+    "id": "QC-51",
     "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE VAL-D’OR",
     "nameEn": "VAL-D’OR NATIVE FRIENDSHIP CENTRE",
-    "categoryId": "INDIGENOUS",
+    "categoryIds": [
+      "INDIGENOUS",
+      "HEALTH",
+      "HOUSING",
+      "YOUTH"
+    ],
     "region": "08 - ABITIBI-TÉMISCAMINGUE",
     "phone": "819-825-6857",
     "smsOrChat": "Clinique santé, hébergement, jeunesse et soutien",
@@ -1509,10 +1374,15 @@
     ]
   },
   {
-    "id": "QC-133",
+    "id": "QC-52",
     "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DU SAGUENAY (CHICOUTIMI)",
     "nameEn": "SAGUENAY NATIVE FRIENDSHIP CENTRE",
-    "categoryId": "INDIGENOUS",
+    "categoryIds": [
+      "INDIGENOUS",
+      "FOOD",
+      "HOUSING",
+      "HEALTH"
+    ],
     "region": "02 - SAGUENAY–LAC-SAINT-JEAN",
     "phone": "418-543-4444",
     "smsOrChat": "Services gratuits santé, alimentation et logement",
@@ -1532,10 +1402,12 @@
     ]
   },
   {
-    "id": "QC-139",
+    "id": "QC-53",
     "nameFr": "CENTRES DE JUSTICE DE PROXIMITÉ DU QUÉBEC (CJP)",
     "nameEn": "COMMUNITY JUSTICE CENTRES OF QUEBEC (CJP)",
-    "categoryId": "LEGAL",
+    "categoryIds": [
+      "LEGAL"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-844-587-8423",
     "smsOrChat": "Rencontres gratuites d’information juridique",
@@ -1557,10 +1429,14 @@
     ]
   },
   {
-    "id": "QC-69",
+    "id": "QC-54",
     "nameFr": "CHEZ DORIS — REFUGE DE JOUR ET DE NUIT POUR FEMMES",
     "nameEn": "CHEZ DORIS — WOMEN’S DAY & NIGHT SHELTER",
-    "categoryId": "VIOLENCE",
+    "categoryIds": [
+      "VIOLENCE",
+      "HOUSING",
+      "FOOD"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-937-2341",
     "smsOrChat": "Refuge 24/7, repas, vêtements et soins pour femmes",
@@ -1581,10 +1457,13 @@
     ]
   },
   {
-    "id": "QC-179",
+    "id": "QC-55",
     "nameFr": "CLINIQUE D’INFORMATION JURIDIQUE À MCGILL",
     "nameEn": "LEGAL INFORMATION CLINIC AT MCGILL",
-    "categoryId": "LEGAL",
+    "categoryIds": [
+      "LEGAL",
+      "STUDENT"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-398-6792",
     "smsOrChat": "Information juridique bilingue (FR/EN) et représentation étudiante",
@@ -1605,10 +1484,13 @@
     ]
   },
   {
-    "id": "QC-178",
+    "id": "QC-56",
     "nameFr": "CLINIQUE JURIDIQUE DE L’UNIVERSITÉ DE MONTRÉAL",
     "nameEn": "UNIVERSITÉ DE MONTRÉAL LEGAL CLINIC",
-    "categoryId": "LEGAL",
+    "categoryIds": [
+      "LEGAL",
+      "STUDENT"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-343-7851",
     "smsOrChat": "Information juridique gratuite (baux, petites créances, travail)",
@@ -1629,10 +1511,13 @@
     ]
   },
   {
-    "id": "QC-177",
+    "id": "QC-57",
     "nameFr": "CLINIQUE JURIDIQUE DE L’UQAM (INFORMATION JURIDIQUE GRATUITE)",
     "nameEn": "UQAM LEGAL CLINIC (FREE LEGAL INFORMATION)",
-    "categoryId": "LEGAL",
+    "categoryIds": [
+      "LEGAL",
+      "STUDENT"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-987-6760",
     "smsOrChat": "Consultation juridique gratuite (logement, travail, famille)",
@@ -1653,10 +1538,13 @@
     ]
   },
   {
-    "id": "QC-54",
+    "id": "QC-58",
     "nameFr": "CNESST — NORMES DU TRAVAIL, SANTÉ ET SÉCURITÉ",
     "nameEn": "CNESST — LABOUR STANDARDS & WORKPLACE SAFETY",
-    "categoryId": "LEGAL",
+    "categoryIds": [
+      "LEGAL",
+      "EMPLOYMENT"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-844-838-0808",
     "smsOrChat": "Renseignements sur les droits au travail et recours",
@@ -1678,10 +1566,13 @@
     ]
   },
   {
-    "id": "QC-25",
+    "id": "QC-59",
     "nameFr": "COMITÉ LOGEMENT VALLEYFIELD",
     "nameEn": "VALLEYFIELD HOUSING COMMITTEE",
-    "categoryId": "HOUSING",
+    "categoryIds": [
+      "HOUSING",
+      "LEGAL"
+    ],
     "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
     "phone": "450-377-3060",
     "smsOrChat": "Défense des droits des locataires et aide au bail",
@@ -1703,10 +1594,13 @@
     ]
   },
   {
-    "id": "QC-151",
+    "id": "QC-60",
     "nameFr": "COMMISSION DES DROITS DE LA PERSONNE ET DE LA JEUNESSE (CDPDJ)",
     "nameEn": "QUEBEC HUMAN RIGHTS & YOUTH RIGHTS COMMISSION (CDPDJ)",
-    "categoryId": "LEGAL",
+    "categoryIds": [
+      "LEGAL",
+      "YOUTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-800-361-6477",
     "smsOrChat": "Plaintes pour discrimination, harcèlement ou exploitation",
@@ -1727,10 +1621,12 @@
     ]
   },
   {
-    "id": "QC-16",
+    "id": "QC-61",
     "nameFr": "COMMISSION DES SERVICES JURIDIQUES (AIDE JURIDIQUE)",
     "nameEn": "LEGAL AID QUEBEC (CSJ)",
-    "categoryId": "LEGAL",
+    "categoryIds": [
+      "LEGAL"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "514-873-3562",
     "smsOrChat": "Bureaux régionaux partout au Québec",
@@ -1752,10 +1648,12 @@
     ]
   },
   {
-    "id": "QC-36",
+    "id": "QC-62",
     "nameFr": "CRESO — CENTRE-CONSEIL EN EMPLOI (VALLEYFIELD / SUROÎT)",
     "nameEn": "CRESO — COMMUNITY EMPLOYMENT COUNSELING CENTER",
-    "categoryId": "EMPLOYMENT",
+    "categoryIds": [
+      "EMPLOYMENT"
+    ],
     "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
     "phone": "450-377-4889",
     "smsOrChat": "OBNL gratuit — adultes, nouveaux arrivants et emploi",
@@ -1777,10 +1675,13 @@
     ]
   },
   {
-    "id": "QC-152",
+    "id": "QC-63",
     "nameFr": "CURATEUR PUBLIC DU QUÉBEC (PROTECTION DES PERSONNES INAPTES)",
     "nameEn": "PUBLIC CURATOR OF QUEBEC (PROTECTION OF INCAPACITATED PERSONS)",
-    "categoryId": "LEGAL",
+    "categoryIds": [
+      "LEGAL",
+      "SENIORS"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-844-532-8728",
     "smsOrChat": "Tutelle, mandat de protection et signalement d’abus",
@@ -1801,10 +1702,15 @@
     ]
   },
   {
-    "id": "QC-124",
+    "id": "QC-64",
     "nameFr": "DANS LA RUE (LE BON DIEU DANS LA RUE)",
     "nameEn": "DANS LA RUE — HOMELESS YOUTH SUPPORT",
-    "categoryId": "YOUTH",
+    "categoryIds": [
+      "YOUTH",
+      "HOUSING",
+      "FOOD",
+      "STUDENT"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-526-5222",
     "smsOrChat": "Roulotte de nuit, refuge d’urgence et centre de jour",
@@ -1825,10 +1731,13 @@
     ]
   },
   {
-    "id": "QC-84",
+    "id": "QC-65",
     "nameFr": "DEUIL-JEUNESSE — SOUTIEN AU DEUIL ET À LA MALADIE GRAVE",
     "nameEn": "DEUIL-JEUNESSE — YOUTH & FAMILY GRIEF SUPPORT",
-    "categoryId": "HEALTH",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-855-889-3666",
     "smsOrChat": "Consultation individuelle, familiale et groupes",
@@ -1849,10 +1758,14 @@
     ]
   },
   {
-    "id": "QC-40",
+    "id": "QC-66",
     "nameFr": "DOPAMINE — CENTRE DE CONSOMMATION SUPERVISÉE (HOCHELAGA)",
     "nameEn": "DOPAMINE — SUPERVISED CONSUMPTION SITE (HOCHELAGA)",
-    "categoryId": "ADDICTION",
+    "categoryIds": [
+      "ADDICTION",
+      "FOOD",
+      "HEALTH"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-251-8872",
     "smsOrChat": "SIS et accompagnement communautaire",
@@ -1873,10 +1786,13 @@
     ]
   },
   {
-    "id": "QC-11",
+    "id": "QC-67",
     "nameFr": "DROGUE : AIDE ET RÉFÉRENCE (DAR)",
     "nameEn": "DRUGS: HELP AND REFERRAL",
-    "categoryId": "ADDICTION",
+    "categoryIds": [
+      "ADDICTION",
+      "CRISIS"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-800-265-2626",
     "smsOrChat": "Clavardage 24/7 sur aidedrogue.ca",
@@ -1897,10 +1813,12 @@
     ]
   },
   {
-    "id": "QC-55",
+    "id": "QC-68",
     "nameFr": "ÉDUCALOI — INFORMATION JURIDIQUE CITOYENNE",
     "nameEn": "ÉDUCALOI — PLAIN-LANGUAGE LEGAL INFORMATION",
-    "categoryId": "LEGAL",
+    "categoryIds": [
+      "LEGAL"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "514-954-3408",
     "smsOrChat": "Guides juridiques gratuits en ligne sur educaloi.qc.ca",
@@ -1922,10 +1840,13 @@
     ]
   },
   {
-    "id": "QC-157",
+    "id": "QC-69",
     "nameFr": "EN MARGE 12-17 — HÉBERGEMENT & TRAVAIL DE RUE JEUNESSE",
     "nameEn": "EN MARGE 12-17 — YOUTH SHELTER & STREET OUTREACH",
-    "categoryId": "YOUTH",
+    "categoryIds": [
+      "YOUTH",
+      "HOUSING"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-525-6664",
     "smsOrChat": "Hébergement d’urgence 24/7 et travail de rue (12-17 ans)",
@@ -1946,10 +1867,13 @@
     ]
   },
   {
-    "id": "QC-172",
+    "id": "QC-70",
     "nameFr": "FÉDÉRATION ÉTUDIANTE COLLÉGIALE DU QUÉBEC (FECQ)",
     "nameEn": "QUEBEC FEDERATION OF COLLEGE STUDENTS (FECQ)",
-    "categoryId": "STUDENT",
+    "categoryIds": [
+      "STUDENT",
+      "LEGAL"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "514-396-3320",
     "smsOrChat": "Défense des droits des étudiants des cégeps",
@@ -1970,10 +1894,14 @@
     ]
   },
   {
-    "id": "QC-91",
+    "id": "QC-71",
     "nameFr": "FÉDÉRATION QUÉBÉCOISE DE L’AUTISME (FQA)",
     "nameEn": "QUEBEC FEDERATION OF AUTISM (FQA)",
-    "categoryId": "HEALTH",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH",
+      "LEGAL"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-888-830-2833",
     "smsOrChat": "Orientation vers les associations régionales et droits",
@@ -1994,10 +1922,13 @@
     ]
   },
   {
-    "id": "QC-90",
+    "id": "QC-72",
     "nameFr": "FÉDÉRATION QUÉBÉCOISE DES SOCIÉTÉS ALZHEIMER",
     "nameEn": "FEDERATION OF QUEBEC ALZHEIMER SOCIETIES",
-    "categoryId": "SENIORS",
+    "categoryIds": [
+      "SENIORS",
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-888-636-6473",
     "smsOrChat": "Information, groupes de soutien et répit",
@@ -2018,10 +1949,14 @@
     ]
   },
   {
-    "id": "QC-32",
+    "id": "QC-73",
     "nameFr": "FEMMES AUTOCHTONES DU QUÉBEC (FAQ)",
     "nameEn": "QUEBEC NATIVE WOMEN (QNW)",
-    "categoryId": "INDIGENOUS",
+    "categoryIds": [
+      "INDIGENOUS",
+      "VIOLENCE",
+      "LEGAL"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-800-363-0322",
     "smsOrChat": "Défense des droits et soutien communautaire",
@@ -2042,10 +1977,12 @@
     ]
   },
   {
-    "id": "QC-135",
+    "id": "QC-74",
     "nameFr": "FIN À LA FAIM — BANQUE ALIMENTAIRE (REPENTIGNY / LANAUDIÈRE)",
     "nameEn": "FIN À LA FAIM — FOOD BANK (REPENTIGNY / LANAUDIÈRE)",
-    "categoryId": "FOOD",
+    "categoryIds": [
+      "FOOD"
+    ],
     "region": "14 - LANAUDIÈRE",
     "phone": "450-582-4633",
     "smsOrChat": "Paniers alimentaires hebdomadaires et dépannage",
@@ -2065,10 +2002,14 @@
     ]
   },
   {
-    "id": "QC-174",
+    "id": "QC-75",
     "nameFr": "FONDATION JEUNES EN TÊTE — SANTÉ MENTALE ÉTUDIANTE",
     "nameEn": "FONDATION JEUNES EN TÊTE — YOUTH MENTAL HEALTH",
-    "categoryId": "STUDENT",
+    "categoryIds": [
+      "STUDENT",
+      "HEALTH",
+      "YOUTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "514-529-1000",
     "smsOrChat": "Trousses gratuites et ateliers de prévention (11-18 ans)",
@@ -2089,10 +2030,13 @@
     ]
   },
   {
-    "id": "QC-137",
+    "id": "QC-76",
     "nameFr": "FRAPRU — FRONT D’ACTION POPULAIRE EN RÉAMÉNAGEMENT URBAIN",
     "nameEn": "FRAPRU — SOCIAL HOUSING ADVOCACY COALITION",
-    "categoryId": "HOUSING",
+    "categoryIds": [
+      "HOUSING",
+      "LEGAL"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "514-522-1010",
     "smsOrChat": "Défense du droit au logement social au Québec",
@@ -2113,10 +2057,13 @@
     ]
   },
   {
-    "id": "QC-130",
+    "id": "QC-77",
     "nameFr": "HAVRE L’ÉCLAIRCIE — HÉBERGEMENT VIOLENCE CONJUGALE (BEAUCE)",
     "nameEn": "HAVRE L’ÉCLAIRCIE — WOMEN’S SHELTER (BEAUCE)",
-    "categoryId": "VIOLENCE",
+    "categoryIds": [
+      "VIOLENCE",
+      "HOUSING"
+    ],
     "region": "12 - CHAUDIÈRE-APPALACHES",
     "phone": "418-227-1025",
     "smsOrChat": "Hébergement sécuritaire 24/7 et écoute (Beauce-Etchemins)",
@@ -2136,10 +2083,13 @@
     ]
   },
   {
-    "id": "QC-10",
+    "id": "QC-78",
     "nameFr": "INFO-AIDANT (L’APPUI PROCHES AIDANTS)",
     "nameEn": "INFO-AIDANT (CAREGIVER SUPPORT)",
-    "categoryId": "SENIORS",
+    "categoryIds": [
+      "SENIORS",
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-855-852-7784",
     "smsOrChat": "Courriel: info-aidant@lappui.org",
@@ -2160,10 +2110,13 @@
     ]
   },
   {
-    "id": "QC-13",
+    "id": "QC-79",
     "nameFr": "INFO-AIDE VIOLENCE SEXUELLE (CALACS)",
     "nameEn": "SEXUAL VIOLENCE HELPLINE (CALACS)",
-    "categoryId": "VIOLENCE",
+    "categoryIds": [
+      "VIOLENCE",
+      "CRISIS"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-888-933-9007",
     "smsOrChat": "Clavardage sur infoaideviolencesexuelle.ca",
@@ -2183,10 +2136,12 @@
     ]
   },
   {
-    "id": "QC-95",
+    "id": "QC-80",
     "nameFr": "INFO-SANTÉ 811 (OPTION 1 — SOINS INFIRMIERS)",
     "nameEn": "INFO-SANTÉ 811 (OPTION 1 — NURSING CONSULTATION)",
-    "categoryId": "HEALTH",
+    "categoryIds": [
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "811",
     "smsOrChat": "Option 1 — Infirmières disponibles 24/7",
@@ -2207,10 +2162,13 @@
     ]
   },
   {
-    "id": "QC-01",
+    "id": "QC-81",
     "nameFr": "INFO-SOCIAL 811 (OPTION 2)",
     "nameEn": "INFO-SOCIAL 811 (OPTION 2)",
-    "categoryId": "HEALTH",
+    "categoryIds": [
+      "HEALTH",
+      "CRISIS"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "811",
     "smsOrChat": "Option 2 — Intervenants psychosociaux (24/7)",
@@ -2233,10 +2191,12 @@
     ]
   },
   {
-    "id": "QC-147",
+    "id": "QC-82",
     "nameFr": "INSTITUT NAZARETH ET LOUIS-BRAILLE (DÉFICIENCE VISUELLE)",
     "nameEn": "NAZARETH AND LOUIS-BRAILLE INSTITUTE (VISUAL IMPAIRMENT)",
-    "categoryId": "HEALTH",
+    "categoryIds": [
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-800-361-7063",
     "smsOrChat": "Réadaptation, aides techniques et soutien spécialisé",
@@ -2257,10 +2217,14 @@
     ]
   },
   {
-    "id": "QC-07",
+    "id": "QC-83",
     "nameFr": "INTERLIGNE (SOUTIEN LGBTQ+)",
     "nameEn": "INTERLIGNE (LGBTQ+ SUPPORT)",
-    "categoryId": "LGBTQ",
+    "categoryIds": [
+      "LGBTQ",
+      "CRISIS",
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-888-505-1010",
     "smsOrChat": "SMS: 1-888-505-1010 | Clavardage 24/7",
@@ -2282,10 +2246,14 @@
     ]
   },
   {
-    "id": "QC-94",
+    "id": "QC-84",
     "nameFr": "IVAC — INDEMNISATION DES VICTIMES D’ACTES CRIMINELS",
     "nameEn": "IVAC — CRIME VICTIMS COMPENSATION PROGRAM",
-    "categoryId": "LEGAL",
+    "categoryIds": [
+      "LEGAL",
+      "VIOLENCE",
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-800-561-4822",
     "smsOrChat": "Demandes d’aide financière et psychothérapie",
@@ -2306,10 +2274,13 @@
     ]
   },
   {
-    "id": "QC-12",
+    "id": "QC-85",
     "nameFr": "JEU : AIDE ET RÉFÉRENCE",
     "nameEn": "GAMBLING: HELP AND REFERRAL",
-    "categoryId": "ADDICTION",
+    "categoryIds": [
+      "ADDICTION",
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-800-461-0140",
     "smsOrChat": "Clavardage 24/7 sur aidejeu.ca",
@@ -2331,10 +2302,13 @@
     ]
   },
   {
-    "id": "QC-112",
+    "id": "QC-86",
     "nameFr": "JEUNESSE AU SOLEIL (SUN YOUTH) — BANQUE ALIMENTAIRE",
     "nameEn": "SUN YOUTH ORGANIZATION — EMERGENCY FOOD BANK",
-    "categoryId": "FOOD",
+    "categoryIds": [
+      "FOOD",
+      "YOUTH"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-842-6822",
     "smsOrChat": "Paniers alimentaires mensuels, vêtements et aide d’urgence",
@@ -2354,10 +2328,14 @@
     ]
   },
   {
-    "id": "QC-43",
+    "id": "QC-87",
     "nameFr": "JEUNESSE, J’ÉCOUTE (KIDS HELP PHONE)",
     "nameEn": "KIDS HELP PHONE",
-    "categoryId": "YOUTH",
+    "categoryIds": [
+      "YOUTH",
+      "CRISIS",
+      "STUDENT"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-800-668-6868",
     "smsOrChat": "SMS : Texter PARLER au 686868 (24/7)",
@@ -2379,10 +2357,13 @@
     ]
   },
   {
-    "id": "QC-62",
+    "id": "QC-88",
     "nameFr": "JEVI — CENTRE DE PRÉVENTION DU SUICIDE (ESTRIE)",
     "nameEn": "JEVI — SUICIDE PREVENTION CENTER (ESTRIE)",
-    "categoryId": "CRISIS",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
     "region": "05 - ESTRIE",
     "phone": "819-564-1354",
     "smsOrChat": "Intervention 24/7, équipe mobile et soutien en Estrie",
@@ -2402,10 +2383,12 @@
     ]
   },
   {
-    "id": "QC-140",
+    "id": "QC-89",
     "nameFr": "JUSTICE PRO BONO",
     "nameEn": "JUSTICE PRO BONO",
-    "categoryId": "LEGAL",
+    "categoryIds": [
+      "LEGAL"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "514-904-1076",
     "smsOrChat": "Accès bénévole à des avocats pour causes admissibles",
@@ -2426,10 +2409,13 @@
     ]
   },
   {
-    "id": "QC-115",
+    "id": "QC-90",
     "nameFr": "LA CORBEILLE BORDEAUX-CARTIERVILLE (BANQUE & ÉPICERIE SOLIDAIRE)",
     "nameEn": "LA CORBEILLE BORDEAUX-CARTIERVILLE (FOOD BANK & SOLIDARITY GROCERY)",
-    "categoryId": "FOOD",
+    "categoryIds": [
+      "FOOD",
+      "EMPLOYMENT"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-856-3553",
     "smsOrChat": "Banque alimentaire, épicerie solidaire et cuisines collectives",
@@ -2449,10 +2435,13 @@
     ]
   },
   {
-    "id": "QC-71",
+    "id": "QC-91",
     "nameFr": "LA HALTE DU COIN — REFUGE D’URGENCE (LONGUEUIL)",
     "nameEn": "LA HALTE DU COIN — EMERGENCY SHELTER (LONGUEUIL)",
-    "categoryId": "HOUSING",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD"
+    ],
     "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
     "phone": "450-332-4463",
     "smsOrChat": "Refuge d’urgence 24/7, repas et halte-chaleur Rive-Sud",
@@ -2473,10 +2462,13 @@
     ]
   },
   {
-    "id": "QC-67",
+    "id": "QC-92",
     "nameFr": "LA HUTTE — HÉBERGEMENT D’URGENCE TERREBONNE / LANAUDIÈRE",
     "nameEn": "LA HUTTE — EMERGENCY SHELTER TERREBONNE / LANAUDIÈRE",
-    "categoryId": "HOUSING",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD"
+    ],
     "region": "14 - LANAUDIÈRE",
     "phone": "450-471-4664",
     "smsOrChat": "Urgence hébergement 24/7: 450-471-6004",
@@ -2496,10 +2488,13 @@
     ]
   },
   {
-    "id": "QC-156",
+    "id": "QC-93",
     "nameFr": "LA MAISON GRISE DE MONTRÉAL (RÉINSERTION FEMMES)",
     "nameEn": "LA MAISON GRISE — WOMEN’S REINTEGRATION SHELTER",
-    "categoryId": "HOUSING",
+    "categoryIds": [
+      "HOUSING",
+      "VIOLENCE"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-722-0009",
     "smsOrChat": "Hébergement de transition et réinsertion sociale",
@@ -2519,10 +2514,13 @@
     ]
   },
   {
-    "id": "QC-78",
+    "id": "QC-94",
     "nameFr": "LA PIAULE DE VAL-D’OR (REFUGE & ITINÉRANCE)",
     "nameEn": "LA PIAULE DE VAL-D’OR (EMERGENCY SHELTER)",
-    "categoryId": "HOUSING",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD"
+    ],
     "region": "08 - ABITIBI-TÉMISCAMINGUE",
     "phone": "819-824-8884",
     "smsOrChat": "Refuge d’urgence 24/7 et soupe populaire",
@@ -2543,10 +2541,12 @@
     ]
   },
   {
-    "id": "QC-77",
+    "id": "QC-95",
     "nameFr": "LA SOURCE D’ENTRAIDE (SAINT-LAZARE / VAUDREUIL-SOULANGES)",
     "nameEn": "LA SOURCE D’ENTRAIDE (SAINT-LAZARE / VAUDREUIL-SOULANGES)",
-    "categoryId": "FOOD",
+    "categoryIds": [
+      "FOOD"
+    ],
     "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
     "phone": "450-455-1200",
     "smsOrChat": "Dépannage alimentaire, friperie et aide d’urgence",
@@ -2567,10 +2567,13 @@
     ]
   },
   {
-    "id": "QC-183",
+    "id": "QC-96",
     "nameFr": "LA TABLE DU PAIN — DÉPANNAGE ALIMENTAIRE UNIVERSITÉ LAVAL",
     "nameEn": "LA TABLE DU PAIN — UNIVERSITÉ LAVAL STUDENT FOOD BANK",
-    "categoryId": "FOOD",
+    "categoryIds": [
+      "FOOD",
+      "STUDENT"
+    ],
     "region": "03 - CAPITALE-NATIONALE",
     "phone": "418-656-2765",
     "smsOrChat": "Paniers alimentaires et dépannage pour étudiants à Québec",
@@ -2590,10 +2593,13 @@
     ]
   },
   {
-    "id": "QC-125",
+    "id": "QC-97",
     "nameFr": "LE CHAÎNON — MAISON D’HÉBERGEMENT POUR FEMMES",
     "nameEn": "LE CHAÎNON — WOMEN’S EMERGENCY & TRANSITIONAL SHELTER",
-    "categoryId": "HOUSING",
+    "categoryIds": [
+      "HOUSING",
+      "VIOLENCE"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-845-0151",
     "smsOrChat": "Accueil et hébergement d’urgence 24/7 pour femmes",
@@ -2614,10 +2620,13 @@
     ]
   },
   {
-    "id": "QC-109",
+    "id": "QC-98",
     "nameFr": "LE CHIC RESTO POP — ALIMENTATION COMMUNAUTAIRE (HOCHELAGA)",
     "nameEn": "LE CHIC RESTO POP — COMMUNITY RESTAURANT & FOOD AID",
-    "categoryId": "FOOD",
+    "categoryIds": [
+      "FOOD",
+      "EMPLOYMENT"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-521-4089",
     "smsOrChat": "Repas à prix modique, livraison et dépannage alimentaire",
@@ -2637,10 +2646,12 @@
     ]
   },
   {
-    "id": "QC-106",
+    "id": "QC-99",
     "nameFr": "LE DÉPÔT — CENTRE COMMUNAUTAIRE D’ALIMENTATION (NDG)",
     "nameEn": "THE DEPOT COMMUNITY FOOD CENTRE (NDG)",
-    "categoryId": "FOOD",
+    "categoryIds": [
+      "FOOD"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-483-4680",
     "smsOrChat": "Marché d’aide alimentaire et repas communautaires (NDG)",
@@ -2660,10 +2671,13 @@
     ]
   },
   {
-    "id": "QC-128",
+    "id": "QC-100",
     "nameFr": "LE GÎTE AMI — REFUGE D’URGENCE (GATINEAU)",
     "nameEn": "LE GÎTE AMI — EMERGENCY SHELTER (GATINEAU)",
-    "categoryId": "HOUSING",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD"
+    ],
     "region": "07 - OUTAOUAIS",
     "phone": "819-771-6070",
     "smsOrChat": "Refuge d’urgence 24/7, soupe populaire et centre de jour",
@@ -2684,19 +2698,22 @@
     ]
   },
   {
-    "id": "QC-80",
+    "id": "QC-101",
     "nameFr": "LE MURMURE — CALACS DU BAS-SAINT-LAURENT (RIMOUSKI)",
     "nameEn": "LE MURMURE — SEXUAL ASSAULT CENTER (RIMOUSKI)",
-    "categoryId": "VIOLENCE",
+    "categoryIds": [
+      "VIOLENCE",
+      "LEGAL"
+    ],
     "region": "01 - BAS-SAINT-LAURENT",
     "phone": "418-723-3939",
-    "smsOrChat": "Écoute, accompagnement médical et judiciaire",
+    "smsOrChat": "Écoute, soutien et accompagnement judiciaire",
     "website": "https://www.calacslemurmure.com",
     "address": "Rimouski, QC",
     "is247": false,
     "hasChatOrSms": false,
-    "descFr": "Aide, écoute confidentielle, groupes de soutien et accompagnement médical ou judiciaire pour les femmes victimes d’agression sexuelle.",
-    "descEn": "Confidential listening, support groups, and medical or legal accompaniment for women who have experienced sexual assault.",
+    "descFr": "Aide, écoute confidentielle, groupes de soutien et accompagnement dans les démarches policières ou judiciaires pour les femmes victimes d’agression sexuelle.",
+    "descEn": "Confidential listening, support groups, and accompaniment through police or legal proceedings for women who have experienced sexual assault.",
     "tags": [
       "calacs",
       "agression",
@@ -2707,10 +2724,13 @@
     ]
   },
   {
-    "id": "QC-121",
+    "id": "QC-102",
     "nameFr": "LE PONT — MAISON D’HÉBERGEMENT POUR FEMMES (VAUDREUIL-SOULANGES)",
     "nameEn": "LE PONT — WOMEN’S SHELTER (VAUDREUIL-SOULANGES)",
-    "categoryId": "VIOLENCE",
+    "categoryIds": [
+      "VIOLENCE",
+      "HOUSING"
+    ],
     "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
     "phone": "450-455-7371",
     "smsOrChat": "Hébergement sécuritaire 24/7 et écoute",
@@ -2731,10 +2751,12 @@
     ]
   },
   {
-    "id": "QC-108",
+    "id": "QC-103",
     "nameFr": "LE SNAC — BANQUE ALIMENTAIRE D’AHUNTSIC",
     "nameEn": "LE SNAC — AHUNTSIC COMMUNITY FOOD BANK",
-    "categoryId": "FOOD",
+    "categoryIds": [
+      "FOOD"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-385-6499",
     "smsOrChat": "Paniers alimentaires mensuels et dîners communautaires",
@@ -2754,10 +2776,14 @@
     ]
   },
   {
-    "id": "QC-19",
+    "id": "QC-104",
     "nameFr": "LE TOURNANT — CENTRE DE CRISE (SUROÎT)",
     "nameEn": "LE TOURNANT — CRISIS CENTER (SUROÎT)",
-    "categoryId": "CRISIS",
+    "categoryIds": [
+      "CRISIS",
+      "HOUSING",
+      "HEALTH"
+    ],
     "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
     "phone": "450-371-2820",
     "smsOrChat": "Intervention de crise 24/7 et hébergement",
@@ -2778,10 +2804,13 @@
     ]
   },
   {
-    "id": "QC-82",
+    "id": "QC-105",
     "nameFr": "LE TREMPLIN — REFUGE D’URGENCE ET ITINÉRANCE (LÉVIS)",
     "nameEn": "LE TREMPLIN — EMERGENCY SHELTER (LÉVIS)",
-    "categoryId": "HOUSING",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD"
+    ],
     "region": "12 - CHAUDIÈRE-APPALACHES",
     "phone": "418-835-1005",
     "smsOrChat": "Refuge d’urgence 24/7, halte de jour et logement",
@@ -2801,10 +2830,13 @@
     ]
   },
   {
-    "id": "QC-75",
+    "id": "QC-106",
     "nameFr": "LE VIRAGE — RÉADAPTATION EN DÉPENDANCE (MONTÉRÉGIE)",
     "nameEn": "LE VIRAGE — ADDICTION REHABILITATION (MONTÉRÉGIE)",
-    "categoryId": "ADDICTION",
+    "categoryIds": [
+      "ADDICTION",
+      "HEALTH"
+    ],
     "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
     "phone": "450-371-3011",
     "smsOrChat": "Services publics gratuits (alcool, drogues, jeu)",
@@ -2826,10 +2858,12 @@
     ]
   },
   {
-    "id": "QC-98",
+    "id": "QC-107",
     "nameFr": "LES BANQUES ALIMENTAIRES DU QUÉBEC (BAQ)",
     "nameEn": "FOOD BANKS OF QUEBEC (BAQ)",
-    "categoryId": "FOOD",
+    "categoryIds": [
+      "FOOD"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "514-344-0789",
     "smsOrChat": "Réseau de 32 banques alimentaires Moisson au Québec",
@@ -2850,10 +2884,12 @@
     ]
   },
   {
-    "id": "QC-144",
+    "id": "QC-108",
     "nameFr": "LES IMPATIENTS — ART-THÉRAPIE ET SANTÉ MENTALE",
     "nameEn": "LES IMPATIENTS — ART THERAPY & MENTAL HEALTH",
-    "categoryId": "HEALTH",
+    "categoryIds": [
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "514-842-1043",
     "smsOrChat": "Ateliers d’expression artistique gratuits au Québec",
@@ -2874,10 +2910,13 @@
     ]
   },
   {
-    "id": "QC-143",
+    "id": "QC-109",
     "nameFr": "LES PETITS FRÈRES — ACCOMPAGNEMENT DES AÎNÉS ISOLÉS",
     "nameEn": "LES PETITS FRÈRES — ISOLATED SENIORS COMPANIONSHIP",
-    "categoryId": "SENIORS",
+    "categoryIds": [
+      "SENIORS",
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-866-627-8653",
     "smsOrChat": "Jumelage amical et soutien jusqu’en fin de vie",
@@ -2898,10 +2937,14 @@
     ]
   },
   {
-    "id": "QC-09",
+    "id": "QC-110",
     "nameFr": "LIGNE AIDE ABUS AÎNÉS",
     "nameEn": "ELDER MISTREATMENT HELPLINE",
-    "categoryId": "SENIORS",
+    "categoryIds": [
+      "SENIORS",
+      "VIOLENCE",
+      "LEGAL"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-888-489-2287",
     "smsOrChat": "8h à 20h, 7 jours sur 7",
@@ -2922,10 +2965,14 @@
     ]
   },
   {
-    "id": "QC-17",
+    "id": "QC-111",
     "nameFr": "LIGNE D’ÉCOUTE D’ESPOIR POUR LE MIEUX-ÊTRE",
     "nameEn": "HOPE FOR WELLNESS INDIGENOUS HELPLINE",
-    "categoryId": "INDIGENOUS",
+    "categoryIds": [
+      "INDIGENOUS",
+      "CRISIS",
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-855-242-3310",
     "smsOrChat": "Clavardage 24/7 sur espoirpourlemieuxetre.ca",
@@ -2947,10 +2994,13 @@
     ]
   },
   {
-    "id": "QC-02",
+    "id": "QC-112",
     "nameFr": "LIGNE QUÉBÉCOISE DE PRÉVENTION DU SUICIDE (988)",
     "nameEn": "QUEBEC SUICIDE PREVENTION LINE (988)",
-    "categoryId": "CRISIS",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-866-277-3553",
     "smsOrChat": "Appel: 988 | SMS: 535353 | Clavardage: suicide.ca",
@@ -2973,10 +3023,13 @@
     ]
   },
   {
-    "id": "QC-06",
+    "id": "QC-113",
     "nameFr": "LIGNEPARENTS",
     "nameEn": "LIGNEPARENTS",
-    "categoryId": "YOUTH",
+    "categoryIds": [
+      "YOUTH",
+      "HEALTH"
+    ],
     "region": "PROVINCIAL (TOUT LE QUÉBEC)",
     "phone": "1-800-361-5085",
     "smsOrChat": "Clavardage sur ligneparents.com",
@@ -2997,33 +3050,41 @@
     ]
   },
   {
-    "id": "QC-154",
+    "id": "QC-114",
     "nameFr": "L’ABRI D’ESPOIR — ARMÉE DU SALUT (REFUGE & RÉINSERTION)",
     "nameEn": "L’ABRI D’ESPOIR — SALVATION ARMY SHELTER (MONTREAL)",
-    "categoryId": "HOUSING",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-935-7428",
-    "smsOrChat": "Refuge d’urgence 24/7, repas et programmes de transition",
+    "smsOrChat": "Refuge d’urgence 24/7 pour hommes, repas et transition",
     "website": "https://armeedusalut.ca",
     "address": "2000, rue Notre-Dame Ouest, Montréal, QC",
     "is247": true,
     "hasChatOrSms": false,
-    "descFr": "Refuge d’urgence 24/7, repas chauds, soutien psychosocial et programmes de stabilisation résidentielle au centre-ville de Montréal.",
-    "descEn": "24/7 emergency shelter, hot meals, psychosocial support, and housing stabilization programs in downtown Montreal.",
+    "descFr": "Refuge d’urgence 24/7 pour hommes sans-abri, repas chauds, soutien psychosocial et programmes de stabilisation résidentielle au centre-ville de Montréal.",
+    "descEn": "24/7 emergency shelter for unhoused men, hot meals, psychosocial support, and housing stabilization programs in downtown Montreal.",
     "tags": [
       "refuge",
       "armee du salut",
       "itinerance",
       "montreal",
       "shelter",
-      "abri espoir"
+      "abri espoir",
+      "hommes"
     ]
   },
   {
-    "id": "QC-73",
+    "id": "QC-115",
     "nameFr": "L’ACCÈS — CENTRE DE CRISE (LONGUEUIL / RIVE-SUD)",
     "nameEn": "L’ACCÈS — CRISIS CENTER (LONGUEUIL / SOUTH SHORE)",
-    "categoryId": "CRISIS",
+    "categoryIds": [
+      "CRISIS",
+      "HOUSING",
+      "HEALTH"
+    ],
     "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
     "phone": "450-679-8689",
     "smsOrChat": "Intervention de crise 24/7, mobile et hébergement",
@@ -3044,10 +3105,13 @@
     ]
   },
   {
-    "id": "QC-120",
+    "id": "QC-116",
     "nameFr": "L’ACTUEL — CENTRE D’ENTRAIDE DE VAUDREUIL-SOULANGES",
     "nameEn": "L’ACTUEL — VAUDREUIL-SOULANGES MUTUAL AID CENTER",
-    "categoryId": "FOOD",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING"
+    ],
     "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
     "phone": "450-455-3331",
     "smsOrChat": "Comptoir alimentaire, friperie et soutien d’urgence",
@@ -3068,10 +3132,13 @@
     ]
   },
   {
-    "id": "QC-158",
+    "id": "QC-117",
     "nameFr": "L’ANCRE DES JEUNES (PERSÉVÉRANCE SCOLAIRE — VERDUN)",
     "nameEn": "L’ANCRE DES JEUNES (SCHOOL PERSEVERANCE — VERDUN)",
-    "categoryId": "YOUTH",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-769-2228",
     "smsOrChat": "Soutien scolaire, raccrochage et accompagnement jeunesse",
@@ -3091,10 +3158,13 @@
     ]
   },
   {
-    "id": "QC-38",
+    "id": "QC-118",
     "nameFr": "L’ANONYME — UNITÉ MOBILE & CONSOMMATION SUPERVISÉE",
     "nameEn": "L’ANONYME — MOBILE UNIT & SUPERVISED CONSUMPTION",
-    "categoryId": "ADDICTION",
+    "categoryIds": [
+      "ADDICTION",
+      "HEALTH"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-842-1488",
     "smsOrChat": "Unité mobile SIS (soir/nuit), naloxone et matériel stérile",
@@ -3116,10 +3186,13 @@
     ]
   },
   {
-    "id": "QC-68",
+    "id": "QC-119",
     "nameFr": "L’ÉCLUSE DES LAURENTIDES — TRAVAIL DE RUE & HÉBERGEMENT",
     "nameEn": "L’ÉCLUSE DES LAURENTIDES — STREET OUTREACH & SHELTER",
-    "categoryId": "HOUSING",
+    "categoryIds": [
+      "HOUSING",
+      "ADDICTION"
+    ],
     "region": "15 - LAURENTIDES",
     "phone": "450-569-0115",
     "smsOrChat": "Travail de milieu, halte-accueil et prévention surdoses",
@@ -3139,10 +3212,14 @@
     ]
   },
   {
-    "id": "QC-162",
+    "id": "QC-120",
     "nameFr": "L’HIRONDELLE — ACCUEIL ET INTÉGRATION DES IMMIGRANTS",
     "nameEn": "L’HIRONDELLE — IMMIGRANT SETTLEMENT & EMPLOYMENT",
-    "categoryId": "EMPLOYMENT",
+    "categoryIds": [
+      "EMPLOYMENT",
+      "HOUSING",
+      "LEGAL"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-281-5696",
     "smsOrChat": "Aide gratuite emploi, logement et francisation",
@@ -3163,10 +3240,14 @@
     ]
   },
   {
-    "id": "QC-47",
+    "id": "QC-121",
     "nameFr": "MAISON DE LAUBERIVIÈRE — REFUGE & SOUPE POPULAIRE (QUÉBEC)",
     "nameEn": "MAISON DE LAUBERIVIÈRE — SHELTER & SOUP KITCHEN (QUEBEC CITY)",
-    "categoryId": "HOUSING",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD",
+      "HEALTH"
+    ],
     "region": "03 - CAPITALE-NATIONALE",
     "phone": "418-692-4248",
     "smsOrChat": "Refuge 24/7, soupe populaire et centre de jour",
@@ -3186,10 +3267,14 @@
     ]
   },
   {
-    "id": "QC-127",
+    "id": "QC-122",
     "nameFr": "MAISON DU PÈRE — REFUGE ET RÉINSERTION POUR HOMMES",
     "nameEn": "MAISON DU PÈRE — MEN’S EMERGENCY SHELTER",
-    "categoryId": "HOUSING",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD",
+      "HEALTH"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-845-0168",
     "smsOrChat": "Refuge d’urgence 24/7, soins de santé et résidence",
@@ -3210,10 +3295,13 @@
     ]
   },
   {
-    "id": "QC-129",
+    "id": "QC-123",
     "nameFr": "MAISON D’HÉBERGEMENT AU BERCAIL (SAINT-GEORGES / BEAUCE)",
     "nameEn": "AU BERCAIL — EMERGENCY SHELTER & SOUP KITCHEN (BEAUCE)",
-    "categoryId": "HOUSING",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD"
+    ],
     "region": "12 - CHAUDIÈRE-APPALACHES",
     "phone": "418-228-1071",
     "smsOrChat": "Refuge d’urgence 24/7, soupe populaire et réinsertion",
@@ -3234,10 +3322,13 @@
     ]
   },
   {
-    "id": "QC-28",
+    "id": "QC-124",
     "nameFr": "MAISON D’HÉBERGEMENT DÉPANNAGE DE VALLEYFIELD (MHDV)",
     "nameEn": "VALLEYFIELD EMERGENCY SHELTER (MHDV)",
-    "categoryId": "HOUSING",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD"
+    ],
     "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
     "phone": "450-371-9617",
     "smsOrChat": "Refuge d’urgence 24/7 et réinsertion",
@@ -3258,10 +3349,13 @@
     ]
   },
   {
-    "id": "QC-72",
+    "id": "QC-125",
     "nameFr": "MAISON D’HÉBERGEMENT LA RE-SOURCE (CHÂTEAUGUAY)",
     "nameEn": "LA RE-SOURCE WOMEN’S SHELTER (CHÂTEAUGUAY)",
-    "categoryId": "VIOLENCE",
+    "categoryIds": [
+      "VIOLENCE",
+      "HOUSING"
+    ],
     "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
     "phone": "450-699-0908",
     "smsOrChat": "Écoute et hébergement confidentiel 24/7 (Roussillon)",
@@ -3282,10 +3376,13 @@
     ]
   },
   {
-    "id": "QC-155",
+    "id": "QC-126",
     "nameFr": "MAISON MARGUERITE DE MONTRÉAL (HÉBERGEMENT POUR FEMMES)",
     "nameEn": "MAISON MARGUERITE — WOMEN’S TRANSITIONAL SHELTER",
-    "categoryId": "HOUSING",
+    "categoryIds": [
+      "HOUSING",
+      "VIOLENCE"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-932-2250",
     "smsOrChat": "Hébergement et accompagnement pour femmes en difficulté",
@@ -3305,10 +3402,13 @@
     ]
   },
   {
-    "id": "QC-46",
+    "id": "QC-127",
     "nameFr": "MISSION BON ACCUEIL — REFUGE & SÉCURITÉ ALIMENTAIRE",
     "nameEn": "WELCOME HALL MISSION — SHELTER & FOOD SECURITY",
-    "categoryId": "HOUSING",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-523-5288",
     "smsOrChat": "Hébergement d’urgence 24/7 et marché gratuit",
@@ -3329,10 +3429,14 @@
     ]
   },
   {
-    "id": "QC-29",
+    "id": "QC-128",
     "nameFr": "MISSION OLD BREWERY — REFUGE & SOUTIEN ITINÉRANCE",
     "nameEn": "OLD BREWERY MISSION — EMERGENCY SHELTER",
-    "categoryId": "HOUSING",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD",
+      "HEALTH"
+    ],
     "region": "06 - MONTRÉAL",
     "phone": "514-798-2244",
     "smsOrChat": "Urgence hébergement hommes et femmes 24/7",
@@ -3353,10 +3457,12 @@
     ]
   },
   {
-    "id": "QC-101",
+    "id": "QC-129",
     "nameFr": "MOISSON ESTRIE — BANQUE ALIMENTAIRE & DÉPANNAGE (SHERBROOKE)",
     "nameEn": "MOISSON ESTRIE — FOOD BANK & EMERGENCY PANTRY (SHERBROOKE)",
-    "categoryId": "FOOD",
+    "categoryIds": [
+      "FOOD"
+    ],
     "region": "05 - ESTRIE",
     "phone": "819-822-6025",
     "smsOrChat": "Dépannage alimentaire direct et approvisionnement",
@@ -3376,10 +3482,12 @@
     ]
   },
   {
-    "id": "QC-104",
+    "id": "QC-130",
     "nameFr": "MOISSON LAURENTIDES — BANQUE ALIMENTAIRE (BLAINVILLE)",
     "nameEn": "MOISSON LAURENTIDES — REGIONAL FOOD BANK",
-    "categoryId": "FOOD",
+    "categoryIds": [
+      "FOOD"
+    ],
     "region": "15 - LAURENTIDES",
     "phone": "450-434-0790",
     "smsOrChat": "Approvisionnement de 100+ organismes des Laurentides",
@@ -3396,1435 +3504,6 @@
       "blainville",
       "faim",
       "saint-jerome"
-    ]
-  },
-  {
-    "id": "QC-102",
-    "nameFr": "MOISSON MAURICIE / CENTRE-DU-QUÉBEC (TROIS-RIVIÈRES)",
-    "nameEn": "MOISSON MAURICIE / CENTRE-DU-QUÉBEC FOOD BANK",
-    "categoryId": "FOOD",
-    "region": "04 - MAURICIE ET CENTRE-DU-QUÉBEC",
-    "phone": "819-371-7778",
-    "smsOrChat": "Approvisionnement alimentaire régional",
-    "website": "https://www.moissonmcdq.org",
-    "address": "1300, rue Saint-Olivier, Trois-Rivières, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Banque alimentaire régionale desservant les comptoirs alimentaires et organismes communautaires de Trois-Rivières, Drummondville et Victoriaville.",
-    "descEn": "Regional food bank supplying food pantries and community agencies in Trois-Rivières, Drummondville, and Victoriaville.",
-    "tags": [
-      "banque alimentaire",
-      "moisson",
-      "mauricie",
-      "trois-rivieres",
-      "nourriture",
-      "centre-du-quebec"
-    ]
-  },
-  {
-    "id": "QC-44",
-    "nameFr": "MOISSON MONTRÉAL — BANQUE ALIMENTAIRE",
-    "nameEn": "MOISSON MONTRÉAL — FOOD BANK",
-    "categoryId": "FOOD",
-    "region": "06 - MONTRÉAL",
-    "phone": "514-344-4494",
-    "smsOrChat": "Approvisionnement de 300+ organismes à Montréal",
-    "website": "https://www.moissonmontreal.org",
-    "address": "6880, chemin de la Côte-de-Liesse, Montréal, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Plus grande banque alimentaire au Canada récupérant et redistribuant des denrées alimentaires aux comptoirs d’aide et cuisines collectives de Montréal.",
-    "descEn": "Largest food bank in Canada recovering and distributing food supplies to food pantries and community kitchens across Montreal.",
-    "tags": [
-      "nourriture",
-      "alimentaire",
-      "banque",
-      "faim",
-      "moisson",
-      "montreal",
-      "food bank"
-    ]
-  },
-  {
-    "id": "QC-103",
-    "nameFr": "MOISSON OUTAOUAIS — BANQUE ALIMENTAIRE (GATINEAU)",
-    "nameEn": "MOISSON OUTAOUAIS — REGIONAL FOOD BANK (GATINEAU)",
-    "categoryId": "FOOD",
-    "region": "07 - OUTAOUAIS",
-    "phone": "819-669-2000",
-    "smsOrChat": "Distribution alimentaire pour les comptoirs de l’Outaouais",
-    "website": "https://www.moissonoutaouais.com",
-    "address": "37, boulevard de l’Aéroport, Gatineau, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Banque alimentaire régionale de l’Outaouais récupérant et redistribuant des denrées alimentaires aux comptoirs d’aide de Gatineau et des environs.",
-    "descEn": "Regional food bank in Outaouais collecting and distributing food supplies to food pantries across Gatineau and surrounding communities.",
-    "tags": [
-      "banque alimentaire",
-      "moisson",
-      "outaouais",
-      "gatineau",
-      "faim",
-      "nourriture"
-    ]
-  },
-  {
-    "id": "QC-99",
-    "nameFr": "MOISSON QUÉBEC — BANQUE ALIMENTAIRE (CAPITALE-NATIONALE)",
-    "nameEn": "MOISSON QUÉBEC — REGIONAL FOOD BANK",
-    "categoryId": "FOOD",
-    "region": "03 - CAPITALE-NATIONALE",
-    "phone": "418-682-5061",
-    "smsOrChat": "Approvisionnement de 135+ comptoirs à Québec",
-    "website": "https://www.moissonquebec.com",
-    "address": "2125, rue Branly, Québec, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Unique banque alimentaire de la grande région de Québec récupérant et redistribuant des denrées aux comptoirs d’entraide et cuisines collectives.",
-    "descEn": "Sole regional food bank in the greater Quebec City area collecting and distributing food to local pantries and community kitchens.",
-    "tags": [
-      "banque alimentaire",
-      "moisson",
-      "quebec",
-      "nourriture",
-      "faim",
-      "capitale-nationale"
-    ]
-  },
-  {
-    "id": "QC-100",
-    "nameFr": "MOISSON RIVE-SUD — BANQUE ALIMENTAIRE (MONTÉRÉGIE)",
-    "nameEn": "MOISSON RIVE-SUD — REGIONAL FOOD BANK (MONTÉRÉGIE)",
-    "categoryId": "FOOD",
-    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
-    "phone": "450-641-1895",
-    "smsOrChat": "Principale banque alimentaire de la Rive-Sud",
-    "website": "https://www.moissonrivesud.org",
-    "address": "1391, rue Eiffel, Boucherville, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Principale banque alimentaire de la Montérégie approvisionnant plus de 140 organismes communautaires, comptoirs de dépannage et popotes roulantes.",
-    "descEn": "Primary food bank in Montérégie supplying over 140 community organizations, emergency food pantries, and meals-on-wheels programs.",
-    "tags": [
-      "banque alimentaire",
-      "moisson",
-      "rive-sud",
-      "monteregie",
-      "nourriture",
-      "boucherville",
-      "longueuil"
-    ]
-  },
-  {
-    "id": "QC-27",
-    "nameFr": "MOISSON SUD-OUEST — BANQUE ALIMENTAIRE RÉGIONALE",
-    "nameEn": "MOISSON SUD-OUEST — REGIONAL FOOD BANK",
-    "categoryId": "FOOD",
-    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
-    "phone": "450-377-7696",
-    "smsOrChat": "Approvisionnement alimentaire régional",
-    "website": "https://www.moissonsudouest.org",
-    "address": "50, rue Gérard-Cadieux, Salaberry-de-Valleyfield, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Principale banque alimentaire desservant les organismes communautaires du Suroît, de Vaudreuil-Soulanges et du Haut-Saint-Laurent.",
-    "descEn": "Primary regional food bank supplying community organizations across Suroît, Vaudreuil-Soulanges, and Haut-Saint-Laurent.",
-    "tags": [
-      "moisson",
-      "banque alimentaire",
-      "suroit",
-      "valleyfield",
-      "faim",
-      "nourriture",
-      "vaudreuil"
-    ]
-  },
-  {
-    "id": "QC-89",
-    "nameFr": "MOUVEMENT SANTÉ MENTALE QUÉBEC",
-    "nameEn": "QUEBEC MENTAL HEALTH MOVEMENT",
-    "categoryId": "HEALTH",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "514-849-3291",
-    "smsOrChat": "Outils gratuits de prévention et mieux-être",
-    "website": "https://mouvementsmq.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Regroupement provincial offrant des outils pratiques, guides et ateliers pour prévenir la détresse psychologique et renforcer la résilience.",
-    "descEn": "Provincial coalition providing practical tools, guides, and workshops to prevent psychological distress and build resilience.",
-    "tags": [
-      "sante mentale",
-      "prevention",
-      "resilience",
-      "stress",
-      "outils",
-      "mental health",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-111",
-    "nameFr": "MULTICAF — BANQUE ALIMENTAIRE & CAFÉTÉRIA (CÔTE-DES-NEIGES)",
-    "nameEn": "MULTICAF — FOOD BANK & COMMUNITY CAFETERIA (CDN)",
-    "categoryId": "FOOD",
-    "region": "06 - MONTRÉAL",
-    "phone": "514-733-0554",
-    "smsOrChat": "Paniers alimentaires hebdomadaires et repas (CDN)",
-    "website": "https://multicaf.org",
-    "address": "3591, rue Appleton, Montréal, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Principale ressource en sécurité alimentaire de Côte-des-Neiges : banque alimentaire hebdomadaire, dépannage d’urgence et cafétéria communautaire.",
-    "descEn": "Primary food security resource in Côte-des-Neiges offering a weekly food bank, emergency food relief, and community cafeteria.",
-    "tags": [
-      "banque alimentaire",
-      "cote-des-neiges",
-      "montreal",
-      "multicaf",
-      "repas",
-      "panier"
-    ]
-  },
-  {
-    "id": "QC-58",
-    "nameFr": "NARCOTIQUES ANONYMES QUÉBEC (NA)",
-    "nameEn": "NARCOTICS ANONYMOUS QUEBEC (NA)",
-    "categoryId": "ADDICTION",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-855-544-6362",
-    "smsOrChat": "Ligne d’assistance 24/7 et réunions quotidiennes",
-    "website": "https://www.naquebec.org",
-    "address": "Partout au Québec",
-    "is247": true,
-    "hasChatOrSms": false,
-    "descFr": "Association communautaire gratuite et anonyme de soutien par les pairs 24/7 pour le rétablissement de la dépendance aux drogues.",
-    "descEn": "Free, anonymous 24/7 community peer-support fellowship for recovery from drug addiction.",
-    "tags": [
-      "drogue",
-      "na",
-      "dependance",
-      "retablissement",
-      "entraide",
-      "narcotics",
-      "sobriete",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-150",
-    "nameFr": "OFFICE DE LA PROTECTION DU CONSOMMATEUR (OPC)",
-    "nameEn": "OFFICE DE LA PROTECTION DU CONSOMMATEUR (CONSUMER PROTECTION)",
-    "categoryId": "LEGAL",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-888-672-2556",
-    "smsOrChat": "Information sur les recours et plaintes contre commerçants",
-    "website": "https://www.opc.gouv.qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Protection officielle des consommateurs au Québec : recours en cas de fraude, garanties légales, contrats de crédit, agences de recouvrement et abonnements.",
-    "descEn": "Official consumer protection agency in Quebec handling fraud remedies, legal warranties, credit contracts, collection agencies, and subscriptions.",
-    "tags": [
-      "consommation",
-      "fraude",
-      "contrat",
-      "credit",
-      "opc",
-      "recouvrement",
-      "droits",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-117",
-    "nameFr": "OFFICE DES PERSONNES HANDICAPÉES DU QUÉBEC (OPHQ)",
-    "nameEn": "OFFICE DES PERSONNES HANDICAPÉES DU QUÉBEC (OPHQ)",
-    "categoryId": "LEGAL",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-800-567-1465",
-    "smsOrChat": "Accompagnement personnalisé et accès aux programmes",
-    "website": "https://www.ophq.gouv.qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Service gouvernemental d’accompagnement individuel aidant les personnes handicapées et leur famille à accéder aux programmes, aides financières et services adaptés.",
-    "descEn": "Government individual support service helping people with disabilities and their families access programs, financial aid, and adapted services.",
-    "tags": [
-      "handicap",
-      "ophq",
-      "droits",
-      "aide financiere",
-      "accessibilite",
-      "disability",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-23",
-    "nameFr": "PACT DE RUE — TRAVAIL DE MILIEU (BEAUHARNOIS-SALABERRY)",
-    "nameEn": "PACT DE RUE — STREET OUTREACH WORK",
-    "categoryId": "YOUTH",
-    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
-    "phone": "450-371-3345",
-    "smsOrChat": "Intervention de rue et réduction des méfaits",
-    "website": "https://www.pactderue.org",
-    "address": "Salaberry-de-Valleyfield, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Travailleurs de rue accompagnant les jeunes et adultes en situation de vulnérabilité, d’itinérance ou de consommation à Salaberry-de-Valleyfield.",
-    "descEn": "Street outreach workers supporting youth and adults facing vulnerability, homelessness, or substance use in Salaberry-de-Valleyfield.",
-    "tags": [
-      "travail de rue",
-      "valleyfield",
-      "jeunes",
-      "itinerance",
-      "pact",
-      "reduction des mefaits",
-      "suroit"
-    ]
-  },
-  {
-    "id": "QC-97",
-    "nameFr": "PARENTS ORPHELINS — SOUTIEN AU DEUIL PÉRINATAL",
-    "nameEn": "PARENTS ORPHELINS — PERINATAL LOSS SUPPORT",
-    "categoryId": "HEALTH",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-844-377-2736",
-    "smsOrChat": "Écoute, groupes d’entraide et accompagnement deuil",
-    "website": "https://parentsorphelins.org",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Soutien émotionnel, groupes de partage et ressources gratuites pour les parents vivant une fausse couche, une interruption médicale ou le décès d’un bébé.",
-    "descEn": "Emotional support, peer sharing groups, and free resources for parents experiencing miscarriage, medical termination, or infant loss.",
-    "tags": [
-      "deuil",
-      "perinatal",
-      "fausse couche",
-      "bebe",
-      "parents",
-      "grossesse",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-76",
-    "nameFr": "PARRAINAGE CIVIQUE DE VAUDREUIL-SOULANGES",
-    "nameEn": "CITIZEN ADVOCACY VAUDREUIL-SOULANGES",
-    "categoryId": "HEALTH",
-    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
-    "phone": "450-455-8986",
-    "smsOrChat": "Jumelage bénévole et intégration sociale",
-    "website": "https://www.parrainageciviquevs.ca",
-    "address": "Vaudreuil-Dorion, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Brise l’isolement des personnes vivant avec une déficience intellectuelle, un trouble du spectre de l’autisme ou un problème de santé mentale.",
-    "descEn": "Reduces social isolation for individuals living with an intellectual disability, autism spectrum disorder, or mental health condition.",
-    "tags": [
-      "isolement",
-      "vaudreuil",
-      "sante mentale",
-      "deficience",
-      "jumelage",
-      "autisme",
-      "suroit"
-    ]
-  },
-  {
-    "id": "QC-107",
-    "nameFr": "PARTAGEONS L’ESPOIR — BANQUE ALIMENTAIRE (POINTE-SAINT-CHARLES)",
-    "nameEn": "SHARE THE WARMTH — FOOD BANK (POINTE-SAINT-CHARLES)",
-    "categoryId": "FOOD",
-    "region": "06 - MONTRÉAL",
-    "phone": "514-933-5599",
-    "smsOrChat": "Banque alimentaire libre-service (Sud-Ouest / Verdun)",
-    "website": "https://sharethewarmth.ca",
-    "address": "625, rue Fortune, Montréal, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Grande banque alimentaire de style épicerie libre-service pour les résidents de Pointe-Saint-Charles, Verdun, Saint-Henri et du Sud-Ouest.",
-    "descEn": "Large grocery-style choice food bank serving residents of Pointe-Saint-Charles, Verdun, Saint-Henri, and Southwest Montreal.",
-    "tags": [
-      "banque alimentaire",
-      "verdun",
-      "sud-ouest",
-      "pointe-saint-charles",
-      "montreal",
-      "share the warmth"
-    ]
-  },
-  {
-    "id": "QC-163",
-    "nameFr": "PECH — PROGRAMME D’ENCADREMENT CLINIQUE ET D’HÉBERGEMENT",
-    "nameEn": "PECH — CLINICAL OUTREACH & HOUSING SUPPORT (QUEBEC CITY)",
-    "categoryId": "HEALTH",
-    "region": "03 - CAPITALE-NATIONALE",
-    "phone": "418-523-2820",
-    "smsOrChat": "Soutien en santé mentale, logement et crise à Québec",
-    "website": "https://www.infopech.org",
-    "address": "781, rue Saint-Joseph Est, Québec, QC",
-    "is247": true,
-    "hasChatOrSms": false,
-    "descFr": "Accompagnement alternatif en santé mentale, logements avec soutien communautaire et intervention de crise 24/7 dans la région de Québec.",
-    "descEn": "Alternative mental health support, community supportive housing, and 24/7 crisis intervention in the Quebec City area.",
-    "tags": [
-      "sante mentale",
-      "quebec",
-      "logement",
-      "pech",
-      "crise",
-      "capitale-nationale"
-    ]
-  },
-  {
-    "id": "QC-56",
-    "nameFr": "PHOBIES-ZÉRO — TROUBLES ANXIEUX ET TOC",
-    "nameEn": "PHOBIES-ZÉRO — ANXIETY DISORDERS & OCD SUPPORT",
-    "categoryId": "HEALTH",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-866-922-0002",
-    "smsOrChat": "Ligne d’écoute et groupes d’entraide en ligne",
-    "website": "https://www.phobies-zero.qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Soutien par les pairs, ligne d’écoute et groupes d’entraide pour les personnes vivant avec des troubles anxieux, attaques de panique, phobies ou TOC.",
-    "descEn": "Peer support, listening helpline, and support groups for individuals living with anxiety disorders, panic attacks, phobias, or OCD.",
-    "tags": [
-      "anxiete",
-      "phobie",
-      "panique",
-      "toc",
-      "entraide",
-      "ocd",
-      "anxiety",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-42",
-    "nameFr": "POINT DE REPÈRES — CONSOMMATION SUPERVISÉE (QUÉBEC)",
-    "nameEn": "POINT DE REPÈRES — SUPERVISED CONSUMPTION (QUEBEC CITY)",
-    "categoryId": "ADDICTION",
-    "region": "03 - CAPITALE-NATIONALE",
-    "phone": "418-648-8042",
-    "smsOrChat": "SIS fixe et mobile à Québec — naloxone",
-    "website": "https://www.pointdereperes.com",
-    "address": "502, rue Saint-Vallier Est, Québec, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Organisme communautaire de réduction des méfaits à Québec offrant un site fixe et une unité mobile de consommation supervisée, naloxone et soutien.",
-    "descEn": "Harm reduction community organization in Quebec City offering fixed and mobile supervised consumption services, naloxone, and peer support.",
-    "tags": [
-      "point de reperes",
-      "consommation supervisee",
-      "sis",
-      "quebec",
-      "naloxone",
-      "reduction des mefaits",
-      "surdose"
-    ]
-  },
-  {
-    "id": "QC-116",
-    "nameFr": "PORTAIL VIH/SIDA DU QUÉBEC",
-    "nameEn": "QUEBEC HIV/AIDS PORTAL",
-    "categoryId": "HEALTH",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-877-767-8242",
-    "smsOrChat": "Écoute anonyme, information ITSS et référence dépistage",
-    "website": "https://pvsq.org",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Ligne d’écoute confidentielle, information médicale vulgarisée sur le VIH et les ITSS, et orientation vers les cliniques de dépistage au Québec.",
-    "descEn": "Confidential listening helpline, plain-language medical information on HIV and STIs, and referrals to testing clinics across Quebec.",
-    "tags": [
-      "vih",
-      "sida",
-      "itss",
-      "depistage",
-      "sante sexuelle",
-      "hiv",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-53",
-    "nameFr": "PREMIÈRE RESSOURCE, AIDE AUX PARENTS",
-    "nameEn": "PREMIÈRE RESSOURCE, HELP FOR PARENTS",
-    "categoryId": "YOUTH",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-866-329-4223",
-    "smsOrChat": "Consultation gratuite par téléphone et courriel",
-    "website": "https://premiereressource.com",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": true,
-    "descFr": "Service professionnel gratuit d’information et de soutien psychosocial sur les relations parents-enfants et les défis éducatifs.",
-    "descEn": "Free professional information and psychosocial support regarding parent-child relationships and parenting challenges.",
-    "tags": [
-      "parents",
-      "education",
-      "enfant",
-      "famille",
-      "conseil",
-      "parenting",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-119",
-    "nameFr": "PROTECTEUR DU CITOYEN DU QUÉBEC",
-    "nameEn": "QUÉBEC OMBUDSMAN",
-    "categoryId": "LEGAL",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-800-463-5070",
-    "smsOrChat": "Recours gratuit face aux ministères et réseau de la santé",
-    "website": "https://protecteurducitoyen.qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Recours indépendant et gratuit en cas d’erreur, d’injustice ou de délai abusif avec un ministère québécois, un organisme public ou un établissement de santé.",
-    "descEn": "Free, independent recourse in case of error, unfairness, or unreasonable delay involving a Quebec government department, public agency, or health institution.",
-    "tags": [
-      "ombudsman",
-      "protecteur du citoyen",
-      "plainte",
-      "sante",
-      "gouvernement",
-      "droits",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-136",
-    "nameFr": "RCLALQ — REGROUPEMENT DES COMITÉS LOGEMENT DU QUÉBEC",
-    "nameEn": "RCLALQ — QUEBEC TENANTS’ ASSOCIATIONS COALITION",
-    "categoryId": "HOUSING",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "514-521-7114",
-    "smsOrChat": "Orientation vers votre comité logement local",
-    "website": "https://rclalq.qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Regroupement provincial défendant les droits des locataires et orientant les citoyens vers le comité logement de leur quartier ou région.",
-    "descEn": "Provincial coalition advocating for tenants’ rights and connecting citizens with their local neighborhood or regional housing committee.",
-    "tags": [
-      "locataire",
-      "logement",
-      "loyer",
-      "bail",
-      "rclalq",
-      "droits",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-123",
-    "nameFr": "REFUGE DES JEUNES DE MONTRÉAL",
-    "nameEn": "MONTREAL YOUTH SHELTER (REFUGE DES JEUNES)",
-    "categoryId": "YOUTH",
-    "region": "06 - MONTRÉAL",
-    "phone": "514-849-4221",
-    "smsOrChat": "Refuge d’urgence 24/7 pour jeunes hommes 17-25 ans",
-    "website": "https://www.refugedesjeunes.org",
-    "address": "1836, rue Sainte-Catherine Est, Montréal, QC",
-    "is247": true,
-    "hasChatOrSms": false,
-    "descFr": "Refuge d’urgence 24/7, repas chauds, soutien psychosocial et logements de transition pour les jeunes hommes sans-abri âgés de 17 à 25 ans.",
-    "descEn": "24/7 emergency shelter, hot meals, psychosocial support, and transitional housing for unhoused young men aged 17 to 25.",
-    "tags": [
-      "refuge",
-      "jeunes",
-      "itinerance",
-      "montreal",
-      "sans-abri",
-      "shelter"
-    ]
-  },
-  {
-    "id": "QC-66",
-    "nameFr": "REFUGE D’URGENCE DE LAVAL (ITINÉRANCE)",
-    "nameEn": "LAVAL EMERGENCY HOMELESS SHELTER",
-    "categoryId": "HOUSING",
-    "region": "13 - LAVAL",
-    "phone": "450-978-2121",
-    "smsOrChat": "Hébergement d’urgence 24/7 et soutien psychosocial",
-    "website": "https://www.211qc.ca",
-    "address": "Laval, QC",
-    "is247": true,
-    "hasChatOrSms": false,
-    "descFr": "Hébergement d’urgence 24/7, repas chauds, halte-accueil et accompagnement psychosocial pour les personnes en situation d’itinérance à Laval.",
-    "descEn": "24/7 emergency shelter, hot meals, drop-in center, and psychosocial support for unhoused individuals in Laval.",
-    "tags": [
-      "refuge",
-      "itinerance",
-      "laval",
-      "shelter",
-      "sans-abri",
-      "halte-chaleur"
-    ]
-  },
-  {
-    "id": "QC-86",
-    "nameFr": "REGROUPEMENT DES AUBERGES DU CŒUR DU QUÉBEC",
-    "nameEn": "QUEBEC NETWORK OF YOUTH SHELTERS (AUBERGES DU CŒUR)",
-    "categoryId": "YOUTH",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "514-523-8559",
-    "smsOrChat": "Réseau de 31 maisons d’hébergement pour jeunes 12-30 ans",
-    "website": "https://www.aubergesducoeur.org",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Réseau de 31 maisons d’hébergement communautaire partout au Québec accueillant les jeunes de 12 à 30 ans sans abri ou en rupture familiale.",
-    "descEn": "Network of 31 community shelters across Quebec welcoming unhoused or at-risk youth aged 12 to 30.",
-    "tags": [
-      "jeunes",
-      "hebergement",
-      "itinerance",
-      "auberge du coeur",
-      "refuge",
-      "youth shelter",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-31",
-    "nameFr": "REGROUPEMENT DES CENTRES D’AMITIÉ AUTOCHTONES DU QUÉBEC (RCAAQ)",
-    "nameEn": "QUEBEC NATIVE FRIENDSHIP CENTRES ASSOCIATION (RCAAQ)",
-    "categoryId": "INDIGENOUS",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-877-842-6354",
-    "smsOrChat": "Réseau de 14 centres de services autochtones",
-    "website": "https://www.rcaaq.info",
-    "address": "225, boulevard Bastien, Wendake, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Orientation vers les centres d’amitié autochtones partout au Québec (Joliette, Val-d’Or, La Tuque, Québec, Trois-Rivières, Sept-Îles, Chibougamau).",
-    "descEn": "Directory and referral to Native Friendship Centres across Quebec (Joliette, Val-d’Or, La Tuque, Quebec City, Trois-Rivières, Sept-Îles, Chibougamau).",
-    "tags": [
-      "autochtone",
-      "centre amitie",
-      "premieres nations",
-      "quebec",
-      "wendake",
-      "rcaaq"
-    ]
-  },
-  {
-    "id": "QC-134",
-    "nameFr": "REGROUPEMENT DES MAISONS POUR FEMMES VICTIMES DE VIOLENCE CONJUGALE",
-    "nameEn": "QUEBEC FEDERATION OF SHELTERS FOR ABUSED WOMEN (RMFVVC)",
-    "categoryId": "VIOLENCE",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "514-873-9010",
-    "smsOrChat": "Réseau de 45+ maisons d’hébergement au Québec",
-    "website": "https://maisons-femmes.qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Regroupement provincial de plus de 45 maisons d’aide et d’hébergement offrant soutien, défense des droits et orientation pour femmes victimes de violence.",
-    "descEn": "Provincial coalition of over 45 shelters providing advocacy, information, and referrals for women experiencing domestic violence.",
-    "tags": [
-      "violence",
-      "femme",
-      "hebergement",
-      "conjugale",
-      "maisons",
-      "rmfvvc",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-34",
-    "nameFr": "RÉHABEX — EMPLOI & RÉINSERTION PERSONNES JUDICIARISÉES",
-    "nameEn": "RÉHABEX — REENTRY & EMPLOYMENT FOR FORMERLY INCARCERATED",
-    "categoryId": "EMPLOYMENT",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "819-770-6061",
-    "smsOrChat": "Service OBNL gratuit — emploi et suspension de casier",
-    "website": "https://rehabex.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Organisme sans but lucratif spécialisé dans l’intégration en emploi des ex-détenus, l’aide au retour aux études et la demande de pardon (casier judiciaire).",
-    "descEn": "Non-profit helping formerly incarcerated individuals find employment, return to school, and apply for a criminal record suspension (pardon).",
-    "tags": [
-      "detenu",
-      "ex-detenu",
-      "casier",
-      "pardon",
-      "emploi",
-      "obnl",
-      "rehabex",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-48",
-    "nameFr": "RELIEF (ANCIENNEMENT REVIVRE) — ANXIÉTÉ, DÉPRESSION & BIPOLARITÉ",
-    "nameEn": "RELIEF — ANXIETY, DEPRESSION & BIPOLAR DISORDER SUPPORT",
-    "categoryId": "HEALTH",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-866-738-4873",
-    "smsOrChat": "Soutien téléphonique, groupes d’entraide et ateliers",
-    "website": "https://monrelief.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Soutien individuel, groupes d’entraide et ateliers d’autogestion pour les personnes vivant avec l’anxiété, la dépression ou la bipolarité et leurs proches.",
-    "descEn": "Individual support, peer support groups, and self-management workshops for people living with anxiety, depression, or bipolar disorder and their loved ones.",
-    "tags": [
-      "anxiete",
-      "depression",
-      "bipolaire",
-      "sante mentale",
-      "revivre",
-      "relief",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-24",
-    "nameFr": "RÉSEAU D’AIDE AUX PERSONNES SEULES ET ITINÉRANTES (RAPSIM)",
-    "nameEn": "HOMELESSNESS & HOUSING ADVOCACY NETWORK (RAPSIM)",
-    "categoryId": "HOUSING",
-    "region": "06 - MONTRÉAL",
-    "phone": "514-879-1949",
-    "smsOrChat": "Défense des droits et orientation refuges",
-    "website": "https://www.rapsim.org",
-    "address": "1600, avenue De Lorimier, Montréal, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Regroupement d’organismes communautaires dédiés à la défense des droits des personnes en situation d’itinérance et à l’accès au logement social.",
-    "descEn": "Coalition of community organizations advocating for the rights of unhoused people and access to social housing.",
-    "tags": [
-      "itinerance",
-      "refuge",
-      "droits",
-      "montreal",
-      "logement",
-      "rapsim",
-      "sans-abri"
-    ]
-  },
-  {
-    "id": "QC-142",
-    "nameFr": "RÉSEAU FADOQ — SOUTIEN ET DÉFENSE DES DROITS DES AÎNÉS",
-    "nameEn": "RÉSEAU FADOQ — SENIORS’ SUPPORT & ADVOCACY NETWORK",
-    "categoryId": "SENIORS",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-800-544-9058",
-    "smsOrChat": "Information, programmes et défense des droits 50+",
-    "website": "https://www.fadoq.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Plus grand organisme d’aînés au Canada offrant information, défense des droits collectifs, soutien numérique et activités pour les 50 ans et plus.",
-    "descEn": "Largest seniors’ organization in Canada providing information, collective advocacy, digital literacy support, and activities for people 50+.",
-    "tags": [
-      "fadoq",
-      "aines",
-      "50 ans",
-      "retraite",
-      "droits",
-      "seniors",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-159",
-    "nameFr": "RESTO PLATEAU — INSERTION & REPAS COMMUNAUTAIRES",
-    "nameEn": "RESTO PLATEAU — COMMUNITY MEALS & JOB TRAINING",
-    "categoryId": "FOOD",
-    "region": "06 - MONTRÉAL",
-    "phone": "514-527-5997",
-    "smsOrChat": "Repas à prix abordable et plateau d’insertion en emploi",
-    "website": "https://restoplateau.com",
-    "address": "4450, rue Saint-Hubert, Montréal, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Restaurant communautaire du Plateau-Mont-Royal offrant des repas sains à faible coût ainsi que des parcours rémunérés d’insertion socioprofessionnelle.",
-    "descEn": "Community restaurant in Plateau-Mont-Royal serving healthy, low-cost meals alongside paid socio-professional job training programs.",
-    "tags": [
-      "repas",
-      "plateau",
-      "montreal",
-      "insertion",
-      "alimentaire",
-      "resto plateau"
-    ]
-  },
-  {
-    "id": "QC-153",
-    "nameFr": "RETRAITE QUÉBEC — RENTES, INVALIDITÉ & SOUTIEN AUX FAMILLES",
-    "nameEn": "RETRAITE QUÉBEC — PENSIONS, DISABILITY & FAMILY ALLOWANCE",
-    "categoryId": "SENIORS",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-800-463-5185",
-    "smsOrChat": "Renseignements RRQ, rente d’invalidité et Allocation famille",
-    "website": "https://www.retraitequebec.gouv.qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Gestion du Régime de rentes du Québec (retraite, invalidité, survivants) et de l’Allocation famille pour les parents au Québec.",
-    "descEn": "Administration of the Québec Pension Plan (retirement, disability, survivor benefits) and Family Allowance payments for parents in Quebec.",
-    "tags": [
-      "retraite",
-      "rrq",
-      "invalidite",
-      "allocation famille",
-      "pension",
-      "aines",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-21",
-    "nameFr": "SERVICE ALIMENTAIRE COMMUNAUTAIRE (SAC VALLEYFIELD)",
-    "nameEn": "COMMUNITY FOOD SERVICE (SAC VALLEYFIELD)",
-    "categoryId": "FOOD",
-    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
-    "phone": "450-371-2332",
-    "smsOrChat": "Dépannage alimentaire et comptoir vestimentaire",
-    "website": "https://www.sacvalleyfield.com",
-    "address": "51, rue Hébert, Salaberry-de-Valleyfield, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Banque alimentaire principale de Salaberry-de-Valleyfield : distribution de paniers de provisions, dépannage d’urgence et soutien aux familles.",
-    "descEn": "Main food bank in Salaberry-de-Valleyfield offering food basket distribution, emergency food relief, and family support.",
-    "tags": [
-      "sac",
-      "banque alimentaire",
-      "valleyfield",
-      "panier",
-      "nourriture",
-      "suroit",
-      "vetements"
-    ]
-  },
-  {
-    "id": "QC-118",
-    "nameFr": "SERVICE D’AIDE D’ANCIENS COMBATTANTS CANADA (VÉTÉRANS)",
-    "nameEn": "VETERANS AFFAIRS CANADA ASSISTANCE SERVICE",
-    "categoryId": "CRISIS",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-800-268-7708",
-    "smsOrChat": "Soutien psychologique gratuit 24/7 pour vétérans et proches",
-    "website": "https://www.veterans.gc.ca",
-    "address": "Partout au Québec",
-    "is247": true,
-    "hasChatOrSms": false,
-    "descFr": "Counseling professionnel gratuit, confidentiel et accessible 24/7 pour les anciens combattants, les ex-membres des Forces armées, de la GRC et leurs familles.",
-    "descEn": "Free, confidential 24/7 professional counseling for veterans, former Canadian Armed Forces and RCMP members, and their families.",
-    "tags": [
-      "veteran",
-      "ancien combattant",
-      "armee",
-      "grc",
-      "sspt",
-      "ptsd",
-      "crise",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-184",
-    "nameFr": "SERVICES À LA VIE ÉTUDIANTE DE L’UNIVERSITÉ DE SHERBROOKE",
-    "nameEn": "UNIVERSITÉ DE SHERBROOKE STUDENT LIFE SERVICES",
-    "categoryId": "STUDENT",
-    "region": "05 - ESTRIE",
-    "phone": "819-821-7666",
-    "smsOrChat": "Soutien psychologique et aide financière d’urgence",
-    "website": "https://www.usherbrooke.ca/vie-etudiante/",
-    "address": "2500, boulevard de l’Université, Sherbrooke, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Consultation psychologique gratuite, soutien financier d’urgence et services d’intégration pour la communauté étudiante de l’Université de Sherbrooke.",
-    "descEn": "Free psychological counseling, emergency financial support, and student integration services for Université de Sherbrooke students.",
-    "tags": [
-      "etudiant",
-      "sherbrooke",
-      "udes",
-      "universite",
-      "estrie",
-      "sante mentale"
-    ]
-  },
-  {
-    "id": "QC-180",
-    "nameFr": "SERVICES À LA VIE ÉTUDIANTE DE L’UQAM (PSY & AIDE FINANCIÈRE)",
-    "nameEn": "UQAM STUDENT SERVICES (COUNSELING & EMERGENCY AID)",
-    "categoryId": "STUDENT",
-    "region": "06 - MONTRÉAL",
-    "phone": "514-987-3185",
-    "smsOrChat": "Soutien psychologique, bourses d’urgence et banque alimentaire",
-    "website": "https://vie-etudiante.uqam.ca",
-    "address": "1290, rue Saint-Denis, Montréal, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Consultation psychologique gratuite, bourses d’urgence, dépannage alimentaire étudiant et accueil des étudiants en situation de handicap à l’UQAM.",
-    "descEn": "Free psychological counseling, emergency bursaries, student food pantry, and accessibility services for UQAM students.",
-    "tags": [
-      "etudiant",
-      "uqam",
-      "universite",
-      "psychologue",
-      "montreal",
-      "bourses",
-      "sante mentale"
-    ]
-  },
-  {
-    "id": "QC-190",
-    "nameFr": "SERVICES AUX ÉTUDIANTS DE CONCORDIA (COUNSELING & HEALTH)",
-    "nameEn": "CONCORDIA UNIVERSITY STUDENT SERVICES (COUNSELLING & HEALTH)",
-    "categoryId": "STUDENT",
-    "region": "06 - MONTRÉAL",
-    "phone": "514-848-2424",
-    "smsOrChat": "Soutien psychologique bilingue, clinique et banque alimentaire",
-    "website": "https://www.concordia.ca/health.html",
-    "address": "1455, boulevard De Maisonneuve Ouest, Montréal, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Consultation psychologique, clinique de santé, banque alimentaire étudiante (Multi-Faith / CSU) et aide financière d’urgence à l’Université Concordia.",
-    "descEn": "Psychological counseling, student health clinic, student food bank, and emergency financial aid at Concordia University in Montreal.",
-    "tags": [
-      "etudiant",
-      "concordia",
-      "universite",
-      "montreal",
-      "bilingue",
-      "sante mentale",
-      "student"
-    ]
-  },
-  {
-    "id": "QC-181",
-    "nameFr": "SERVICES AUX ÉTUDIANTS DE L’UNIVERSITÉ DE MONTRÉAL (CSÉ)",
-    "nameEn": "UNIVERSITÉ DE MONTRÉAL STUDENT SERVICES (CSÉ)",
-    "categoryId": "STUDENT",
-    "region": "06 - MONTRÉAL",
-    "phone": "514-343-6534",
-    "smsOrChat": "Consultation psychologique et aide financière d’urgence",
-    "website": "https://vieetudiante.umontreal.ca",
-    "address": "2101, boulevard Édouard-Montpetit, Montréal, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Soutien psychologique, cliniques de santé étudiante, dépannage financier d’urgence et accompagnement à la réussite pour les étudiants de l’UdeM.",
-    "descEn": "Psychological counseling, student health clinics, emergency financial aid, and academic success support for UdeM students.",
-    "tags": [
-      "etudiant",
-      "udem",
-      "universite",
-      "sante mentale",
-      "montreal",
-      "aide financiere"
-    ]
-  },
-  {
-    "id": "QC-187",
-    "nameFr": "SERVICES AUX ÉTUDIANTS DE L’UQAC (SAGUENAY)",
-    "nameEn": "UQAC STUDENT SERVICES (SAGUENAY)",
-    "categoryId": "STUDENT",
-    "region": "02 - SAGUENAY–LAC-SAINT-JEAN",
-    "phone": "418-545-5011",
-    "smsOrChat": "Soutien psychosocial, aide financière et accueil",
-    "website": "https://www.uqac.ca",
-    "address": "555, boulevard de l’Université, Saguenay, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Consultation psychosociale, aide financière d’urgence et accompagnement des étudiants internationaux et régionaux à l’Université du Québec à Chicoutimi.",
-    "descEn": "Psychosocial counseling, emergency financial assistance, and support for domestic and international students at Université du Québec à Chicoutimi.",
-    "tags": [
-      "etudiant",
-      "uqac",
-      "saguenay",
-      "chicoutimi",
-      "universite",
-      "sante mentale"
-    ]
-  },
-  {
-    "id": "QC-188",
-    "nameFr": "SERVICES AUX ÉTUDIANTS DE L’UQAR (RIMOUSKI / LÉVIS)",
-    "nameEn": "UQAR STUDENT SERVICES (RIMOUSKI / LÉVIS)",
-    "categoryId": "STUDENT",
-    "region": "01 - BAS-SAINT-LAURENT",
-    "phone": "418-723-1986",
-    "smsOrChat": "Soutien psychologique, réussite et bourses d’urgence",
-    "website": "https://www.uqar.ca/luniversite/respect-et-bien-etre-des-personnes/ressources-d-aide/",
-    "address": "300, allée des Ursulines, Rimouski, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Consultation psychologique gratuite, soutien à la réussite et fonds de dépannage d’urgence pour les étudiants de l’UQAR à Rimouski et Lévis.",
-    "descEn": "Free psychological counseling, academic success support, and emergency relief funds for UQAR students in Rimouski and Lévis.",
-    "tags": [
-      "etudiant",
-      "uqar",
-      "rimouski",
-      "levis",
-      "bas-saint-laurent",
-      "universite"
-    ]
-  },
-  {
-    "id": "QC-189",
-    "nameFr": "SERVICES AUX ÉTUDIANTS DE L’UQAT (ABITIBI-TÉMISCAMINGUE)",
-    "nameEn": "UQAT STUDENT SERVICES (ABITIBI-TÉMISCAMINGUE)",
-    "categoryId": "STUDENT",
-    "region": "08 - ABITIBI-TÉMISCAMINGUE",
-    "phone": "819-762-0971",
-    "smsOrChat": "Soutien psychosocial, Premiers Peuples et aide financière",
-    "website": "https://www.uqat.ca/etudiants/",
-    "address": "445, boulevard de l’Université, Rouyn-Noranda, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Soutien psychosocial gratuit, services dédiés aux étudiants des Premiers Peuples et aide financière d’urgence à l’Université du Québec en Abitibi-Témiscamingue.",
-    "descEn": "Free psychosocial support, dedicated Indigenous student services, and emergency financial aid at Université du Québec en Abitibi-Témiscamingue.",
-    "tags": [
-      "etudiant",
-      "uqat",
-      "rouyn-noranda",
-      "val-dor",
-      "abitibi",
-      "autochtone",
-      "universite"
-    ]
-  },
-  {
-    "id": "QC-186",
-    "nameFr": "SERVICES AUX ÉTUDIANTS DE L’UQO (GATINEAU)",
-    "nameEn": "UQO STUDENT SERVICES (GATINEAU)",
-    "categoryId": "STUDENT",
-    "region": "07 - OUTAOUAIS",
-    "phone": "819-595-3900",
-    "smsOrChat": "Soutien psychologique, financier et orientation",
-    "website": "https://uqo.ca",
-    "address": "283, boulevard Alexandre-Taché, Gatineau, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Services gratuits de soutien psychologique, d’aide financière d’urgence et d’accompagnement scolaire pour les étudiants de l’UQO en Outaouais.",
-    "descEn": "Free psychological support, emergency financial aid, and academic counseling services for UQO students in Outaouais.",
-    "tags": [
-      "etudiant",
-      "uqo",
-      "gatineau",
-      "outaouais",
-      "universite",
-      "sante mentale"
-    ]
-  },
-  {
-    "id": "QC-185",
-    "nameFr": "SERVICES AUX ÉTUDIANTS DE L’UQTR (TROIS-RIVIÈRES)",
-    "nameEn": "UQTR STUDENT SERVICES (TROIS-RIVIÈRES)",
-    "categoryId": "STUDENT",
-    "region": "04 - MAURICIE ET CENTRE-DU-QUÉBEC",
-    "phone": "819-376-5011",
-    "smsOrChat": "Aide psychologique, financière et services adaptés",
-    "website": "https://www.uqtr.ca/sae",
-    "address": "3351, boulevard des Forges, Trois-Rivières, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Consultation psychologique, dépannage financier d’urgence et soutien aux étudiants en situation de handicap à l’Université du Québec à Trois-Rivières.",
-    "descEn": "Psychological counseling, emergency financial relief, and disability support services at Université du Québec à Trois-Rivières.",
-    "tags": [
-      "etudiant",
-      "uqtr",
-      "trois-rivieres",
-      "mauricie",
-      "universite",
-      "psychologue"
-    ]
-  },
-  {
-    "id": "QC-149",
-    "nameFr": "SERVICES QUÉBEC — RENSEIGNEMENTS PROGRAMMES & AIDE SOCIALE",
-    "nameEn": "SERVICES QUÉBEC — GOVERNMENT PROGRAMS & SOCIAL ASSISTANCE",
-    "categoryId": "LEGAL",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-877-644-4545",
-    "smsOrChat": "Guichet unique pour les programmes publics du Québec",
-    "website": "https://www.quebec.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Guichet unique d’information sur l’aide financière de dernier recours (aide sociale), solidarité sociale, assurance médicaments et documents officiels.",
-    "descEn": "One-stop information portal for last-resort financial assistance (welfare), social solidarity, drug insurance, and official government documents.",
-    "tags": [
-      "aide sociale",
-      "bien-etre",
-      "gouvernement",
-      "services quebec",
-      "ramq",
-      "solidarite",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-114",
-    "nameFr": "SOCIÉTÉ DE SAINT-VINCENT-DE-PAUL DE MONTRÉAL (AIDE ALIMENTAIRE)",
-    "nameEn": "SOCIETY OF SAINT VINCENT DE PAUL MONTREAL (FOOD AID)",
-    "categoryId": "FOOD",
-    "region": "06 - MONTRÉAL",
-    "phone": "514-526-5937",
-    "smsOrChat": "Bons d’épicerie et paniers alimentaires par quartier",
-    "website": "https://ssvp-mtl.org",
-    "address": "1930, rue Champlain, Montréal, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Réseau d’entraide de proximité distribuant des bons d’épicerie, paniers alimentaires à domicile et aide matérielle dans tous les quartiers de Montréal.",
-    "descEn": "Neighborhood mutual-aid network distributing grocery vouchers, home-delivered food baskets, and material aid across all Montreal boroughs.",
-    "tags": [
-      "banque alimentaire",
-      "saint-vincent-de-paul",
-      "bons epicerie",
-      "montreal",
-      "panier",
-      "ssvp"
-    ]
-  },
-  {
-    "id": "QC-145",
-    "nameFr": "SOCIÉTÉ QUÉBÉCOISE DE LA SCHIZOPHRÉNIE (SQS)",
-    "nameEn": "QUEBEC SCHIZOPHRENIA SOCIETY (SQS)",
-    "categoryId": "HEALTH",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-866-888-2323",
-    "smsOrChat": "Ligne d’écoute, groupes d’entraide et soutien proches",
-    "website": "https://www.schizophrenie.qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Information, ligne d’écoute, groupes de soutien et accompagnement pour les personnes vivant avec la schizophrénie ou une psychose et leur entourage.",
-    "descEn": "Information, listening helpline, support groups, and guidance for individuals living with schizophrenia or psychosis and their loved ones.",
-    "tags": [
-      "schizophrenie",
-      "psychose",
-      "sante mentale",
-      "proches",
-      "entraide",
-      "sqs",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-04",
-    "nameFr": "SOS VIOLENCE CONJUGALE",
-    "nameEn": "SOS VIOLENCE CONJUGALE",
-    "categoryId": "VIOLENCE",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-800-363-9010",
-    "smsOrChat": "SMS: 438-601-1211 | Clavardage sécurisé 24/7",
-    "website": "https://sosviolenceconjugale.ca",
-    "address": "Partout au Québec",
-    "is247": true,
-    "hasChatOrSms": true,
-    "descFr": "Accueil, évaluation, information et référence confidentielle 24/7 vers des maisons d’hébergement pour les victimes de violence conjugale et leurs proches.",
-    "descEn": "Confidential 24/7 intake, assessment, information, and referral to shelters for victims of domestic violence and their loved ones.",
-    "tags": [
-      "violence",
-      "conjugale",
-      "hebergement",
-      "femme",
-      "securite",
-      "refuge",
-      "domestic violence",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-41",
-    "nameFr": "SPECTRE DE RUE — CONSOMMATION SUPERVISÉE & HALTE",
-    "nameEn": "SPECTRE DE RUE — SUPERVISED CONSUMPTION & DROP-IN",
-    "categoryId": "ADDICTION",
-    "region": "06 - MONTRÉAL",
-    "phone": "514-528-1700",
-    "smsOrChat": "SIS, halte-chaleur et soins infirmiers",
-    "website": "https://spectrederue.org",
-    "address": "1280, rue Ontario Est, Montréal, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Service de consommation supervisée, halte-accueil, dépistage ITSS, trousses de naloxone et accompagnement pour personnes en situation d’itinérance ou de consommation.",
-    "descEn": "Supervised consumption service, drop-in center, STI testing, naloxone kits, and support for unhoused people or people who use drugs.",
-    "tags": [
-      "spectre de rue",
-      "consommation supervisee",
-      "sis",
-      "naloxone",
-      "itinerance",
-      "montreal",
-      "itss"
-    ]
-  },
-  {
-    "id": "QC-93",
-    "nameFr": "TCRI — ACCUEIL DES PERSONNES RÉFUGIÉES ET IMMIGRANTES",
-    "nameEn": "TCRI — REFUGEE & IMMIGRANT SERVICES NETWORK",
-    "categoryId": "LEGAL",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "514-272-6060",
-    "smsOrChat": "Répertoire de 160+ organismes d’accueil au Québec",
-    "website": "https://tcri.qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Orientation vers les organismes communautaires d’accueil, francisation, recherche de logement, emploi et accompagnement juridique des nouveaux arrivants.",
-    "descEn": "Referral to community settlement agencies, French classes, housing, employment, and legal support for newcomers and refugees.",
-    "tags": [
-      "immigrant",
-      "refugie",
-      "nouvel arrivant",
-      "francisation",
-      "tcri",
-      "immigration",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-18",
-    "nameFr": "TEL-AIDE MONTÉRÉGIE / SUROÎT (VALLEYFIELD)",
-    "nameEn": "TEL-AIDE MONTÉRÉGIE / SUROÎT",
-    "categoryId": "HEALTH",
-    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
-    "phone": "450-371-4090",
-    "smsOrChat": "Sans frais: 1-800-895-4090 (Écoute locale)",
-    "website": "https://www.telaide.org",
-    "address": "Salaberry-de-Valleyfield, QC",
-    "is247": true,
-    "hasChatOrSms": false,
-    "descFr": "Écoute active, anonyme et sans jugement 24/7 pour les résidents de Salaberry-de-Valleyfield, Beauharnois, Vaudreuil-Soulanges et la Montérégie.",
-    "descEn": "Active, anonymous, non-judgmental 24/7 listening for residents of Salaberry-de-Valleyfield, Beauharnois, Vaudreuil-Soulanges, and Montérégie.",
-    "tags": [
-      "valleyfield",
-      "suroit",
-      "monteregie",
-      "solitude",
-      "ecoute",
-      "telaide",
-      "anxiete"
-    ]
-  },
-  {
-    "id": "QC-49",
-    "nameFr": "TEL-AIDE QUÉBEC (ÉCOUTE & PRÉVENTION DÉTRESSE)",
-    "nameEn": "TEL-AIDE QUÉBEC (ACTIVE LISTENING HELPLINE)",
-    "categoryId": "HEALTH",
-    "region": "03 - CAPITALE-NATIONALE",
-    "phone": "418-686-2433",
-    "smsOrChat": "Écoute anonyme et confidentielle 24/7",
-    "website": "https://www.telaide.qc.ca",
-    "address": "Québec, QC",
-    "is247": true,
-    "hasChatOrSms": false,
-    "descFr": "Service d’écoute téléphonique gratuit, anonyme et confidentiel 24/7 pour toute personne vivant de la solitude, de l’angoisse ou une période difficile.",
-    "descEn": "Free, anonymous, and confidential 24/7 telephone listening service for anyone experiencing loneliness, distress, or a difficult period.",
-    "tags": [
-      "ecoute",
-      "solitude",
-      "quebec",
-      "detresse",
-      "telaide",
-      "anxiete"
-    ]
-  },
-  {
-    "id": "QC-05",
-    "nameFr": "TEL-JEUNES",
-    "nameEn": "TEL-JEUNES",
-    "categoryId": "YOUTH",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-800-263-2266",
-    "smsOrChat": "SMS: 514-600-1002 | Clavardage web",
-    "website": "https://www.teljeunes.com",
-    "address": "Partout au Québec",
-    "is247": true,
-    "hasChatOrSms": true,
-    "descFr": "Service confidentiel et gratuit 24/7 pour les jeunes de 12 à 20 ans : relations, sexualité, intimidation, santé mentale et vie familiale.",
-    "descEn": "Free, confidential 24/7 counseling service for youth aged 12 to 20 covering relationships, sexuality, bullying, mental health, and family life.",
-    "tags": [
-      "jeunes",
-      "ado",
-      "intimidation",
-      "ecole",
-      "texto",
-      "sexualite",
-      "youth",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-20",
-    "nameFr": "TRACOM — CENTRE DE CRISE (MONTRÉAL)",
-    "nameEn": "TRACOM — CRISIS CENTER (MONTREAL)",
-    "categoryId": "CRISIS",
-    "region": "06 - MONTRÉAL",
-    "phone": "514-483-3033",
-    "smsOrChat": "Intervention mobile et hébergement 24/7",
-    "website": "https://www.tracom.ca",
-    "address": "6045, avenue de Monkland, Montréal, QC",
-    "is247": true,
-    "hasChatOrSms": false,
-    "descFr": "Équipe mobile d’intervention de crise dans le milieu, ligne téléphonique 24/7 et hébergement temporaire de crise à Montréal.",
-    "descEn": "Mobile crisis outreach team, 24/7 telephone helpline, and temporary crisis beds in Montreal.",
-    "tags": [
-      "montreal",
-      "mobile",
-      "crise",
-      "urgence psychiatrique",
-      "tracom",
-      "hebergement"
-    ]
-  },
-  {
-    "id": "QC-15",
-    "nameFr": "TRIBUNAL ADMINISTRATIF DU LOGEMENT (TAL)",
-    "nameEn": "ADMINISTRATIVE HOUSING TRIBUNAL (TAL)",
-    "categoryId": "HOUSING",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-800-683-2245",
-    "smsOrChat": "Renseignements locataires et propriétaires",
-    "website": "https://www.tal.gouv.qc.ca",
-    "address": "5199, rue Sherbrooke Est, Montréal, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Information officielle sur les baux, hausses de loyer, évictions, insalubrité et recours juridiques en matière de logement au Québec.",
-    "descEn": "Official information on leases, rent increases, evictions, unsanitary conditions, and legal housing remedies in Quebec.",
-    "tags": [
-      "loyer",
-      "bail",
-      "eviction",
-      "proprietaire",
-      "regie",
-      "tal",
-      "locataire",
-      "logement"
-    ]
-  },
-  {
-    "id": "QC-87",
-    "nameFr": "UNION DES CONSOMMATEURS / RÉSEAU DES ACEF (BUDGET & DETTES)",
-    "nameEn": "ACEF NETWORK — FREE BUDGET & DEBT COUNSELING",
-    "categoryId": "LEGAL",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-888-521-6820",
-    "smsOrChat": "Consultations budgétaires gratuites au Québec",
-    "website": "https://consommateur.qc.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Aide budgétaire gratuite et confidentielle, défense des droits des consommateurs et solutions face aux dettes et saisies partout au Québec.",
-    "descEn": "Free, confidential budget counseling, consumer rights advocacy, and debt-relief guidance across Quebec.",
-    "tags": [
-      "dettes",
-      "budget",
-      "acef",
-      "argent",
-      "consommation",
-      "faillite",
-      "debt",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-171",
-    "nameFr": "UNION ÉTUDIANTE DU QUÉBEC (UEQ — DROITS UNIVERSITAIRES)",
-    "nameEn": "QUEBEC STUDENT UNION (UEQ — UNIVERSITY STUDENT RIGHTS)",
-    "categoryId": "STUDENT",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "514-396-3380",
-    "smsOrChat": "Défense des droits, aide financière et santé mentale",
-    "website": "https://unionetudiante.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Représentation nationale des étudiants universitaires au Québec : défense des droits, lutte contre la précarité financière et promotion de la santé mentale.",
-    "descEn": "National representation for university students in Quebec advocating for student rights, financial aid improvements, and campus mental health.",
-    "tags": [
-      "etudiant",
-      "universite",
-      "ueq",
-      "droits",
-      "bourses",
-      "sante mentale",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-173",
-    "nameFr": "UTILE — LOGEMENT ÉTUDIANT ABORDABLE AU QUÉBEC",
-    "nameEn": "UTILE — AFFORDABLE STUDENT HOUSING IN QUEBEC",
-    "categoryId": "HOUSING",
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "514-508-8845",
-    "smsOrChat": "Logements étudiants sans but lucratif (Montréal, Québec, Sherbrooke, Trois-Rivières)",
-    "website": "https://www.utile.org",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Organisme d’économie sociale développant et gérant des immeubles résidentiels abordables dédiés aux étudiants dans plusieurs villes universitaires du Québec.",
-    "descEn": "Social economy non-profit developing and managing affordable residential apartment buildings dedicated to students across Quebec university cities.",
-    "tags": [
-      "logement etudiant",
-      "utile",
-      "appartement",
-      "universite",
-      "cegep",
-      "loyer",
-      "quebec"
-    ]
-  },
-  {
-    "id": "QC-164",
-    "nameFr": "VIOL-SECOURS — CALACS DE QUÉBEC",
-    "nameEn": "VIOL-SECOURS — SEXUAL ASSAULT CENTER (QUEBEC CITY)",
-    "categoryId": "VIOLENCE",
-    "region": "03 - CAPITALE-NATIONALE",
-    "phone": "418-522-2120",
-    "smsOrChat": "Écoute, accompagnement médical et judiciaire à Québec",
-    "website": "https://www.violsecours.qc.ca",
-    "address": "Québec, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Centre d’aide et de lutte contre les agressions à caractère sexuel à Québec offrant écoute, groupes de soutien et accompagnement juridique.",
-    "descEn": "Sexual assault support center in Quebec City offering confidential listening, peer groups, and medical or legal accompaniment.",
-    "tags": [
-      "calacs",
-      "agression",
-      "quebec",
-      "violence sexuelle",
-      "femme",
-      "viol-secours"
-    ]
-  },
-  {
-    "id": "QC-37",
-    "nameFr": "VISION-TRAVAIL & PS JEUNESSE — EMPLOYABILITÉ (OBNL)",
-    "nameEn": "VISION-TRAVAIL & PS JEUNESSE — NON-PROFIT EMPLOYABILITY",
-    "categoryId": "EMPLOYMENT",
-    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
-    "phone": "450-371-9533",
-    "smsOrChat": "OBNL gratuit — 40 ans et + / PS Jeunesse: 450-377-4949",
-    "website": "https://www.visiontravail.ca",
-    "address": "Salaberry-de-Valleyfield, QC",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Organismes à but non lucratif de Salaberry-de-Valleyfield offrant du counseling d’emploi gratuit pour les travailleurs expérimentés (40+) et les personnes éloignées du marché du travail.",
-    "descEn": "Salaberry-de-Valleyfield non-profits offering free career counseling for experienced workers (40+) and individuals re-entering the workforce.",
-    "tags": [
-      "emploi",
-      "40 ans",
-      "carriere",
-      "valleyfield",
-      "obnl",
-      "gratuit",
-      "suroit"
     ]
   }
 ]
