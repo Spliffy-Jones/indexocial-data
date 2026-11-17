@@ -139,6 +139,56 @@
   },
   {
     "id": "QC-06",
+    "nameFr": "Action Centre-Ville Montréal",
+    "nameEn": "Action Centre-Ville Montréal",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "action",
+      "centre-ville",
+      "montréal",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-07",
+    "nameFr": "Adriana Espace Collectif",
+    "nameEn": "Adriana Espace Collectif",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "adriana",
+      "espace",
+      "collectif",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-08",
     "nameFr": "AIDE AUX TRANS DU QUÉBEC (ATQ)",
     "nameEn": "AIDE AUX TRANS DU QUÉBEC (ATQ)",
     "categoryIds": [
@@ -166,7 +216,7 @@
     ]
   },
   {
-    "id": "QC-07",
+    "id": "QC-09",
     "nameFr": "AIDE FINANCIÈRE AUX ÉTUDES (AFE — PRÊTS ET BOURSES)",
     "nameEn": "STUDENT FINANCIAL ASSISTANCE (AFE — LOANS & BURSARIES)",
     "categoryIds": [
@@ -194,7 +244,34 @@
     ]
   },
   {
-    "id": "QC-08",
+    "id": "QC-10",
+    "nameFr": "Aînés et retraités de la communauté gaie (ARCG)",
+    "nameEn": "Aînés et retraités de la communauté gaie (ARCG)",
+    "categoryIds": [
+      "LGBTQ",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "aînés",
+      "retraités",
+      "communauté",
+      "gaie",
+      "(arcg)",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-11",
     "nameFr": "ALCOOLIQUES ANONYMES DU QUÉBEC (AA)",
     "nameEn": "ALCOHOLICS ANONYMOUS QUEBEC (AA)",
     "categoryIds": [
@@ -221,7 +298,7 @@
     ]
   },
   {
-    "id": "QC-09",
+    "id": "QC-12",
     "nameFr": "ALLOPROF — AIDE AUX DEVOIRS ET SOUTIEN SCOLAIRE GRATUIT",
     "nameEn": "ALLOPROF — FREE HOMEWORK HELP & ACADEMIC SUPPORT",
     "categoryIds": [
@@ -249,7 +326,7 @@
     ]
   },
   {
-    "id": "QC-10",
+    "id": "QC-13",
     "nameFr": "AMI-QUÉBEC — AGIR CONTRE LA MALADIE MENTALE",
     "nameEn": "AMI-QUEBEC — ACTION ON MENTAL ILLNESS",
     "categoryIds": [
@@ -275,7 +352,7 @@
     ]
   },
   {
-    "id": "QC-11",
+    "id": "QC-14",
     "nameFr": "ANEB QUÉBEC (ANOREXIE ET BOULIMIE QUÉBEC)",
     "nameEn": "ANEB QUEBEC (EATING DISORDERS SUPPORT)",
     "categoryIds": [
@@ -302,7 +379,7 @@
     ]
   },
   {
-    "id": "QC-12",
+    "id": "QC-15",
     "nameFr": "AQDR — DÉFENSE DES DROITS DES PERSONNES RETRAITÉES",
     "nameEn": "AQDR — RETIRED & SENIOR CITIZENS’ RIGHTS ASSOCIATION",
     "categoryIds": [
@@ -329,7 +406,7 @@
     ]
   },
   {
-    "id": "QC-13",
+    "id": "QC-16",
     "nameFr": "AQEPA — ASSOCIATION DU QUÉBEC POUR ENFANTS AVEC PROBLÈMES AUDITIFS",
     "nameEn": "AQEPA — QUEBEC ASSOCIATION FOR CHILDREN WITH HEARING LOSS",
     "categoryIds": [
@@ -356,7 +433,31 @@
     ]
   },
   {
-    "id": "QC-14",
+    "id": "QC-17",
+    "nameFr": "Arborescence Québec",
+    "nameEn": "Arborescence Québec",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "arborescence",
+      "québec",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-18",
     "nameFr": "ASRSQ — RÉSEAU DE RÉHABILITATION SOCIALE DU QUÉBEC",
     "nameEn": "ASRSQ — QUEBEC SOCIAL REHABILITATION NETWORK",
     "categoryIds": [
@@ -384,7 +485,83 @@
     ]
   },
   {
-    "id": "QC-15",
+    "id": "QC-19",
+    "nameFr": "Association citoyenne du Village de Montréal",
+    "nameEn": "Association citoyenne du Village de Montréal",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "association",
+      "citoyenne",
+      "village",
+      "montréal",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-20",
+    "nameFr": "Association Les Chemins du Soleil",
+    "nameEn": "Association Les Chemins du Soleil",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "association",
+      "chemins",
+      "soleil",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-21",
+    "nameFr": "ASSOCIATION QUÉBÉCOISE DE DÉFENSE DES DROITS DES PERSONNES RETRAITÉES (AQDR MONTRÉAL)",
+    "nameEn": "AQDR MONTREAL — SENIOR RIGHTS ADVOCACY",
+    "categoryIds": [
+      "SENIORS",
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-935-1551",
+    "smsOrChat": "Défense des droits des aînés à Montréal",
+    "website": "https://www.aqdrmontreal.org",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Défense collective et individuelle des droits des personnes aînées et retraitées sur le territoire de Montréal.",
+    "descEn": "Collective and individual advocacy for the rights of seniors and retirees in Montreal.",
+    "tags": [
+      "aines",
+      "montreal",
+      "droits",
+      "retraite",
+      "aqdr"
+    ]
+  },
+  {
+    "id": "QC-22",
     "nameFr": "ASSOCIATION QUÉBÉCOISE DE LA DOULEUR CHRONIQUE (AQDC)",
     "nameEn": "QUEBEC CHRONIC PAIN ASSOCIATION (AQDC)",
     "categoryIds": [
@@ -410,7 +587,7 @@
     ]
   },
   {
-    "id": "QC-16",
+    "id": "QC-23",
     "nameFr": "ASSOCIATION QUÉBÉCOISE DE LA FIBROMYALGIE (AQF)",
     "nameEn": "QUEBEC FIBROMYALGIA ASSOCIATION (AQF)",
     "categoryIds": [
@@ -436,7 +613,7 @@
     ]
   },
   {
-    "id": "QC-17",
+    "id": "QC-24",
     "nameFr": "ASSOCIATION QUÉBÉCOISE DE PRÉVENTION DU SUICIDE (AQPS)",
     "nameEn": "QUEBEC ASSOCIATION FOR SUICIDE PREVENTION (AQPS)",
     "categoryIds": [
@@ -461,7 +638,58 @@
     ]
   },
   {
-    "id": "QC-18",
+    "id": "QC-25",
+    "nameFr": "Association sportive et communautaire du Centre Sud",
+    "nameEn": "Association sportive et communautaire du Centre Sud",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "association",
+      "sportive",
+      "communautaire",
+      "centre",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-26",
+    "nameFr": "Atelier des lettres en alphabétisation",
+    "nameEn": "Atelier des lettres en alphabétisation",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "atelier",
+      "lettres",
+      "alphabétisation",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-27",
     "nameFr": "AU BAS DE L’ÉCHELLE — DÉFENSE DES TRAVAILLEURS NON SYNDIQUÉS",
     "nameEn": "AU BAS DE L’ÉCHELLE — NON-UNIONIZED WORKERS’ RIGHTS",
     "categoryIds": [
@@ -488,7 +716,31 @@
     ]
   },
   {
-    "id": "QC-19",
+    "id": "QC-28",
+    "nameFr": "Au Coup de pouce",
+    "nameEn": "Au Coup de pouce",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "coup",
+      "pouce",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-29",
     "nameFr": "AU CŒUR DES FAMILLES AGRICOLES (ACFA — TRAVAILLEURS DE RANG)",
     "nameEn": "AU CŒUR DES FAMILLES AGRICOLES (FARMING STRESS & CRISIS)",
     "categoryIds": [
@@ -515,7 +767,83 @@
     ]
   },
   {
-    "id": "QC-20",
+    "id": "QC-30",
+    "nameFr": "Banque d’échanges communautaires de services (BECS)",
+    "nameEn": "Banque d’échanges communautaires de services (BECS)",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "banque",
+      "d’échanges",
+      "communautaires",
+      "services",
+      "(becs)",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-31",
+    "nameFr": "Bibliothèque Frontenac",
+    "nameEn": "Bibliothèque Frontenac",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "bibliothèque",
+      "frontenac",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-32",
+    "nameFr": "Bibliothèque Père Ambroise",
+    "nameEn": "Bibliothèque Père Ambroise",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "bibliothèque",
+      "père",
+      "ambroise",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-33",
     "nameFr": "BOUFFE-ACTION DE ROSEMONT (SÉCURITÉ ALIMENTAIRE)",
     "nameEn": "BOUFFE-ACTION DE ROSEMONT (FOOD SECURITY)",
     "categoryIds": [
@@ -540,7 +868,7 @@
     ]
   },
   {
-    "id": "QC-21",
+    "id": "QC-34",
     "nameFr": "CACTUS MONTRÉAL — CENTRE DE CONSOMMATION SUPERVISÉE",
     "nameEn": "CACTUS MONTRÉAL — SUPERVISED CONSUMPTION SITE",
     "categoryIds": [
@@ -568,7 +896,7 @@
     ]
   },
   {
-    "id": "QC-22",
+    "id": "QC-35",
     "nameFr": "CALACS LA BÔME (VIOLENCE SEXUELLE — GASPÉSIE)",
     "nameEn": "CALACS LA BÔME — SEXUAL ASSAULT CENTER (GASPÉSIE)",
     "categoryIds": [
@@ -577,13 +905,13 @@
     ],
     "region": "11 - GASPÉSIE–ÎLES-DE-LA-MADELEINE",
     "phone": "418-368-1166",
-    "smsOrChat": "Écoute, soutien et accompagnement judiciaire",
+    "smsOrChat": "Écoute, accompagnement médical et judiciaire",
     "website": "https://www.calacslabome.com",
     "address": "Gaspé, QC",
     "is247": false,
     "hasChatOrSms": false,
-    "descFr": "Soutien confidentiel, écoute, groupes d’entraide et accompagnement dans les démarches policières ou judiciaires pour les femmes victimes d’agression sexuelle en Gaspésie.",
-    "descEn": "Confidential support, listening, peer groups, and accompaniment through police or legal proceedings for women who have experienced sexual assault in Gaspésie.",
+    "descFr": "Soutien confidentiel, écoute, groupes d’entraide et accompagnement médical ou judiciaire pour les femmes victimes d’agression sexuelle en Gaspésie.",
+    "descEn": "Confidential support, listening, peer groups, and medical or legal accompaniment for women who have experienced sexual assault in Gaspésie.",
     "tags": [
       "calacs",
       "gaspesie",
@@ -594,7 +922,7 @@
     ]
   },
   {
-    "id": "QC-23",
+    "id": "QC-36",
     "nameFr": "CAP SAINT-BARNABÉ — COMPTOIR ALIMENTAIRE & REPAS (HOCHELAGA)",
     "nameEn": "CAP SAINT-BARNABÉ — FOOD PANTRY & HOT MEALS",
     "categoryIds": [
@@ -620,7 +948,7 @@
     ]
   },
   {
-    "id": "QC-24",
+    "id": "QC-37",
     "nameFr": "CAP SANTÉ MENTALE (SOUTIEN AUX PROCHES)",
     "nameEn": "CAP SANTÉ MENTALE (FAMILY & CAREGIVER MENTAL HEALTH)",
     "categoryIds": [
@@ -646,7 +974,7 @@
     ]
   },
   {
-    "id": "QC-25",
+    "id": "QC-38",
     "nameFr": "CARREFOUR ALIMENTAIRE CENTRE-SUD (BANQUE ALIMENTAIRE)",
     "nameEn": "CARREFOUR ALIMENTAIRE CENTRE-SUD (FOOD BANK & MARKETS)",
     "categoryIds": [
@@ -671,7 +999,7 @@
     ]
   },
   {
-    "id": "QC-26",
+    "id": "QC-39",
     "nameFr": "CARREFOUR JEUNESSE-EMPLOI BEAUHARNOIS-SALABERRY (OBNL)",
     "nameEn": "CARREFOUR JEUNESSE-EMPLOI BEAUHARNOIS-SALABERRY (NON-PROFIT)",
     "categoryIds": [
@@ -700,7 +1028,7 @@
     ]
   },
   {
-    "id": "QC-27",
+    "id": "QC-40",
     "nameFr": "CARREFOUR JEUNESSE-EMPLOI VAUDREUIL-SOULANGES (OBNL)",
     "nameEn": "CARREFOUR JEUNESSE-EMPLOI VAUDREUIL-SOULANGES (NON-PROFIT)",
     "categoryIds": [
@@ -729,7 +1057,55 @@
     ]
   },
   {
-    "id": "QC-28",
+    "id": "QC-41",
+    "nameFr": "Carrefour Solidaire",
+    "nameEn": "Carrefour Solidaire",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "carrefour",
+      "solidaire",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-42",
+    "nameFr": "Carrefour St-Eusèbe",
+    "nameEn": "Carrefour St-Eusèbe",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "carrefour",
+      "st-eusèbe",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-43",
     "nameFr": "CAVAC — AIDE AUX VICTIMES D’ACTES CRIMINELS",
     "nameEn": "CAVAC — CRIME VICTIMS ASSISTANCE",
     "categoryIds": [
@@ -757,7 +1133,30 @@
     ]
   },
   {
-    "id": "QC-29",
+    "id": "QC-44",
+    "nameFr": "CDC Centre-Sud",
+    "nameEn": "CDC Centre-Sud",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "centre-sud",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-45",
     "nameFr": "CÉGEP DE VALLEYFIELD — SERVICES PSYCHOSOCIAUX & AIDE ÉTUDIANTE",
     "nameEn": "CÉGEP DE VALLEYFIELD — STUDENT PSYCHOSOCIAL & FINANCIAL AID",
     "categoryIds": [
@@ -783,7 +1182,7 @@
     ]
   },
   {
-    "id": "QC-30",
+    "id": "QC-46",
     "nameFr": "CENTRE ANTIPOISON DU QUÉBEC (CAPQ)",
     "nameEn": "QUEBEC POISON CONTROL CENTRE (CAPQ)",
     "categoryIds": [
@@ -810,7 +1209,35 @@
     ]
   },
   {
-    "id": "QC-31",
+    "id": "QC-47",
+    "nameFr": "Centre Associatif Polyvalent d’Aide Hépatite C (CAPAHC)",
+    "nameEn": "Centre Associatif Polyvalent d’Aide Hépatite C (CAPAHC)",
+    "categoryIds": [
+      "HEALTH",
+      "CRISIS"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "centre",
+      "associatif",
+      "polyvalent",
+      "d’aide",
+      "hépatite",
+      "(capahc)",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-48",
     "nameFr": "CENTRE COMMUNAUTAIRE BÉNÉVOLE DE SAINT-LAURENT (ALIMENTATION)",
     "nameEn": "SAINT-LAURENT VOLUNTEER COMMUNITY CENTER (FOOD BANK)",
     "categoryIds": [
@@ -836,7 +1263,33 @@
     ]
   },
   {
-    "id": "QC-32",
+    "id": "QC-49",
+    "nameFr": "Centre communautaire LGBTQ+ de Montréal",
+    "nameEn": "Centre communautaire LGBTQ+ de Montréal",
+    "categoryIds": [
+      "LGBTQ",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-528-4100",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "2075, rue Plessis, Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "centre",
+      "communautaire",
+      "lgbtq+",
+      "montréal",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-50",
     "nameFr": "CENTRE DE BÉNÉVOLAT ET MOISSON LAVAL (AIDE ALIMENTAIRE)",
     "nameEn": "LAVAL VOLUNTEER CENTER & FOOD BANK",
     "categoryIds": [
@@ -862,7 +1315,32 @@
     ]
   },
   {
-    "id": "QC-33",
+    "id": "QC-51",
+    "nameFr": "CENTRE DE CALM — LIGNE DE CRISE OUTAOUAIS",
+    "nameEn": "CALM CENTER — OUTAOUAIS CRISIS LINE",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "07 - OUTAOUAIS",
+    "phone": "819-777-2121",
+    "smsOrChat": "Soutien de crise en Outaouais",
+    "website": "https://www.centrecalm.ca",
+    "address": "Gatineau, QC",
+    "is247": true,
+    "hasChatOrSms": false,
+    "descFr": "Intervention téléphonique de crise et écoute active pour toute personne en détresse psychologique en Outaouais.",
+    "descEn": "Telephone crisis intervention and active listening for anyone experiencing psychological distress in Outaouais.",
+    "tags": [
+      "crise",
+      "outaouais",
+      "gatineau",
+      "detresse",
+      "aide"
+    ]
+  },
+  {
+    "id": "QC-52",
     "nameFr": "CENTRE DE CRISE DE L’OUTAOUAIS (AIDE-CRISE)",
     "nameEn": "OUTAOUAIS CRISIS CENTER",
     "categoryIds": [
@@ -889,7 +1367,7 @@
     ]
   },
   {
-    "id": "QC-34",
+    "id": "QC-53",
     "nameFr": "CENTRE DE CRISE ET DE PRÉVENTION DU SUICIDE CHAUDIÈRE-APPALACHES",
     "nameEn": "CHAUDIÈRE-APPALACHES CRISIS & SUICIDE PREVENTION CENTER",
     "categoryIds": [
@@ -916,7 +1394,7 @@
     ]
   },
   {
-    "id": "QC-35",
+    "id": "QC-54",
     "nameFr": "CENTRE DE CRISE L’AUTRE MAISON (MONTRÉAL SUD-OUEST)",
     "nameEn": "L’AUTRE MAISON CRISIS CENTER (SOUTHWEST MONTREAL)",
     "categoryIds": [
@@ -943,7 +1421,7 @@
     ]
   },
   {
-    "id": "QC-36",
+    "id": "QC-55",
     "nameFr": "CENTRE DE PRÉVENTION DU SUICIDE 02 (SAGUENAY–LAC-SAINT-JEAN)",
     "nameEn": "SUICIDE PREVENTION CENTER 02 (SAGUENAY–LAC-SAINT-JEAN)",
     "categoryIds": [
@@ -969,7 +1447,7 @@
     ]
   },
   {
-    "id": "QC-37",
+    "id": "QC-56",
     "nameFr": "CENTRE DE PRÉVENTION DU SUICIDE ACCALMIE (MAURICIE)",
     "nameEn": "ACCALMIE SUICIDE PREVENTION CENTER (MAURICIE)",
     "categoryIds": [
@@ -995,7 +1473,7 @@
     ]
   },
   {
-    "id": "QC-38",
+    "id": "QC-57",
     "nameFr": "CENTRE DE PRÉVENTION DU SUICIDE DE QUÉBEC (CPSQ)",
     "nameEn": "QUEBEC CITY SUICIDE PREVENTION CENTER (CPSQ)",
     "categoryIds": [
@@ -1009,8 +1487,8 @@
     "address": "8180, boulevard Pierre-Bertrand, Québec, QC",
     "is247": true,
     "hasChatOrSms": false,
-    "descFr": "Intervention de crise téléphonique 24/7, suivi psychosocial, soutien aux proches inquiets et groupes de deuil suite à un suicide dans la région de Québec.",
-    "descEn": "24/7 telephone crisis intervention, psychosocial follow-up, support for worried loved ones, and suicide bereavement groups in the Quebec City region.",
+    "descFr": "Intervention de crise 24/7, hébergement temporaire de crise, soutien aux proches inquiets et groupes de deuil suite à un suicide dans la région de Québec.",
+    "descEn": "24/7 crisis intervention, temporary crisis beds, support for worried loved ones, and suicide bereavement groups in the Quebec City region.",
     "tags": [
       "suicide",
       "crise",
@@ -1021,7 +1499,7 @@
     ]
   },
   {
-    "id": "QC-39",
+    "id": "QC-58",
     "nameFr": "CENTRE DE PRÉVENTION DU SUICIDE DU HAUT-RICHELIEU",
     "nameEn": "HAUT-RICHELIEU SUICIDE PREVENTION CENTER",
     "categoryIds": [
@@ -1047,7 +1525,7 @@
     ]
   },
   {
-    "id": "QC-40",
+    "id": "QC-59",
     "nameFr": "CENTRE DE PRÉVENTION DU SUICIDE ET D’INTERVENTION DE CRISE DU BSL",
     "nameEn": "BAS-SAINT-LAURENT CRISIS & SUICIDE PREVENTION CENTER",
     "categoryIds": [
@@ -1074,7 +1552,34 @@
     ]
   },
   {
-    "id": "QC-41",
+    "id": "QC-60",
+    "nameFr": "Centre de ressources pour hommes de Montréal",
+    "nameEn": "Centre de ressources pour hommes de Montréal",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "centre",
+      "ressources",
+      "pour",
+      "hommes",
+      "montréal",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-61",
     "nameFr": "CENTRE DE SANTÉ ET DE SERVICES SOCIAUX DE KANESATAKE",
     "nameEn": "KANESATAKE HEALTH CENTER",
     "categoryIds": [
@@ -1100,7 +1605,32 @@
     ]
   },
   {
-    "id": "QC-42",
+    "id": "QC-62",
+    "nameFr": "Centre de soir Denise-Massé",
+    "nameEn": "Centre de soir Denise-Massé",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "centre",
+      "soir",
+      "denise-massé",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-63",
     "nameFr": "CENTRE D’ACTION BÉNÉVOLE DE VALLEYFIELD",
     "nameEn": "VALLEYFIELD VOLUNTEER ACTION CENTER",
     "categoryIds": [
@@ -1127,7 +1657,7 @@
     ]
   },
   {
-    "id": "QC-43",
+    "id": "QC-64",
     "nameFr": "CENTRE D’ACTION BÉNÉVOLE DU GRAND CHÂTEAUGUAY",
     "nameEn": "GREATER CHÂTEAUGUAY VOLUNTEER ACTION CENTER",
     "categoryIds": [
@@ -1154,7 +1684,7 @@
     ]
   },
   {
-    "id": "QC-44",
+    "id": "QC-65",
     "nameFr": "CENTRE D’AIDE AUX ÉTUDIANTS DE L’UNIVERSITÉ LAVAL (QUÉBEC)",
     "nameEn": "UNIVERSITÉ LAVAL STUDENT COUNSELING CENTER (QUEBEC CITY)",
     "categoryIds": [
@@ -1180,7 +1710,7 @@
     ]
   },
   {
-    "id": "QC-45",
+    "id": "QC-66",
     "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE CHIBOUGAMAU (EENOU)",
     "nameEn": "CHIBOUGAMAU EENOU FRIENDSHIP CENTRE",
     "categoryIds": [
@@ -1208,7 +1738,7 @@
     ]
   },
   {
-    "id": "QC-46",
+    "id": "QC-67",
     "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE GASPÉ (GESPEG)",
     "nameEn": "GASPÉ NATIVE FRIENDSHIP CENTRE (GESPEG)",
     "categoryIds": [
@@ -1234,7 +1764,7 @@
     ]
   },
   {
-    "id": "QC-47",
+    "id": "QC-68",
     "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE JOLIETTE",
     "nameEn": "JOLIETTE NATIVE FRIENDSHIP CENTRE",
     "categoryIds": [
@@ -1261,7 +1791,7 @@
     ]
   },
   {
-    "id": "QC-48",
+    "id": "QC-69",
     "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE LA TUQUE",
     "nameEn": "LA TUQUE NATIVE FRIENDSHIP CENTRE",
     "categoryIds": [
@@ -1289,7 +1819,7 @@
     ]
   },
   {
-    "id": "QC-49",
+    "id": "QC-70",
     "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE MONTRÉAL (CAAM)",
     "nameEn": "NATIVE FRIENDSHIP CENTRE OF MONTREAL (NFCM)",
     "categoryIds": [
@@ -1318,7 +1848,7 @@
     ]
   },
   {
-    "id": "QC-50",
+    "id": "QC-71",
     "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE SEPT-ÎLES",
     "nameEn": "SEPT-ÎLES NATIVE FRIENDSHIP CENTRE",
     "categoryIds": [
@@ -1345,7 +1875,7 @@
     ]
   },
   {
-    "id": "QC-51",
+    "id": "QC-72",
     "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE VAL-D’OR",
     "nameEn": "VAL-D’OR NATIVE FRIENDSHIP CENTRE",
     "categoryIds": [
@@ -1374,7 +1904,7 @@
     ]
   },
   {
-    "id": "QC-52",
+    "id": "QC-73",
     "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DU SAGUENAY (CHICOUTIMI)",
     "nameEn": "SAGUENAY NATIVE FRIENDSHIP CENTRE",
     "categoryIds": [
@@ -1402,7 +1932,111 @@
     ]
   },
   {
-    "id": "QC-53",
+    "id": "QC-74",
+    "nameFr": "Centre d’éducation et d’action des femmes de Montréal (CÉAF)",
+    "nameEn": "Centre d’éducation et d’action des femmes de Montréal (CÉAF)",
+    "categoryIds": [
+      "VIOLENCE",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "centre",
+      "d’éducation",
+      "d’action",
+      "femmes",
+      "montréal",
+      "(céaf)",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-75",
+    "nameFr": "Centre d’entraide et de ralliement familial (C.E.R.F.)",
+    "nameEn": "Centre d’entraide et de ralliement familial (C.E.R.F.)",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "centre",
+      "d’entraide",
+      "ralliement",
+      "familial",
+      "(c.e.r.f.)",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-76",
+    "nameFr": "Centre récréatif Poupart",
+    "nameEn": "Centre récréatif Poupart",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "centre",
+      "récréatif",
+      "poupart",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-77",
+    "nameFr": "Centre St-Pierre",
+    "nameEn": "Centre St-Pierre",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "centre",
+      "st-pierre",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-78",
     "nameFr": "CENTRES DE JUSTICE DE PROXIMITÉ DU QUÉBEC (CJP)",
     "nameEn": "COMMUNITY JUSTICE CENTRES OF QUEBEC (CJP)",
     "categoryIds": [
@@ -1429,7 +2063,7 @@
     ]
   },
   {
-    "id": "QC-54",
+    "id": "QC-79",
     "nameFr": "CHEZ DORIS — REFUGE DE JOUR ET DE NUIT POUR FEMMES",
     "nameEn": "CHEZ DORIS — WOMEN’S DAY & NIGHT SHELTER",
     "categoryIds": [
@@ -1457,7 +2091,81 @@
     ]
   },
   {
-    "id": "QC-55",
+    "id": "QC-80",
+    "nameFr": "Chez Émilie maison d’entraide populaire",
+    "nameEn": "Chez Émilie maison d’entraide populaire",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "chez",
+      "émilie",
+      "maison",
+      "d’entraide",
+      "populaire",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-81",
+    "nameFr": "CITIM",
+    "nameEn": "CITIM",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "citim",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-82",
+    "nameFr": "CIUSSS Centre-Sud-de-l’Île-de-Montréal",
+    "nameEn": "CIUSSS Centre-Sud-de-l’Île-de-Montréal",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "ciusss",
+      "centre-sud-de-l’île-de-montréal",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-83",
     "nameFr": "CLINIQUE D’INFORMATION JURIDIQUE À MCGILL",
     "nameEn": "LEGAL INFORMATION CLINIC AT MCGILL",
     "categoryIds": [
@@ -1484,7 +2192,7 @@
     ]
   },
   {
-    "id": "QC-56",
+    "id": "QC-84",
     "nameFr": "CLINIQUE JURIDIQUE DE L’UNIVERSITÉ DE MONTRÉAL",
     "nameEn": "UNIVERSITÉ DE MONTRÉAL LEGAL CLINIC",
     "categoryIds": [
@@ -1511,7 +2219,7 @@
     ]
   },
   {
-    "id": "QC-57",
+    "id": "QC-85",
     "nameFr": "CLINIQUE JURIDIQUE DE L’UQAM (INFORMATION JURIDIQUE GRATUITE)",
     "nameEn": "UQAM LEGAL CLINIC (FREE LEGAL INFORMATION)",
     "categoryIds": [
@@ -1538,7 +2246,32 @@
     ]
   },
   {
-    "id": "QC-58",
+    "id": "QC-86",
+    "nameFr": "CLINIQUE JURIDIQUE DE PORTAGE (AIDE EN DROIT PÉNAL ET CARCÉRAL)",
+    "nameEn": "PORTAGE LEGAL CLINIC",
+    "categoryIds": [
+      "LEGAL",
+      "EMPLOYMENT"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "514-939-0206",
+    "smsOrChat": "Information juridique en matière correctionnelle",
+    "website": "https://www.portage.ca",
+    "address": "Partout au Québec",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Soutien et orientation juridique pour les personnes aux prises avec des enjeux liés au système de justice pénale et carcérale.",
+    "descEn": "Support and legal referral for individuals dealing with issues related to the criminal and correctional justice system.",
+    "tags": [
+      "juridique",
+      "penal",
+      "justice",
+      "detenu",
+      "droits"
+    ]
+  },
+  {
+    "id": "QC-87",
     "nameFr": "CNESST — NORMES DU TRAVAIL, SANTÉ ET SÉCURITÉ",
     "nameEn": "CNESST — LABOUR STANDARDS & WORKPLACE SAFETY",
     "categoryIds": [
@@ -1566,7 +2299,32 @@
     ]
   },
   {
-    "id": "QC-59",
+    "id": "QC-88",
+    "nameFr": "Coalition des familles LGBT+",
+    "nameEn": "Coalition des familles LGBT+",
+    "categoryIds": [
+      "LGBTQ",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "coalition",
+      "familles",
+      "lgbt+",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-89",
     "nameFr": "COMITÉ LOGEMENT VALLEYFIELD",
     "nameEn": "VALLEYFIELD HOUSING COMMITTEE",
     "categoryIds": [
@@ -1594,7 +2352,58 @@
     ]
   },
   {
-    "id": "QC-60",
+    "id": "QC-90",
+    "nameFr": "Comité logement Ville-Marie de Montréal",
+    "nameEn": "Comité logement Ville-Marie de Montréal",
+    "categoryIds": [
+      "HOUSING",
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "comité",
+      "logement",
+      "ville-marie",
+      "montréal",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-91",
+    "nameFr": "Comité social Centre-Sud",
+    "nameEn": "Comité social Centre-Sud",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "comité",
+      "social",
+      "centre-sud",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-92",
     "nameFr": "COMMISSION DES DROITS DE LA PERSONNE ET DE LA JEUNESSE (CDPDJ)",
     "nameEn": "QUEBEC HUMAN RIGHTS & YOUTH RIGHTS COMMISSION (CDPDJ)",
     "categoryIds": [
@@ -1621,7 +2430,7 @@
     ]
   },
   {
-    "id": "QC-61",
+    "id": "QC-93",
     "nameFr": "COMMISSION DES SERVICES JURIDIQUES (AIDE JURIDIQUE)",
     "nameEn": "LEGAL AID QUEBEC (CSJ)",
     "categoryIds": [
@@ -1648,7 +2457,84 @@
     ]
   },
   {
-    "id": "QC-62",
+    "id": "QC-94",
+    "nameFr": "Conseillers en développement de la main d’œuvre – CJE Centre-Sud/Plateau-Mont-Royal/Mile-End (CODEM)",
+    "nameEn": "Conseillers en développement de la main d’œuvre – CJE Centre-Sud/Plateau-Mont-Royal/Mile-End (CODEM)",
+    "categoryIds": [
+      "EMPLOYMENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "conseillers",
+      "développement",
+      "main",
+      "d’œuvre",
+      "centre-sud/plateau-mont-royal/mile-end",
+      "(codem)",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-95",
+    "nameFr": "Coop Les Valoristes",
+    "nameEn": "Coop Les Valoristes",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "coop",
+      "valoristes",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-96",
+    "nameFr": "Corporation du Centre Jean-Claude Malépart",
+    "nameEn": "Corporation du Centre Jean-Claude Malépart",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "corporation",
+      "centre",
+      "jean-claude",
+      "malépart",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-97",
     "nameFr": "CRESO — CENTRE-CONSEIL EN EMPLOI (VALLEYFIELD / SUROÎT)",
     "nameEn": "CRESO — COMMUNITY EMPLOYMENT COUNSELING CENTER",
     "categoryIds": [
@@ -1675,7 +2561,31 @@
     ]
   },
   {
-    "id": "QC-63",
+    "id": "QC-98",
+    "nameFr": "CRIC Centre-Sud",
+    "nameEn": "CRIC Centre-Sud",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "cric",
+      "centre-sud",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-99",
     "nameFr": "CURATEUR PUBLIC DU QUÉBEC (PROTECTION DES PERSONNES INAPTES)",
     "nameEn": "PUBLIC CURATOR OF QUEBEC (PROTECTION OF INCAPACITATED PERSONS)",
     "categoryIds": [
@@ -1702,7 +2612,7 @@
     ]
   },
   {
-    "id": "QC-64",
+    "id": "QC-100",
     "nameFr": "DANS LA RUE (LE BON DIEU DANS LA RUE)",
     "nameEn": "DANS LA RUE — HOMELESS YOUTH SUPPORT",
     "categoryIds": [
@@ -1731,7 +2641,7 @@
     ]
   },
   {
-    "id": "QC-65",
+    "id": "QC-101",
     "nameFr": "DEUIL-JEUNESSE — SOUTIEN AU DEUIL ET À LA MALADIE GRAVE",
     "nameEn": "DEUIL-JEUNESSE — YOUTH & FAMILY GRIEF SUPPORT",
     "categoryIds": [
@@ -1758,13 +2668,12 @@
     ]
   },
   {
-    "id": "QC-66",
+    "id": "QC-102",
     "nameFr": "DOPAMINE — CENTRE DE CONSOMMATION SUPERVISÉE (HOCHELAGA)",
     "nameEn": "DOPAMINE — SUPERVISED CONSUMPTION SITE (HOCHELAGA)",
     "categoryIds": [
       "ADDICTION",
-      "FOOD",
-      "HEALTH"
+      "FOOD"
     ],
     "region": "06 - MONTRÉAL",
     "phone": "514-251-8872",
@@ -1786,7 +2695,7 @@
     ]
   },
   {
-    "id": "QC-67",
+    "id": "QC-103",
     "nameFr": "DROGUE : AIDE ET RÉFÉRENCE (DAR)",
     "nameEn": "DRUGS: HELP AND REFERRAL",
     "categoryIds": [
@@ -1813,7 +2722,32 @@
     ]
   },
   {
-    "id": "QC-68",
+    "id": "QC-104",
+    "nameFr": "Écomusée du fier monde",
+    "nameEn": "Écomusée du fier monde",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "écomusée",
+      "fier",
+      "monde",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-105",
     "nameFr": "ÉDUCALOI — INFORMATION JURIDIQUE CITOYENNE",
     "nameEn": "ÉDUCALOI — PLAIN-LANGUAGE LEGAL INFORMATION",
     "categoryIds": [
@@ -1840,7 +2774,7 @@
     ]
   },
   {
-    "id": "QC-69",
+    "id": "QC-106",
     "nameFr": "EN MARGE 12-17 — HÉBERGEMENT & TRAVAIL DE RUE JEUNESSE",
     "nameEn": "EN MARGE 12-17 — YOUTH SHELTER & STREET OUTREACH",
     "categoryIds": [
@@ -1867,7 +2801,109 @@
     ]
   },
   {
-    "id": "QC-70",
+    "id": "QC-107",
+    "nameFr": "Ensemble pour le respect de la diversité",
+    "nameEn": "Ensemble pour le respect de la diversité",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "ensemble",
+      "pour",
+      "respect",
+      "diversité",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-108",
+    "nameFr": "Entraide Léo Théoret",
+    "nameEn": "Entraide Léo Théoret",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "entraide",
+      "théoret",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-109",
+    "nameFr": "Espace Libre",
+    "nameEn": "Espace Libre",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "espace",
+      "libre",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-110",
+    "nameFr": "Famille pour l’Éducation et l’Entraide pour des Jeunes et des Adultes (FEEJAD)",
+    "nameEn": "Famille pour l’Éducation et l’Entraide pour des Jeunes et des Adultes (FEEJAD)",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "famille",
+      "pour",
+      "l’éducation",
+      "l’entraide",
+      "pour",
+      "jeunes",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-111",
     "nameFr": "FÉDÉRATION ÉTUDIANTE COLLÉGIALE DU QUÉBEC (FECQ)",
     "nameEn": "QUEBEC FEDERATION OF COLLEGE STUDENTS (FECQ)",
     "categoryIds": [
@@ -1894,7 +2930,7 @@
     ]
   },
   {
-    "id": "QC-71",
+    "id": "QC-112",
     "nameFr": "FÉDÉRATION QUÉBÉCOISE DE L’AUTISME (FQA)",
     "nameEn": "QUEBEC FEDERATION OF AUTISM (FQA)",
     "categoryIds": [
@@ -1922,7 +2958,7 @@
     ]
   },
   {
-    "id": "QC-72",
+    "id": "QC-113",
     "nameFr": "FÉDÉRATION QUÉBÉCOISE DES SOCIÉTÉS ALZHEIMER",
     "nameEn": "FEDERATION OF QUEBEC ALZHEIMER SOCIETIES",
     "categoryIds": [
@@ -1949,7 +2985,7 @@
     ]
   },
   {
-    "id": "QC-73",
+    "id": "QC-114",
     "nameFr": "FEMMES AUTOCHTONES DU QUÉBEC (FAQ)",
     "nameEn": "QUEBEC NATIVE WOMEN (QNW)",
     "categoryIds": [
@@ -1977,7 +3013,7 @@
     ]
   },
   {
-    "id": "QC-74",
+    "id": "QC-115",
     "nameFr": "FIN À LA FAIM — BANQUE ALIMENTAIRE (REPENTIGNY / LANAUDIÈRE)",
     "nameEn": "FIN À LA FAIM — FOOD BANK (REPENTIGNY / LANAUDIÈRE)",
     "categoryIds": [
@@ -2002,7 +3038,7 @@
     ]
   },
   {
-    "id": "QC-75",
+    "id": "QC-116",
     "nameFr": "FONDATION JEUNES EN TÊTE — SANTÉ MENTALE ÉTUDIANTE",
     "nameEn": "FONDATION JEUNES EN TÊTE — YOUTH MENTAL HEALTH",
     "categoryIds": [
@@ -2030,7 +3066,7 @@
     ]
   },
   {
-    "id": "QC-76",
+    "id": "QC-117",
     "nameFr": "FRAPRU — FRONT D’ACTION POPULAIRE EN RÉAMÉNAGEMENT URBAIN",
     "nameEn": "FRAPRU — SOCIAL HOUSING ADVOCACY COALITION",
     "categoryIds": [
@@ -2057,7 +3093,153 @@
     ]
   },
   {
-    "id": "QC-77",
+    "id": "QC-118",
+    "nameFr": "Front commun québécois pour une gestion écologique des déchets",
+    "nameEn": "Front commun québécois pour une gestion écologique des déchets",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "front",
+      "commun",
+      "québécois",
+      "pour",
+      "gestion",
+      "écologique",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-119",
+    "nameFr": "GEIPSI",
+    "nameEn": "GEIPSI",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "geipsi",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-120",
+    "nameFr": "Go Jeunesse",
+    "nameEn": "Go Jeunesse",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "jeunesse",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-121",
+    "nameFr": "Groupe Information Travail (G.I.T.)",
+    "nameEn": "Groupe Information Travail (G.I.T.)",
+    "categoryIds": [
+      "EMPLOYMENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "groupe",
+      "information",
+      "travail",
+      "(g.i.t.)",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-122",
+    "nameFr": "Groupe L’Itinéraire",
+    "nameEn": "Groupe L’Itinéraire",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-597-0609",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "1101, rue Rachel Est, Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "groupe",
+      "l’itinéraire",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-123",
+    "nameFr": "GSP Montréal",
+    "nameEn": "GSP Montréal",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "montréal",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-124",
     "nameFr": "HAVRE L’ÉCLAIRCIE — HÉBERGEMENT VIOLENCE CONJUGALE (BEAUCE)",
     "nameEn": "HAVRE L’ÉCLAIRCIE — WOMEN’S SHELTER (BEAUCE)",
     "categoryIds": [
@@ -2083,7 +3265,57 @@
     ]
   },
   {
-    "id": "QC-78",
+    "id": "QC-125",
+    "nameFr": "ICRC Clinique de Finance Sociale",
+    "nameEn": "ICRC Clinique de Finance Sociale",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "icrc",
+      "clinique",
+      "finance",
+      "sociale",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-126",
+    "nameFr": "Inclusion sport",
+    "nameEn": "Inclusion sport",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "inclusion",
+      "sport",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-127",
     "nameFr": "INFO-AIDANT (L’APPUI PROCHES AIDANTS)",
     "nameEn": "INFO-AIDANT (CAREGIVER SUPPORT)",
     "categoryIds": [
@@ -2110,7 +3342,7 @@
     ]
   },
   {
-    "id": "QC-79",
+    "id": "QC-128",
     "nameFr": "INFO-AIDE VIOLENCE SEXUELLE (CALACS)",
     "nameEn": "SEXUAL VIOLENCE HELPLINE (CALACS)",
     "categoryIds": [
@@ -2136,7 +3368,7 @@
     ]
   },
   {
-    "id": "QC-80",
+    "id": "QC-129",
     "nameFr": "INFO-SANTÉ 811 (OPTION 1 — SOINS INFIRMIERS)",
     "nameEn": "INFO-SANTÉ 811 (OPTION 1 — NURSING CONSULTATION)",
     "categoryIds": [
@@ -2162,7 +3394,7 @@
     ]
   },
   {
-    "id": "QC-81",
+    "id": "QC-130",
     "nameFr": "INFO-SOCIAL 811 (OPTION 2)",
     "nameEn": "INFO-SOCIAL 811 (OPTION 2)",
     "categoryIds": [
@@ -2191,7 +3423,60 @@
     ]
   },
   {
-    "id": "QC-82",
+    "id": "QC-131",
+    "nameFr": "Information alimentaire populaire Centre-Sud",
+    "nameEn": "Information alimentaire populaire Centre-Sud",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "information",
+      "alimentaire",
+      "populaire",
+      "centre-sud",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-132",
+    "nameFr": "Institut National Canadien pour les Aveugles (INCA)",
+    "nameEn": "Institut National Canadien pour les Aveugles (INCA)",
+    "categoryIds": [
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "1-800-563-2642",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "institut",
+      "national",
+      "canadien",
+      "pour",
+      "aveugles",
+      "(inca)",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-133",
     "nameFr": "INSTITUT NAZARETH ET LOUIS-BRAILLE (DÉFICIENCE VISUELLE)",
     "nameEn": "NAZARETH AND LOUIS-BRAILLE INSTITUTE (VISUAL IMPAIRMENT)",
     "categoryIds": [
@@ -2217,7 +3502,7 @@
     ]
   },
   {
-    "id": "QC-83",
+    "id": "QC-134",
     "nameFr": "INTERLIGNE (SOUTIEN LGBTQ+)",
     "nameEn": "INTERLIGNE (LGBTQ+ SUPPORT)",
     "categoryIds": [
@@ -2246,7 +3531,30 @@
     ]
   },
   {
-    "id": "QC-84",
+    "id": "QC-135",
+    "nameFr": "Interloge",
+    "nameEn": "Interloge",
+    "categoryIds": [
+      "HOUSING",
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "interloge",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-136",
     "nameFr": "IVAC — INDEMNISATION DES VICTIMES D’ACTES CRIMINELS",
     "nameEn": "IVAC — CRIME VICTIMS COMPENSATION PROGRAM",
     "categoryIds": [
@@ -2274,7 +3582,7 @@
     ]
   },
   {
-    "id": "QC-85",
+    "id": "QC-137",
     "nameFr": "JEU : AIDE ET RÉFÉRENCE",
     "nameEn": "GAMBLING: HELP AND REFERRAL",
     "categoryIds": [
@@ -2302,7 +3610,7 @@
     ]
   },
   {
-    "id": "QC-86",
+    "id": "QC-138",
     "nameFr": "JEUNESSE AU SOLEIL (SUN YOUTH) — BANQUE ALIMENTAIRE",
     "nameEn": "SUN YOUTH ORGANIZATION — EMERGENCY FOOD BANK",
     "categoryIds": [
@@ -2328,7 +3636,31 @@
     ]
   },
   {
-    "id": "QC-87",
+    "id": "QC-139",
+    "nameFr": "Jeunesse Lambda",
+    "nameEn": "Jeunesse Lambda",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "jeunesse",
+      "lambda",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-140",
     "nameFr": "JEUNESSE, J’ÉCOUTE (KIDS HELP PHONE)",
     "nameEn": "KIDS HELP PHONE",
     "categoryIds": [
@@ -2357,7 +3689,7 @@
     ]
   },
   {
-    "id": "QC-88",
+    "id": "QC-141",
     "nameFr": "JEVI — CENTRE DE PRÉVENTION DU SUICIDE (ESTRIE)",
     "nameEn": "JEVI — SUICIDE PREVENTION CENTER (ESTRIE)",
     "categoryIds": [
@@ -2383,7 +3715,7 @@
     ]
   },
   {
-    "id": "QC-89",
+    "id": "QC-142",
     "nameFr": "JUSTICE PRO BONO",
     "nameEn": "JUSTICE PRO BONO",
     "categoryIds": [
@@ -2409,7 +3741,32 @@
     ]
   },
   {
-    "id": "QC-90",
+    "id": "QC-143",
+    "nameFr": "La Chaufferie / Coop Lézarts",
+    "nameEn": "La Chaufferie / Coop Lézarts",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "chaufferie",
+      "coop",
+      "lézarts",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-144",
     "nameFr": "LA CORBEILLE BORDEAUX-CARTIERVILLE (BANQUE & ÉPICERIE SOLIDAIRE)",
     "nameEn": "LA CORBEILLE BORDEAUX-CARTIERVILLE (FOOD BANK & SOLIDARITY GROCERY)",
     "categoryIds": [
@@ -2435,7 +3792,7 @@
     ]
   },
   {
-    "id": "QC-91",
+    "id": "QC-145",
     "nameFr": "LA HALTE DU COIN — REFUGE D’URGENCE (LONGUEUIL)",
     "nameEn": "LA HALTE DU COIN — EMERGENCY SHELTER (LONGUEUIL)",
     "categoryIds": [
@@ -2462,7 +3819,7 @@
     ]
   },
   {
-    "id": "QC-92",
+    "id": "QC-146",
     "nameFr": "LA HUTTE — HÉBERGEMENT D’URGENCE TERREBONNE / LANAUDIÈRE",
     "nameEn": "LA HUTTE — EMERGENCY SHELTER TERREBONNE / LANAUDIÈRE",
     "categoryIds": [
@@ -2488,7 +3845,63 @@
     ]
   },
   {
-    "id": "QC-93",
+    "id": "QC-147",
+    "nameFr": "LA MAISON AKHWÀ:TSIRE — PROJETS AUTOCHTONES DU QUÉBEC (PAQ)",
+    "nameEn": "LA MAISON AKHWÀ:TSIRE — PROJETS AUTOCHTONES DU QUÉBEC (PAQ)",
+    "categoryIds": [
+      "HOUSING",
+      "INDIGENOUS",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-849-4087",
+    "smsOrChat": "Soutien psychosocial 24/7 pour personnes en itinérance chronique",
+    "website": "https://www.paqc.org",
+    "address": "1025, rue Saint-Hubert, Montréal, QC",
+    "is247": true,
+    "hasChatOrSms": false,
+    "descFr": "Centre d'hébergement permanent situé au centre-ville comprenant 18 chambres (jusqu'à 22 personnes) avec un soutien psychosocial 24 heures sur 24 pour les personnes ayant vécu l'itinérance chronique.",
+    "descEn": "Permanent housing center located downtown featuring 18 rooms (up to 22 people) with 24/7 psychosocial support for individuals who have experienced chronic homelessness.",
+    "tags": [
+      "autochtone",
+      "hebergement",
+      "logement permanent",
+      "itinerance",
+      "sante mentale",
+      "paq",
+      "montreal"
+    ]
+  },
+  {
+    "id": "QC-148",
+    "nameFr": "LA MAISON ANNAGIARVIK — PROJETS AUTOCHTONES DU QUÉBEC (PAQ)",
+    "nameEn": "LA MAISON ANNAGIARVIK — PROJETS AUTOCHTONES DU QUÉBEC (PAQ)",
+    "categoryIds": [
+      "HOUSING",
+      "INDIGENOUS",
+      "ADDICTION"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-879-3310",
+    "smsOrChat": "Résidence transitoire pour soutien en toxicomanie",
+    "website": "https://www.paqc.org",
+    "address": "3702, rue Sainte-Famille, Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Résidence offrant 14 chambres fermées pour soutenir les personnes autochtones travaillant activement sur leur dépendance à l'alcool dans un cadre transitoire sobre.",
+    "descEn": "Residence offering 14 private rooms to support Indigenous individuals actively working on their alcohol dependency in a sober transitional living environment.",
+    "tags": [
+      "autochtone",
+      "dependance",
+      "alcool",
+      "hebergement",
+      "logement transitoire",
+      "paq",
+      "montreal"
+    ]
+  },
+  {
+    "id": "QC-149",
     "nameFr": "LA MAISON GRISE DE MONTRÉAL (RÉINSERTION FEMMES)",
     "nameEn": "LA MAISON GRISE — WOMEN’S REINTEGRATION SHELTER",
     "categoryIds": [
@@ -2514,7 +3927,7 @@
     ]
   },
   {
-    "id": "QC-94",
+    "id": "QC-150",
     "nameFr": "LA PIAULE DE VAL-D’OR (REFUGE & ITINÉRANCE)",
     "nameEn": "LA PIAULE DE VAL-D’OR (EMERGENCY SHELTER)",
     "categoryIds": [
@@ -2541,7 +3954,35 @@
     ]
   },
   {
-    "id": "QC-95",
+    "id": "QC-151",
+    "nameFr": "La Relance Jeunes et Familles (également référencé comme Relance jeunes et familles)",
+    "nameEn": "La Relance Jeunes et Familles (également référencé comme Relance jeunes et familles)",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "relance",
+      "jeunes",
+      "familles",
+      "(également",
+      "référencé",
+      "comme",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-152",
     "nameFr": "LA SOURCE D’ENTRAIDE (SAINT-LAZARE / VAUDREUIL-SOULANGES)",
     "nameEn": "LA SOURCE D’ENTRAIDE (SAINT-LAZARE / VAUDREUIL-SOULANGES)",
     "categoryIds": [
@@ -2567,7 +4008,7 @@
     ]
   },
   {
-    "id": "QC-96",
+    "id": "QC-153",
     "nameFr": "LA TABLE DU PAIN — DÉPANNAGE ALIMENTAIRE UNIVERSITÉ LAVAL",
     "nameEn": "LA TABLE DU PAIN — UNIVERSITÉ LAVAL STUDENT FOOD BANK",
     "categoryIds": [
@@ -2593,7 +4034,7 @@
     ]
   },
   {
-    "id": "QC-97",
+    "id": "QC-154",
     "nameFr": "LE CHAÎNON — MAISON D’HÉBERGEMENT POUR FEMMES",
     "nameEn": "LE CHAÎNON — WOMEN’S EMERGENCY & TRANSITIONAL SHELTER",
     "categoryIds": [
@@ -2620,7 +4061,7 @@
     ]
   },
   {
-    "id": "QC-98",
+    "id": "QC-155",
     "nameFr": "LE CHIC RESTO POP — ALIMENTATION COMMUNAUTAIRE (HOCHELAGA)",
     "nameEn": "LE CHIC RESTO POP — COMMUNITY RESTAURANT & FOOD AID",
     "categoryIds": [
@@ -2646,7 +4087,7 @@
     ]
   },
   {
-    "id": "QC-99",
+    "id": "QC-156",
     "nameFr": "LE DÉPÔT — CENTRE COMMUNAUTAIRE D’ALIMENTATION (NDG)",
     "nameEn": "THE DEPOT COMMUNITY FOOD CENTRE (NDG)",
     "categoryIds": [
@@ -2671,7 +4112,7 @@
     ]
   },
   {
-    "id": "QC-100",
+    "id": "QC-157",
     "nameFr": "LE GÎTE AMI — REFUGE D’URGENCE (GATINEAU)",
     "nameEn": "LE GÎTE AMI — EMERGENCY SHELTER (GATINEAU)",
     "categoryIds": [
@@ -2698,7 +4139,7 @@
     ]
   },
   {
-    "id": "QC-101",
+    "id": "QC-158",
     "nameFr": "LE MURMURE — CALACS DU BAS-SAINT-LAURENT (RIMOUSKI)",
     "nameEn": "LE MURMURE — SEXUAL ASSAULT CENTER (RIMOUSKI)",
     "categoryIds": [
@@ -2707,13 +4148,13 @@
     ],
     "region": "01 - BAS-SAINT-LAURENT",
     "phone": "418-723-3939",
-    "smsOrChat": "Écoute, soutien et accompagnement judiciaire",
+    "smsOrChat": "Écoute, accompagnement médical et judiciaire",
     "website": "https://www.calacslemurmure.com",
     "address": "Rimouski, QC",
     "is247": false,
     "hasChatOrSms": false,
-    "descFr": "Aide, écoute confidentielle, groupes de soutien et accompagnement dans les démarches policières ou judiciaires pour les femmes victimes d’agression sexuelle.",
-    "descEn": "Confidential listening, support groups, and accompaniment through police or legal proceedings for women who have experienced sexual assault.",
+    "descFr": "Aide, écoute confidentielle, groupes de soutien et accompagnement médical ou judiciaire pour les femmes victimes d’agression sexuelle.",
+    "descEn": "Confidential listening, support groups, and medical or legal accompaniment for women who have experienced sexual assault.",
     "tags": [
       "calacs",
       "agression",
@@ -2724,7 +4165,7 @@
     ]
   },
   {
-    "id": "QC-102",
+    "id": "QC-159",
     "nameFr": "LE PONT — MAISON D’HÉBERGEMENT POUR FEMMES (VAUDREUIL-SOULANGES)",
     "nameEn": "LE PONT — WOMEN’S SHELTER (VAUDREUIL-SOULANGES)",
     "categoryIds": [
@@ -2751,7 +4192,29 @@
     ]
   },
   {
-    "id": "QC-103",
+    "id": "QC-160",
+    "nameFr": "Le Sac à dos",
+    "nameEn": "Le Sac à dos",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-161",
     "nameFr": "LE SNAC — BANQUE ALIMENTAIRE D’AHUNTSIC",
     "nameEn": "LE SNAC — AHUNTSIC COMMUNITY FOOD BANK",
     "categoryIds": [
@@ -2776,7 +4239,7 @@
     ]
   },
   {
-    "id": "QC-104",
+    "id": "QC-162",
     "nameFr": "LE TOURNANT — CENTRE DE CRISE (SUROÎT)",
     "nameEn": "LE TOURNANT — CRISIS CENTER (SUROÎT)",
     "categoryIds": [
@@ -2804,7 +4267,7 @@
     ]
   },
   {
-    "id": "QC-105",
+    "id": "QC-163",
     "nameFr": "LE TREMPLIN — REFUGE D’URGENCE ET ITINÉRANCE (LÉVIS)",
     "nameEn": "LE TREMPLIN — EMERGENCY SHELTER (LÉVIS)",
     "categoryIds": [
@@ -2830,7 +4293,7 @@
     ]
   },
   {
-    "id": "QC-106",
+    "id": "QC-164",
     "nameFr": "LE VIRAGE — RÉADAPTATION EN DÉPENDANCE (MONTÉRÉGIE)",
     "nameEn": "LE VIRAGE — ADDICTION REHABILITATION (MONTÉRÉGIE)",
     "categoryIds": [
@@ -2858,7 +4321,7 @@
     ]
   },
   {
-    "id": "QC-107",
+    "id": "QC-165",
     "nameFr": "LES BANQUES ALIMENTAIRES DU QUÉBEC (BAQ)",
     "nameEn": "FOOD BANKS OF QUEBEC (BAQ)",
     "categoryIds": [
@@ -2884,7 +4347,7 @@
     ]
   },
   {
-    "id": "QC-108",
+    "id": "QC-166",
     "nameFr": "LES IMPATIENTS — ART-THÉRAPIE ET SANTÉ MENTALE",
     "nameEn": "LES IMPATIENTS — ART THERAPY & MENTAL HEALTH",
     "categoryIds": [
@@ -2910,7 +4373,7 @@
     ]
   },
   {
-    "id": "QC-109",
+    "id": "QC-167",
     "nameFr": "LES PETITS FRÈRES — ACCOMPAGNEMENT DES AÎNÉS ISOLÉS",
     "nameEn": "LES PETITS FRÈRES — ISOLATED SENIORS COMPANIONSHIP",
     "categoryIds": [
@@ -2937,7 +4400,30 @@
     ]
   },
   {
-    "id": "QC-110",
+    "id": "QC-168",
+    "nameFr": "LESPACEMAKER",
+    "nameEn": "LESPACEMAKER",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "lespacemaker",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-169",
     "nameFr": "LIGNE AIDE ABUS AÎNÉS",
     "nameEn": "ELDER MISTREATMENT HELPLINE",
     "categoryIds": [
@@ -2965,7 +4451,7 @@
     ]
   },
   {
-    "id": "QC-111",
+    "id": "QC-170",
     "nameFr": "LIGNE D’ÉCOUTE D’ESPOIR POUR LE MIEUX-ÊTRE",
     "nameEn": "HOPE FOR WELLNESS INDIGENOUS HELPLINE",
     "categoryIds": [
@@ -2994,7 +4480,32 @@
     ]
   },
   {
-    "id": "QC-112",
+    "id": "QC-171",
+    "nameFr": "LIGNE PARENTSSECOURS",
+    "nameEn": "PARENTSSECOURS HELPLINE",
+    "categoryIds": [
+      "YOUTH",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-361-5085",
+    "smsOrChat": "Soutien et écoute pour les parents",
+    "website": "https://www.ligneparents.com",
+    "address": "Partout au Québec",
+    "is247": true,
+    "hasChatOrSms": true,
+    "descFr": "Ressource d’écoute et de référence professionnelle pour épauler les parents dans l’éducation de leurs enfants.",
+    "descEn": "Professional listening and referral resource to support parents in raising their children.",
+    "tags": [
+      "parents",
+      "famille",
+      "education",
+      "soutien",
+      "jeunes"
+    ]
+  },
+  {
+    "id": "QC-172",
     "nameFr": "LIGNE QUÉBÉCOISE DE PRÉVENTION DU SUICIDE (988)",
     "nameEn": "QUEBEC SUICIDE PREVENTION LINE (988)",
     "categoryIds": [
@@ -3023,7 +4534,7 @@
     ]
   },
   {
-    "id": "QC-113",
+    "id": "QC-173",
     "nameFr": "LIGNEPARENTS",
     "nameEn": "LIGNEPARENTS",
     "categoryIds": [
@@ -3050,7 +4561,31 @@
     ]
   },
   {
-    "id": "QC-114",
+    "id": "QC-174",
+    "nameFr": "Logis Phare",
+    "nameEn": "Logis Phare",
+    "categoryIds": [
+      "HOUSING",
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "logis",
+      "phare",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-175",
     "nameFr": "L’ABRI D’ESPOIR — ARMÉE DU SALUT (REFUGE & RÉINSERTION)",
     "nameEn": "L’ABRI D’ESPOIR — SALVATION ARMY SHELTER (MONTREAL)",
     "categoryIds": [
@@ -3059,25 +4594,24 @@
     ],
     "region": "06 - MONTRÉAL",
     "phone": "514-935-7428",
-    "smsOrChat": "Refuge d’urgence 24/7 pour hommes, repas et transition",
+    "smsOrChat": "Refuge d’urgence 24/7, repas et programmes de transition",
     "website": "https://armeedusalut.ca",
     "address": "2000, rue Notre-Dame Ouest, Montréal, QC",
     "is247": true,
     "hasChatOrSms": false,
-    "descFr": "Refuge d’urgence 24/7 pour hommes sans-abri, repas chauds, soutien psychosocial et programmes de stabilisation résidentielle au centre-ville de Montréal.",
-    "descEn": "24/7 emergency shelter for unhoused men, hot meals, psychosocial support, and housing stabilization programs in downtown Montreal.",
+    "descFr": "Refuge d’urgence 24/7, repas chauds, soutien psychosocial et programmes de stabilisation résidentielle au centre-ville de Montréal.",
+    "descEn": "24/7 emergency shelter, hot meals, psychosocial support, and housing stabilization programs in downtown Montreal.",
     "tags": [
       "refuge",
       "armee du salut",
       "itinerance",
       "montreal",
       "shelter",
-      "abri espoir",
-      "hommes"
+      "abri espoir"
     ]
   },
   {
-    "id": "QC-115",
+    "id": "QC-176",
     "nameFr": "L’ACCÈS — CENTRE DE CRISE (LONGUEUIL / RIVE-SUD)",
     "nameEn": "L’ACCÈS — CRISIS CENTER (LONGUEUIL / SOUTH SHORE)",
     "categoryIds": [
@@ -3105,7 +4639,7 @@
     ]
   },
   {
-    "id": "QC-116",
+    "id": "QC-177",
     "nameFr": "L’ACTUEL — CENTRE D’ENTRAIDE DE VAUDREUIL-SOULANGES",
     "nameEn": "L’ACTUEL — VAUDREUIL-SOULANGES MUTUAL AID CENTER",
     "categoryIds": [
@@ -3132,7 +4666,7 @@
     ]
   },
   {
-    "id": "QC-117",
+    "id": "QC-178",
     "nameFr": "L’ANCRE DES JEUNES (PERSÉVÉRANCE SCOLAIRE — VERDUN)",
     "nameEn": "L’ANCRE DES JEUNES (SCHOOL PERSEVERANCE — VERDUN)",
     "categoryIds": [
@@ -3158,7 +4692,7 @@
     ]
   },
   {
-    "id": "QC-118",
+    "id": "QC-179",
     "nameFr": "L’ANONYME — UNITÉ MOBILE & CONSOMMATION SUPERVISÉE",
     "nameEn": "L’ANONYME — MOBILE UNIT & SUPERVISED CONSUMPTION",
     "categoryIds": [
@@ -3186,7 +4720,58 @@
     ]
   },
   {
-    "id": "QC-119",
+    "id": "QC-180",
+    "nameFr": "L’Astérisque / Coalition des groupes jeunesses LGBTQ+",
+    "nameEn": "L’Astérisque / Coalition des groupes jeunesses LGBTQ+",
+    "categoryIds": [
+      "LGBTQ",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "l’astérisque",
+      "coalition",
+      "groupes",
+      "jeunesses",
+      "lgbtq+",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-181",
+    "nameFr": "L’Autre Montréal",
+    "nameEn": "L’Autre Montréal",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "l’autre",
+      "montréal",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-182",
     "nameFr": "L’ÉCLUSE DES LAURENTIDES — TRAVAIL DE RUE & HÉBERGEMENT",
     "nameEn": "L’ÉCLUSE DES LAURENTIDES — STREET OUTREACH & SHELTER",
     "categoryIds": [
@@ -3212,7 +4797,7 @@
     ]
   },
   {
-    "id": "QC-120",
+    "id": "QC-183",
     "nameFr": "L’HIRONDELLE — ACCUEIL ET INTÉGRATION DES IMMIGRANTS",
     "nameEn": "L’HIRONDELLE — IMMIGRANT SETTLEMENT & EMPLOYMENT",
     "categoryIds": [
@@ -3240,7 +4825,55 @@
     ]
   },
   {
-    "id": "QC-121",
+    "id": "QC-184",
+    "nameFr": "Ma Chambre",
+    "nameEn": "Ma Chambre",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "chambre",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-185",
+    "nameFr": "Maison de la culture Janine-Sutto",
+    "nameEn": "Maison de la culture Janine-Sutto",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "maison",
+      "culture",
+      "janine-sutto",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-186",
     "nameFr": "MAISON DE LAUBERIVIÈRE — REFUGE & SOUPE POPULAIRE (QUÉBEC)",
     "nameEn": "MAISON DE LAUBERIVIÈRE — SHELTER & SOUP KITCHEN (QUEBEC CITY)",
     "categoryIds": [
@@ -3267,7 +4900,32 @@
     ]
   },
   {
-    "id": "QC-122",
+    "id": "QC-187",
+    "nameFr": "Maison des jeunes Quinka-Buzz",
+    "nameEn": "Maison des jeunes Quinka-Buzz",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "maison",
+      "jeunes",
+      "quinka-buzz",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-188",
     "nameFr": "MAISON DU PÈRE — REFUGE ET RÉINSERTION POUR HOMMES",
     "nameEn": "MAISON DU PÈRE — MEN’S EMERGENCY SHELTER",
     "categoryIds": [
@@ -3295,7 +4953,7 @@
     ]
   },
   {
-    "id": "QC-123",
+    "id": "QC-189",
     "nameFr": "MAISON D’HÉBERGEMENT AU BERCAIL (SAINT-GEORGES / BEAUCE)",
     "nameEn": "AU BERCAIL — EMERGENCY SHELTER & SOUP KITCHEN (BEAUCE)",
     "categoryIds": [
@@ -3322,7 +4980,7 @@
     ]
   },
   {
-    "id": "QC-124",
+    "id": "QC-190",
     "nameFr": "MAISON D’HÉBERGEMENT DÉPANNAGE DE VALLEYFIELD (MHDV)",
     "nameEn": "VALLEYFIELD EMERGENCY SHELTER (MHDV)",
     "categoryIds": [
@@ -3349,7 +5007,7 @@
     ]
   },
   {
-    "id": "QC-125",
+    "id": "QC-191",
     "nameFr": "MAISON D’HÉBERGEMENT LA RE-SOURCE (CHÂTEAUGUAY)",
     "nameEn": "LA RE-SOURCE WOMEN’S SHELTER (CHÂTEAUGUAY)",
     "categoryIds": [
@@ -3376,7 +5034,59 @@
     ]
   },
   {
-    "id": "QC-126",
+    "id": "QC-192",
+    "nameFr": "MAISON JEUNESSE — PROJETS AUTOCHTONES DU QUÉBEC (PAQ)",
+    "nameEn": "MAISON JEUNESSE — PROJETS AUTOCHTONES DU QUÉBEC (PAQ)",
+    "categoryIds": [
+      "YOUTH",
+      "HOUSING",
+      "INDIGENOUS"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-879-3310",
+    "smsOrChat": "Milieu de vie transitoire pour jeunes autochtones",
+    "website": "https://www.paqc.org",
+    "address": "1668, rue Saint-Germain, Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Maison offrant un milieu de vie transitoire (séjour pouvant aller jusqu'à 3 ans) avec accompagnement de jour pour les jeunes autochtones à Montréal.",
+    "descEn": "House offering a transitional living environment (stays up to 3 years) with daytime accompaniment for Indigenous youth in Montreal.",
+    "tags": [
+      "jeunesse",
+      "logement transitoire",
+      "autochtone",
+      "jeunes",
+      "paq",
+      "montreal"
+    ]
+  },
+  {
+    "id": "QC-193",
+    "nameFr": "MAISON JOANNE-BLANCHET (HÉBERGEMENT POUR FEMMES — LANAUDIÈRE)",
+    "nameEn": "MAISON JOANNE-BLANCHET — WOMEN’S SHELTER (LANAUDIÈRE)",
+    "categoryIds": [
+      "VIOLENCE",
+      "HOUSING"
+    ],
+    "region": "14 - LANAUDIÈRE",
+    "phone": "450-839-6721",
+    "smsOrChat": "Hébergement sécuritaire 24/7 pour femmes et enfants",
+    "website": "https://www.maisonjoanneblanchet.com",
+    "address": "Lanaudière, QC",
+    "is247": true,
+    "hasChatOrSms": false,
+    "descFr": "Maison d’aide et d’hébergement pour les femmes et les enfants victimes de violence conjugale dans Lanaudière.",
+    "descEn": "Shelter and support center for women and children experiencing domestic violence in Lanaudière.",
+    "tags": [
+      "violence",
+      "femme",
+      "hebergement",
+      "lanaudiere",
+      "conjugale"
+    ]
+  },
+  {
+    "id": "QC-194",
     "nameFr": "MAISON MARGUERITE DE MONTRÉAL (HÉBERGEMENT POUR FEMMES)",
     "nameEn": "MAISON MARGUERITE — WOMEN’S TRANSITIONAL SHELTER",
     "categoryIds": [
@@ -3402,7 +5112,103 @@
     ]
   },
   {
-    "id": "QC-127",
+    "id": "QC-195",
+    "nameFr": "Maison Plein Coeur",
+    "nameEn": "Maison Plein Coeur",
+    "categoryIds": [
+      "HEALTH",
+      "CRISIS"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "maison",
+      "plein",
+      "coeur",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-196",
+    "nameFr": "Mères avec pouvoir",
+    "nameEn": "Mères avec pouvoir",
+    "categoryIds": [
+      "VIOLENCE",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "mères",
+      "avec",
+      "pouvoir",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-197",
+    "nameFr": "Méta d’Âme",
+    "nameEn": "Méta d’Âme",
+    "categoryIds": [
+      "HEALTH",
+      "CRISIS"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "méta",
+      "d’âme",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-198",
+    "nameFr": "MIRE",
+    "nameEn": "MIRE",
+    "categoryIds": [
+      "EMPLOYMENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "mire",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-199",
     "nameFr": "MISSION BON ACCUEIL — REFUGE & SÉCURITÉ ALIMENTAIRE",
     "nameEn": "WELCOME HALL MISSION — SHELTER & FOOD SECURITY",
     "categoryIds": [
@@ -3429,7 +5235,7 @@
     ]
   },
   {
-    "id": "QC-128",
+    "id": "QC-200",
     "nameFr": "MISSION OLD BREWERY — REFUGE & SOUTIEN ITINÉRANCE",
     "nameEn": "OLD BREWERY MISSION — EMERGENCY SHELTER",
     "categoryIds": [
@@ -3457,7 +5263,7 @@
     ]
   },
   {
-    "id": "QC-129",
+    "id": "QC-201",
     "nameFr": "MOISSON ESTRIE — BANQUE ALIMENTAIRE & DÉPANNAGE (SHERBROOKE)",
     "nameEn": "MOISSON ESTRIE — FOOD BANK & EMERGENCY PANTRY (SHERBROOKE)",
     "categoryIds": [
@@ -3482,7 +5288,7 @@
     ]
   },
   {
-    "id": "QC-130",
+    "id": "QC-202",
     "nameFr": "MOISSON LAURENTIDES — BANQUE ALIMENTAIRE (BLAINVILLE)",
     "nameEn": "MOISSON LAURENTIDES — REGIONAL FOOD BANK",
     "categoryIds": [
@@ -3507,7 +5313,7 @@
     ]
   },
   {
-    "id": "QC-131",
+    "id": "QC-203",
     "nameFr": "MOISSON MAURICIE / CENTRE-DU-QUÉBEC (TROIS-RIVIÈRES)",
     "nameEn": "MOISSON MAURICIE / CENTRE-DU-QUÉBEC FOOD BANK",
     "categoryIds": [
@@ -3520,7 +5326,7 @@
     "address": "1300, rue Saint-Olivier, Trois-Rivières, QC",
     "is247": false,
     "hasChatOrSms": false,
-    "descFr": "Banque alimentaire régionale approvisionnant les comptoirs alimentaires et organismes communautaires de Trois-Rivières, Drummondville et Victoriaville.",
+    "descFr": "Banque alimentaire régionale desservant les comptoirs alimentaires et organismes communautaires de Trois-Rivières, Drummondville et Victoriaville.",
     "descEn": "Regional food bank supplying food pantries and community agencies in Trois-Rivières, Drummondville, and Victoriaville.",
     "tags": [
       "banque alimentaire",
@@ -3532,7 +5338,7 @@
     ]
   },
   {
-    "id": "QC-132",
+    "id": "QC-204",
     "nameFr": "MOISSON MONTRÉAL — BANQUE ALIMENTAIRE",
     "nameEn": "MOISSON MONTRÉAL — FOOD BANK",
     "categoryIds": [
@@ -3545,8 +5351,8 @@
     "address": "6880, chemin de la Côte-de-Liesse, Montréal, QC",
     "is247": false,
     "hasChatOrSms": false,
-    "descFr": "Banque alimentaire régionale récupérant et redistribuant des denrées alimentaires aux comptoirs d’aide et organismes communautaires accrédités de Montréal.",
-    "descEn": "Regional food bank recovering and distributing food supplies to accredited food pantries and community organizations across Montreal.",
+    "descFr": "Plus grande banque alimentaire au Canada récupérant et redistribuant des denrées alimentaires aux comptoirs d’aide et cuisines collectives de Montréal.",
+    "descEn": "Largest food bank in Canada recovering and distributing food supplies to food pantries and community kitchens across Montreal.",
     "tags": [
       "nourriture",
       "alimentaire",
@@ -3558,7 +5364,7 @@
     ]
   },
   {
-    "id": "QC-133",
+    "id": "QC-205",
     "nameFr": "MOISSON OUTAOUAIS — BANQUE ALIMENTAIRE (GATINEAU)",
     "nameEn": "MOISSON OUTAOUAIS — REGIONAL FOOD BANK (GATINEAU)",
     "categoryIds": [
@@ -3583,7 +5389,7 @@
     ]
   },
   {
-    "id": "QC-134",
+    "id": "QC-206",
     "nameFr": "MOISSON QUÉBEC — BANQUE ALIMENTAIRE (CAPITALE-NATIONALE)",
     "nameEn": "MOISSON QUÉBEC — REGIONAL FOOD BANK",
     "categoryIds": [
@@ -3608,7 +5414,7 @@
     ]
   },
   {
-    "id": "QC-135",
+    "id": "QC-207",
     "nameFr": "MOISSON RIVE-SUD — BANQUE ALIMENTAIRE (MONTÉRÉGIE)",
     "nameEn": "MOISSON RIVE-SUD — REGIONAL FOOD BANK (MONTÉRÉGIE)",
     "categoryIds": [
@@ -3634,7 +5440,7 @@
     ]
   },
   {
-    "id": "QC-136",
+    "id": "QC-208",
     "nameFr": "MOISSON SUD-OUEST — BANQUE ALIMENTAIRE RÉGIONALE",
     "nameEn": "MOISSON SUD-OUEST — REGIONAL FOOD BANK",
     "categoryIds": [
@@ -3647,8 +5453,8 @@
     "address": "50, rue Gérard-Cadieux, Salaberry-de-Valleyfield, QC",
     "is247": false,
     "hasChatOrSms": false,
-    "descFr": "Banque alimentaire régionale approvisionnant les comptoirs d’aide alimentaire accrédités du Suroît, de Vaudreuil-Soulanges et du Haut-Saint-Laurent.",
-    "descEn": "Regional food bank supplying accredited food pantries across Suroît, Vaudreuil-Soulanges, and Haut-Saint-Laurent.",
+    "descFr": "Principale banque alimentaire desservant les organismes communautaires du Suroît, de Vaudreuil-Soulanges et du Haut-Saint-Laurent.",
+    "descEn": "Primary regional food bank supplying community organizations across Suroît, Vaudreuil-Soulanges, and Haut-Saint-Laurent.",
     "tags": [
       "moisson",
       "banque alimentaire",
@@ -3660,7 +5466,7 @@
     ]
   },
   {
-    "id": "QC-137",
+    "id": "QC-209",
     "nameFr": "MOUVEMENT SANTÉ MENTALE QUÉBEC",
     "nameEn": "QUEBEC MENTAL HEALTH MOVEMENT",
     "categoryIds": [
@@ -3686,7 +5492,7 @@
     ]
   },
   {
-    "id": "QC-138",
+    "id": "QC-210",
     "nameFr": "MULTICAF — BANQUE ALIMENTAIRE & CAFÉTÉRIA (CÔTE-DES-NEIGES)",
     "nameEn": "MULTICAF — FOOD BANK & COMMUNITY CAFETERIA (CDN)",
     "categoryIds": [
@@ -3711,7 +5517,7 @@
     ]
   },
   {
-    "id": "QC-139",
+    "id": "QC-211",
     "nameFr": "NARCOTIQUES ANONYMES QUÉBEC (NA)",
     "nameEn": "NARCOTICS ANONYMOUS QUEBEC (NA)",
     "categoryIds": [
@@ -3738,7 +5544,58 @@
     ]
   },
   {
-    "id": "QC-140",
+    "id": "QC-212",
+    "nameFr": "Nouveau théâtre expérimental (NTE)",
+    "nameEn": "Nouveau théâtre expérimental (NTE)",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "nouveau",
+      "théâtre",
+      "expérimental",
+      "(nte)",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-213",
+    "nameFr": "Observatoire québécois des inégalités",
+    "nameEn": "Observatoire québécois des inégalités",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "observatoire",
+      "québécois",
+      "inégalités",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-214",
     "nameFr": "OFFICE DE LA PROTECTION DU CONSOMMATEUR (OPC)",
     "nameEn": "OFFICE DE LA PROTECTION DU CONSOMMATEUR (CONSUMER PROTECTION)",
     "categoryIds": [
@@ -3765,7 +5622,7 @@
     ]
   },
   {
-    "id": "QC-141",
+    "id": "QC-215",
     "nameFr": "OFFICE DES PERSONNES HANDICAPÉES DU QUÉBEC (OPHQ)",
     "nameEn": "OFFICE DES PERSONNES HANDICAPÉES DU QUÉBEC (OPHQ)",
     "categoryIds": [
@@ -3792,12 +5649,59 @@
     ]
   },
   {
-    "id": "QC-142",
+    "id": "QC-216",
+    "nameFr": "Option Consommateurs",
+    "nameEn": "Option Consommateurs",
+    "categoryIds": [
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-598-7288",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "option",
+      "consommateurs",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-217",
+    "nameFr": "Oxy-Jeunes",
+    "nameEn": "Oxy-Jeunes",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "oxy-jeunes",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-218",
     "nameFr": "PACT DE RUE — TRAVAIL DE MILIEU (BEAUHARNOIS-SALABERRY)",
     "nameEn": "PACT DE RUE — STREET OUTREACH WORK",
     "categoryIds": [
       "YOUTH",
-      "ADDICTION"
+      "ADDICTION",
+      "HOUSING"
     ],
     "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
     "phone": "450-371-3345",
@@ -3806,8 +5710,8 @@
     "address": "Salaberry-de-Valleyfield, QC",
     "is247": false,
     "hasChatOrSms": false,
-    "descFr": "Travailleurs de rue offrant écoute, référence et réduction des méfaits aux jeunes et adultes en situation de vulnérabilité ou de consommation à Salaberry-de-Valleyfield.",
-    "descEn": "Street outreach workers providing listening, referrals, and harm reduction for youth and adults facing vulnerability or substance use in Salaberry-de-Valleyfield.",
+    "descFr": "Travailleurs de rue accompagnant les jeunes et adultes en situation de vulnérabilité, d’itinérance ou de consommation à Salaberry-de-Valleyfield.",
+    "descEn": "Street outreach workers supporting youth and adults facing vulnerability, homelessness, or substance use in Salaberry-de-Valleyfield.",
     "tags": [
       "travail de rue",
       "valleyfield",
@@ -3819,7 +5723,7 @@
     ]
   },
   {
-    "id": "QC-143",
+    "id": "QC-219",
     "nameFr": "PARENTS ORPHELINS — SOUTIEN AU DEUIL PÉRINATAL",
     "nameEn": "PARENTS ORPHELINS — PERINATAL LOSS SUPPORT",
     "categoryIds": [
@@ -3846,7 +5750,7 @@
     ]
   },
   {
-    "id": "QC-144",
+    "id": "QC-220",
     "nameFr": "PARRAINAGE CIVIQUE DE VAUDREUIL-SOULANGES",
     "nameEn": "CITIZEN ADVOCACY VAUDREUIL-SOULANGES",
     "categoryIds": [
@@ -3872,7 +5776,7 @@
     ]
   },
   {
-    "id": "QC-145",
+    "id": "QC-221",
     "nameFr": "PARTAGEONS L’ESPOIR — BANQUE ALIMENTAIRE (POINTE-SAINT-CHARLES)",
     "nameEn": "SHARE THE WARMTH — FOOD BANK (POINTE-SAINT-CHARLES)",
     "categoryIds": [
@@ -3897,7 +5801,7 @@
     ]
   },
   {
-    "id": "QC-146",
+    "id": "QC-222",
     "nameFr": "PECH — PROGRAMME D’ENCADREMENT CLINIQUE ET D’HÉBERGEMENT",
     "nameEn": "PECH — CLINICAL OUTREACH & HOUSING SUPPORT (QUEBEC CITY)",
     "categoryIds": [
@@ -3924,7 +5828,34 @@
     ]
   },
   {
-    "id": "QC-147",
+    "id": "QC-223",
+    "nameFr": "Perspective Autonomie en Santé Mentale (PASM)",
+    "nameEn": "Perspective Autonomie en Santé Mentale (PASM)",
+    "categoryIds": [
+      "HEALTH",
+      "CRISIS"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "perspective",
+      "autonomie",
+      "santé",
+      "mentale",
+      "(pasm)",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-224",
     "nameFr": "PHOBIES-ZÉRO — TROUBLES ANXIEUX ET TOC",
     "nameEn": "PHOBIES-ZÉRO — ANXIETY DISORDERS & OCD SUPPORT",
     "categoryIds": [
@@ -3951,7 +5882,7 @@
     ]
   },
   {
-    "id": "QC-148",
+    "id": "QC-225",
     "nameFr": "POINT DE REPÈRES — CONSOMMATION SUPERVISÉE (QUÉBEC)",
     "nameEn": "POINT DE REPÈRES — SUPERVISED CONSUMPTION (QUEBEC CITY)",
     "categoryIds": [
@@ -3978,7 +5909,7 @@
     ]
   },
   {
-    "id": "QC-149",
+    "id": "QC-226",
     "nameFr": "PORTAIL VIH/SIDA DU QUÉBEC",
     "nameEn": "QUEBEC HIV/AIDS PORTAL",
     "categoryIds": [
@@ -4004,7 +5935,7 @@
     ]
   },
   {
-    "id": "QC-150",
+    "id": "QC-227",
     "nameFr": "PREMIÈRE RESSOURCE, AIDE AUX PARENTS",
     "nameEn": "PREMIÈRE RESSOURCE, HELP FOR PARENTS",
     "categoryIds": [
@@ -4031,7 +5962,60 @@
     ]
   },
   {
-    "id": "QC-151",
+    "id": "QC-228",
+    "nameFr": "PROGRAMME DE GESTION DE L’ALCOOL — MAISON MAP (PAQ)",
+    "nameEn": "MANAGED ALCOHOL PROGRAM — MAP HOUSE (PAQ)",
+    "categoryIds": [
+      "HOUSING",
+      "ADDICTION",
+      "INDIGENOUS",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-843-3250",
+    "smsOrChat": "Encadrement adapté de réduction des méfaits",
+    "website": "https://www.paqc.org",
+    "address": "Arrondissement Ville-Marie, Montréal, QC",
+    "is247": true,
+    "hasChatOrSms": false,
+    "descFr": "Ressource résidentielle située dans l'arrondissement Ville-Marie proposant un encadrement adapté de réduction des méfaits et de gestion de l'alcool pour les personnes autochtones.",
+    "descEn": "Residential resource located in the Ville-Marie borough offering adapted harm reduction management and managed alcohol support for Indigenous individuals.",
+    "tags": [
+      "gestion de l'alcool",
+      "map",
+      "reduction des mefaits",
+      "dependance",
+      "autochtone",
+      "paq",
+      "montreal"
+    ]
+  },
+  {
+    "id": "QC-229",
+    "nameFr": "Projet TRIP",
+    "nameEn": "Projet TRIP",
+    "categoryIds": [
+      "HEALTH",
+      "CRISIS"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "projet",
+      "trip",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-230",
     "nameFr": "PROTECTEUR DU CITOYEN DU QUÉBEC",
     "nameEn": "QUÉBEC OMBUDSMAN",
     "categoryIds": [
@@ -4057,7 +6041,7 @@
     ]
   },
   {
-    "id": "QC-152",
+    "id": "QC-231",
     "nameFr": "RCLALQ — REGROUPEMENT DES COMITÉS LOGEMENT DU QUÉBEC",
     "nameEn": "RCLALQ — QUEBEC TENANTS’ ASSOCIATIONS COALITION",
     "categoryIds": [
@@ -4084,7 +6068,7 @@
     ]
   },
   {
-    "id": "QC-153",
+    "id": "QC-232",
     "nameFr": "REFUGE DES JEUNES DE MONTRÉAL",
     "nameEn": "MONTREAL YOUTH SHELTER (REFUGE DES JEUNES)",
     "categoryIds": [
@@ -4111,7 +6095,7 @@
     ]
   },
   {
-    "id": "QC-154",
+    "id": "QC-233",
     "nameFr": "REFUGE D’URGENCE DE LAVAL (ITINÉRANCE)",
     "nameEn": "LAVAL EMERGENCY HOMELESS SHELTER",
     "categoryIds": [
@@ -4137,7 +6121,7 @@
     ]
   },
   {
-    "id": "QC-155",
+    "id": "QC-234",
     "nameFr": "REGROUPEMENT DES AUBERGES DU CŒUR DU QUÉBEC",
     "nameEn": "QUEBEC NETWORK OF YOUTH SHELTERS (AUBERGES DU CŒUR)",
     "categoryIds": [
@@ -4164,7 +6148,7 @@
     ]
   },
   {
-    "id": "QC-156",
+    "id": "QC-235",
     "nameFr": "REGROUPEMENT DES CENTRES D’AMITIÉ AUTOCHTONES DU QUÉBEC (RCAAQ)",
     "nameEn": "QUEBEC NATIVE FRIENDSHIP CENTRES ASSOCIATION (RCAAQ)",
     "categoryIds": [
@@ -4189,7 +6173,7 @@
     ]
   },
   {
-    "id": "QC-157",
+    "id": "QC-236",
     "nameFr": "REGROUPEMENT DES MAISONS POUR FEMMES VICTIMES DE VIOLENCE CONJUGALE",
     "nameEn": "QUEBEC FEDERATION OF SHELTERS FOR ABUSED WOMEN (RMFVVC)",
     "categoryIds": [
@@ -4216,7 +6200,7 @@
     ]
   },
   {
-    "id": "QC-158",
+    "id": "QC-237",
     "nameFr": "RÉHABEX — EMPLOI & RÉINSERTION PERSONNES JUDICIARISÉES",
     "nameEn": "RÉHABEX — REENTRY & EMPLOYMENT FOR FORMERLY INCARCERATED",
     "categoryIds": [
@@ -4244,7 +6228,7 @@
     ]
   },
   {
-    "id": "QC-159",
+    "id": "QC-238",
     "nameFr": "RELIEF (ANCIENNEMENT REVIVRE) — ANXIÉTÉ, DÉPRESSION & BIPOLARITÉ",
     "nameEn": "RELIEF — ANXIETY, DEPRESSION & BIPOLAR DISORDER SUPPORT",
     "categoryIds": [
@@ -4270,7 +6254,60 @@
     ]
   },
   {
-    "id": "QC-160",
+    "id": "QC-239",
+    "nameFr": "Réseau Alimentaire de l’Est de Montréal (RAEM)",
+    "nameEn": "Réseau Alimentaire de l’Est de Montréal (RAEM)",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "réseau",
+      "alimentaire",
+      "l’est",
+      "montréal",
+      "(raem)",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-240",
+    "nameFr": "Réseau des lesbiennes du Québec (RLQ)",
+    "nameEn": "Réseau des lesbiennes du Québec (RLQ)",
+    "categoryIds": [
+      "LGBTQ",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "réseau",
+      "lesbiennes",
+      "québec",
+      "(rlq)",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-241",
     "nameFr": "RÉSEAU D’AIDE AUX PERSONNES SEULES ET ITINÉRANTES (RAPSIM)",
     "nameEn": "HOMELESSNESS & HOUSING ADVOCACY NETWORK (RAPSIM)",
     "categoryIds": [
@@ -4297,7 +6334,7 @@
     ]
   },
   {
-    "id": "QC-161",
+    "id": "QC-242",
     "nameFr": "RÉSEAU FADOQ — SOUTIEN ET DÉFENSE DES DROITS DES AÎNÉS",
     "nameEn": "RÉSEAU FADOQ — SENIORS’ SUPPORT & ADVOCACY NETWORK",
     "categoryIds": [
@@ -4324,7 +6361,34 @@
     ]
   },
   {
-    "id": "QC-162",
+    "id": "QC-243",
+    "nameFr": "Réseau Habitation Femmes de Montréal (RHF)",
+    "nameEn": "Réseau Habitation Femmes de Montréal (RHF)",
+    "categoryIds": [
+      "VIOLENCE",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "réseau",
+      "habitation",
+      "femmes",
+      "montréal",
+      "(rhf)",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-244",
     "nameFr": "RESTO PLATEAU — INSERTION & REPAS COMMUNAUTAIRES",
     "nameEn": "RESTO PLATEAU — COMMUNITY MEALS & JOB TRAINING",
     "categoryIds": [
@@ -4350,7 +6414,7 @@
     ]
   },
   {
-    "id": "QC-163",
+    "id": "QC-245",
     "nameFr": "RETRAITE QUÉBEC — RENTES, INVALIDITÉ & SOUTIEN AUX FAMILLES",
     "nameEn": "RETRAITE QUÉBEC — PENSIONS, DISABILITY & FAMILY ALLOWANCE",
     "categoryIds": [
@@ -4378,7 +6442,78 @@
     ]
   },
   {
-    "id": "QC-164",
+    "id": "QC-246",
+    "nameFr": "RÉZO",
+    "nameEn": "RÉZO",
+    "categoryIds": [
+      "LGBTQ",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "rézo",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-247",
+    "nameFr": "ruelle de l’avenir",
+    "nameEn": "ruelle de l’avenir",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "ruelle",
+      "l’avenir",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-248",
+    "nameFr": "Sentier Urbain",
+    "nameEn": "Sentier Urbain",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "sentier",
+      "urbain",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-249",
     "nameFr": "SERVICE ALIMENTAIRE COMMUNAUTAIRE (SAC VALLEYFIELD)",
     "nameEn": "COMMUNITY FOOD SERVICE (SAC VALLEYFIELD)",
     "categoryIds": [
@@ -4404,7 +6539,7 @@
     ]
   },
   {
-    "id": "QC-165",
+    "id": "QC-250",
     "nameFr": "SERVICE D’AIDE D’ANCIENS COMBATTANTS CANADA (VÉTÉRANS)",
     "nameEn": "VETERANS AFFAIRS CANADA ASSISTANCE SERVICE",
     "categoryIds": [
@@ -4432,7 +6567,7 @@
     ]
   },
   {
-    "id": "QC-166",
+    "id": "QC-251",
     "nameFr": "SERVICES À LA VIE ÉTUDIANTE DE L’UNIVERSITÉ DE SHERBROOKE",
     "nameEn": "UNIVERSITÉ DE SHERBROOKE STUDENT LIFE SERVICES",
     "categoryIds": [
@@ -4458,7 +6593,7 @@
     ]
   },
   {
-    "id": "QC-167",
+    "id": "QC-252",
     "nameFr": "SERVICES À LA VIE ÉTUDIANTE DE L’UQAM (PSY & AIDE FINANCIÈRE)",
     "nameEn": "UQAM STUDENT SERVICES (COUNSELING & EMERGENCY AID)",
     "categoryIds": [
@@ -4486,7 +6621,7 @@
     ]
   },
   {
-    "id": "QC-168",
+    "id": "QC-253",
     "nameFr": "SERVICES AUX ÉTUDIANTS DE CONCORDIA (COUNSELING & HEALTH)",
     "nameEn": "CONCORDIA UNIVERSITY STUDENT SERVICES (COUNSELLING & HEALTH)",
     "categoryIds": [
@@ -4514,7 +6649,7 @@
     ]
   },
   {
-    "id": "QC-169",
+    "id": "QC-254",
     "nameFr": "SERVICES AUX ÉTUDIANTS DE L’UNIVERSITÉ DE MONTRÉAL (CSÉ)",
     "nameEn": "UNIVERSITÉ DE MONTRÉAL STUDENT SERVICES (CSÉ)",
     "categoryIds": [
@@ -4540,35 +6675,33 @@
     ]
   },
   {
-    "id": "QC-170",
+    "id": "QC-255",
     "nameFr": "SERVICES AUX ÉTUDIANTS DE L’UQAC (SAGUENAY)",
     "nameEn": "UQAC STUDENT SERVICES (SAGUENAY)",
     "categoryIds": [
       "STUDENT",
-      "HEALTH",
-      "INDIGENOUS"
+      "HEALTH"
     ],
     "region": "02 - SAGUENAY–LAC-SAINT-JEAN",
     "phone": "418-545-5011",
-    "smsOrChat": "Soutien psychosocial, aide financière et accueil Premiers Peuples",
+    "smsOrChat": "Soutien psychosocial, aide financière et accueil",
     "website": "https://www.uqac.ca",
     "address": "555, boulevard de l’Université, Saguenay, QC",
     "is247": false,
     "hasChatOrSms": false,
-    "descFr": "Consultation psychosociale, aide financière d’urgence et accompagnement des étudiants internationaux et des Premiers Peuples à l’Université du Québec à Chicoutimi.",
-    "descEn": "Psychosocial counseling, emergency financial assistance, and support for international and Indigenous students at Université du Québec à Chicoutimi.",
+    "descFr": "Consultation psychosociale, aide financière d’urgence et accompagnement des étudiants internationaux et régionaux à l’Université du Québec à Chicoutimi.",
+    "descEn": "Psychosocial counseling, emergency financial assistance, and support for domestic and international students at Université du Québec à Chicoutimi.",
     "tags": [
       "etudiant",
       "uqac",
       "saguenay",
       "chicoutimi",
       "universite",
-      "sante mentale",
-      "autochtone"
+      "sante mentale"
     ]
   },
   {
-    "id": "QC-171",
+    "id": "QC-256",
     "nameFr": "SERVICES AUX ÉTUDIANTS DE L’UQAR (RIMOUSKI / LÉVIS)",
     "nameEn": "UQAR STUDENT SERVICES (RIMOUSKI / LÉVIS)",
     "categoryIds": [
@@ -4594,7 +6727,7 @@
     ]
   },
   {
-    "id": "QC-172",
+    "id": "QC-257",
     "nameFr": "SERVICES AUX ÉTUDIANTS DE L’UQAT (ABITIBI-TÉMISCAMINGUE)",
     "nameEn": "UQAT STUDENT SERVICES (ABITIBI-TÉMISCAMINGUE)",
     "categoryIds": [
@@ -4622,7 +6755,7 @@
     ]
   },
   {
-    "id": "QC-173",
+    "id": "QC-258",
     "nameFr": "SERVICES AUX ÉTUDIANTS DE L’UQO (GATINEAU)",
     "nameEn": "UQO STUDENT SERVICES (GATINEAU)",
     "categoryIds": [
@@ -4648,7 +6781,7 @@
     ]
   },
   {
-    "id": "QC-174",
+    "id": "QC-259",
     "nameFr": "SERVICES AUX ÉTUDIANTS DE L’UQTR (TROIS-RIVIÈRES)",
     "nameEn": "UQTR STUDENT SERVICES (TROIS-RIVIÈRES)",
     "categoryIds": [
@@ -4674,7 +6807,7 @@
     ]
   },
   {
-    "id": "QC-175",
+    "id": "QC-260",
     "nameFr": "SERVICES QUÉBEC — RENSEIGNEMENTS PROGRAMMES & AIDE SOCIALE",
     "nameEn": "SERVICES QUÉBEC — GOVERNMENT PROGRAMS & SOCIAL ASSISTANCE",
     "categoryIds": [
@@ -4701,7 +6834,30 @@
     ]
   },
   {
-    "id": "QC-176",
+    "id": "QC-261",
+    "nameFr": "Sidalys",
+    "nameEn": "Sidalys",
+    "categoryIds": [
+      "HEALTH",
+      "CRISIS"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "sidalys",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-262",
     "nameFr": "SOCIÉTÉ DE SAINT-VINCENT-DE-PAUL DE MONTRÉAL (AIDE ALIMENTAIRE)",
     "nameEn": "SOCIETY OF SAINT VINCENT DE PAUL MONTREAL (FOOD AID)",
     "categoryIds": [
@@ -4727,7 +6883,33 @@
     ]
   },
   {
-    "id": "QC-177",
+    "id": "QC-263",
+    "nameFr": "Société écocitoyenne de Montréal (SEM)",
+    "nameEn": "Société écocitoyenne de Montréal (SEM)",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "société",
+      "écocitoyenne",
+      "montréal",
+      "(sem)",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-264",
     "nameFr": "SOCIÉTÉ QUÉBÉCOISE DE LA SCHIZOPHRÉNIE (SQS)",
     "nameEn": "QUEBEC SCHIZOPHRENIA SOCIETY (SQS)",
     "categoryIds": [
@@ -4753,7 +6935,34 @@
     ]
   },
   {
-    "id": "QC-178",
+    "id": "QC-265",
+    "nameFr": "Société Saint-Vincent de Paul de Montréal (SSVP)",
+    "nameEn": "Société Saint-Vincent de Paul de Montréal (SSVP)",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "société",
+      "saint-vincent",
+      "paul",
+      "montréal",
+      "(ssvp)",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-266",
     "nameFr": "SOS VIOLENCE CONJUGALE",
     "nameEn": "SOS VIOLENCE CONJUGALE",
     "categoryIds": [
@@ -4782,7 +6991,7 @@
     ]
   },
   {
-    "id": "QC-179",
+    "id": "QC-267",
     "nameFr": "SPECTRE DE RUE — CONSOMMATION SUPERVISÉE & HALTE",
     "nameEn": "SPECTRE DE RUE — SUPERVISED CONSUMPTION & DROP-IN",
     "categoryIds": [
@@ -4810,7 +7019,32 @@
     ]
   },
   {
-    "id": "QC-180",
+    "id": "QC-268",
+    "nameFr": "Sphère de services de l’AéESG",
+    "nameEn": "Sphère de services de l’AéESG",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
+    "tags": [
+      "sphère",
+      "services",
+      "l’aéesg",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-269",
     "nameFr": "TCRI — ACCUEIL DES PERSONNES RÉFUGIÉES ET IMMIGRANTES",
     "nameEn": "TCRI — REFUGEE & IMMIGRANT SERVICES NETWORK",
     "categoryIds": [
@@ -4838,7 +7072,7 @@
     ]
   },
   {
-    "id": "QC-181",
+    "id": "QC-270",
     "nameFr": "TEL-AIDE MONTÉRÉGIE / SUROÎT (VALLEYFIELD)",
     "nameEn": "TEL-AIDE MONTÉRÉGIE / SUROÎT",
     "categoryIds": [
@@ -4865,7 +7099,7 @@
     ]
   },
   {
-    "id": "QC-182",
+    "id": "QC-271",
     "nameFr": "TEL-AIDE QUÉBEC (ÉCOUTE & PRÉVENTION DÉTRESSE)",
     "nameEn": "TEL-AIDE QUÉBEC (ACTIVE LISTENING HELPLINE)",
     "categoryIds": [
@@ -4891,7 +7125,7 @@
     ]
   },
   {
-    "id": "QC-183",
+    "id": "QC-272",
     "nameFr": "TEL-JEUNES",
     "nameEn": "TEL-JEUNES",
     "categoryIds": [
@@ -4920,7 +7154,7 @@
     ]
   },
   {
-    "id": "QC-184",
+    "id": "QC-273",
     "nameFr": "TRACOM — CENTRE DE CRISE (MONTRÉAL)",
     "nameEn": "TRACOM — CRISIS CENTER (MONTREAL)",
     "categoryIds": [
@@ -4947,7 +7181,7 @@
     ]
   },
   {
-    "id": "QC-185",
+    "id": "QC-274",
     "nameFr": "TRIBUNAL ADMINISTRATIF DU LOGEMENT (TAL)",
     "nameEn": "ADMINISTRATIVE HOUSING TRIBUNAL (TAL)",
     "categoryIds": [
@@ -4975,7 +7209,7 @@
     ]
   },
   {
-    "id": "QC-186",
+    "id": "QC-275",
     "nameFr": "UNION DES CONSOMMATEURS / RÉSEAU DES ACEF (BUDGET & DETTES)",
     "nameEn": "ACEF NETWORK — FREE BUDGET & DEBT COUNSELING",
     "categoryIds": [
@@ -5002,7 +7236,7 @@
     ]
   },
   {
-    "id": "QC-187",
+    "id": "QC-276",
     "nameFr": "UNION ÉTUDIANTE DU QUÉBEC (UEQ — DROITS UNIVERSITAIRES)",
     "nameEn": "QUEBEC STUDENT UNION (UEQ — UNIVERSITY STUDENT RIGHTS)",
     "categoryIds": [
@@ -5029,7 +7263,7 @@
     ]
   },
   {
-    "id": "QC-188",
+    "id": "QC-277",
     "nameFr": "UTILE — LOGEMENT ÉTUDIANT ABORDABLE AU QUÉBEC",
     "nameEn": "UTILE — AFFORDABLE STUDENT HOUSING IN QUEBEC",
     "categoryIds": [
@@ -5056,7 +7290,7 @@
     ]
   },
   {
-    "id": "QC-189",
+    "id": "QC-278",
     "nameFr": "VIOL-SECOURS — CALACS DE QUÉBEC",
     "nameEn": "VIOL-SECOURS — SEXUAL ASSAULT CENTER (QUEBEC CITY)",
     "categoryIds": [
@@ -5065,13 +7299,13 @@
     ],
     "region": "03 - CAPITALE-NATIONALE",
     "phone": "418-522-2120",
-    "smsOrChat": "Écoute, soutien et accompagnement judiciaire à Québec",
+    "smsOrChat": "Écoute, accompagnement médical et judiciaire à Québec",
     "website": "https://www.violsecours.qc.ca",
     "address": "Québec, QC",
     "is247": false,
     "hasChatOrSms": false,
-    "descFr": "Centre d’aide et de lutte contre les agressions à caractère sexuel à Québec offrant écoute, groupes de soutien et accompagnement dans les démarches judiciaires.",
-    "descEn": "Sexual assault support center in Quebec City offering confidential listening, peer groups, and accompaniment through legal proceedings.",
+    "descFr": "Centre d’aide et de lutte contre les agressions à caractère sexuel à Québec offrant écoute, groupes de soutien et accompagnement juridique.",
+    "descEn": "Sexual assault support center in Quebec City offering confidential listening, peer groups, and medical or legal accompaniment.",
     "tags": [
       "calacs",
       "agression",
@@ -5082,7 +7316,7 @@
     ]
   },
   {
-    "id": "QC-190",
+    "id": "QC-279",
     "nameFr": "VISION-TRAVAIL & PS JEUNESSE — EMPLOYABILITÉ (OBNL)",
     "nameEn": "VISION-TRAVAIL & PS JEUNESSE — NON-PROFIT EMPLOYABILITY",
     "categoryIds": [
@@ -5109,128 +7343,29 @@
     ]
   },
   {
-    "id": "QC-191",
-    "nameFr": "ASSOCIATION QUÉBÉCOISE DE DÉFENSE DES DROITS DES PERSONNES RETRAITÉES (AQDR MONTRÉAL)",
-    "nameEn": "AQDR MONTREAL — SENIOR RIGHTS ADVOCACY",
+    "id": "QC-280",
+    "nameFr": "Voies culturelles des faubourgs (VCF)",
+    "nameEn": "Voies culturelles des faubourgs (VCF)",
     "categoryIds": [
-      "SENIORS",
-      "LEGAL"
+      "YOUTH",
+      "STUDENT"
     ],
     "region": "06 - MONTRÉAL",
-    "phone": "514-935-1551",
-    "smsOrChat": "Défense des droits des aînés à Montréal",
-    "website": "https://www.aqdrmontreal.org",
+    "phone": "514-521-0141",
+    "smsOrChat": "N/A",
+    "website": "https://www.211qc.ca",
     "address": "Montréal, QC",
     "is247": false,
     "hasChatOrSms": false,
-    "descFr": "Défense collective et individuelle des droits des personnes aînées et retraitées sur le territoire de Montréal.",
-    "descEn": "Collective and individual advocacy for the rights of seniors and retirees in Montreal.",
+    "descFr": "Organisme communautaire ou ressource active à Montréal offrant des services d'accompagnement, d'entraide et de soutien social.",
+    "descEn": "Community organization or active resource in Montreal offering support, mutual aid, and social services.",
     "tags": [
-      "aines",
+      "voies",
+      "culturelles",
+      "faubourgs",
+      "(vcf)",
       "montreal",
-      "droits",
-      "retraite",
-      "aqdr"
-    ]
-  },
-  {
-    "id": "QC-192",
-    "nameFr": "CENTRE DE CALM — LIGNE DE CRISE OUTAOUAIS",
-    "nameEn": "CALM CENTER — OUTAOUAIS CRISIS LINE",
-    "categoryIds": [
-      "CRISIS",
-      "HEALTH"
-    ],
-    "region": "07 - OUTAOUAIS",
-    "phone": "819-777-2121",
-    "smsOrChat": "Soutien de crise en Outaouais",
-    "website": "https://www.centrecalm.ca",
-    "address": "Gatineau, QC",
-    "is247": true,
-    "hasChatOrSms": false,
-    "descFr": "Intervention téléphonique de crise et écoute active pour toute personne en détresse psychologique en Outaouais.",
-    "descEn": "Telephone crisis intervention and active listening for anyone experiencing psychological distress in Outaouais.",
-    "tags": [
-      "crise",
-      "outaouais",
-      "gatineau",
-      "detresse",
-      "aide"
-    ]
-  },
-  {
-    "id": "QC-193",
-    "nameFr": "CLINIQUE JURIDIQUE DE PORTAGE (AIDE EN DROIT PÉNAL ET CARCÉRAL)",
-    "nameEn": "PORTAGE LEGAL CLINIC",
-    "categoryIds": [
-      "LEGAL",
-      "EMPLOYMENT"
-    ],
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "514-939-0206",
-    "smsOrChat": "Information juridique en matière correctionnelle",
-    "website": "https://www.portage.ca",
-    "address": "Partout au Québec",
-    "is247": false,
-    "hasChatOrSms": false,
-    "descFr": "Soutien et orientation juridique pour les personnes aux prises avec des enjeux liés au système de justice pénale et carcérale.",
-    "descEn": "Support and legal referral for individuals dealing with issues related to the criminal and correctional justice system.",
-    "tags": [
-      "juridique",
-      "penal",
-      "justice",
-      "detenu",
-      "droits"
-    ]
-  },
-  {
-    "id": "QC-194",
-    "nameFr": "LIGNE PARENTSSECOURS",
-    "nameEn": "PARENTSSECOURS HELPLINE",
-    "categoryIds": [
-      "YOUTH",
-      "HEALTH"
-    ],
-    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
-    "phone": "1-800-361-5085",
-    "smsOrChat": "Soutien et écoute pour les parents",
-    "website": "https://www.ligneparents.com",
-    "address": "Partout au Québec",
-    "is247": true,
-    "hasChatOrSms": true,
-    "descFr": "Ressource d’écoute et de référence professionnelle pour épauler les parents dans l’éducation de leurs enfants.",
-    "descEn": "Professional listening and referral resource to support parents in raising their children.",
-    "tags": [
-      "parents",
-      "famille",
-      "education",
-      "soutien",
-      "jeunes"
-    ]
-  },
-  {
-    "id": "QC-195",
-    "nameFr": "MAISON JOANNE-BLANCHET (HÉBERGEMENT POUR FEMMES — LANAUDIÈRE)",
-    "nameEn": "MAISON JOANNE-BLANCHET — WOMEN’S SHELTER (LANAUDIÈRE)",
-    "categoryIds": [
-      "VIOLENCE",
-      "HOUSING"
-    ],
-    "region": "14 - LANAUDIÈRE",
-    "phone": "450-839-6721",
-    "smsOrChat": "Hébergement sécuritaire 24/7 pour femmes et enfants",
-    "website": "https://www.maisonjoanneblanchet.com",
-    "address": "Lanaudière, QC",
-    "is247": true,
-    "hasChatOrSms": false,
-    "descFr": "Maison d’aide et d’hébergement pour les femmes et les enfants victimes de violence conjugale dans Lanaudière.",
-    "descEn": "Shelter and support center for women and children experiencing domestic violence in Lanaudière.",
-    "tags": [
-      "violence",
-      "femme",
-      "hebergement",
-      "lanaudiere",
-      "conjugale"
+      "quebec"
     ]
   }
 ]
