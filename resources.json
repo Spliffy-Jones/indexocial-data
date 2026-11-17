@@ -5107,5 +5107,131 @@
       "gratuit",
       "suroit"
     ]
+  ]
+  },
+  {
+    "id": "QC-191",
+    "nameFr": "ASSOCIATION QUÉBÉCOISE DE DÉFENSE DES DROITS DES PERSONNES RETRAITÉES (AQDR MONTRÉAL)",
+    "nameEn": "AQDR MONTREAL — SENIOR RIGHTS ADVOCACY",
+    "categoryIds": [
+      "SENIORS",
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-935-1551",
+    "smsOrChat": "Défense des droits des aînés à Montréal",
+    "website": "https://www.aqdrmontreal.org",
+    "address": "Montréal, QC",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Défense collective et individuelle des droits des personnes aînées et retraitées sur le territoire de Montréal.",
+    "descEn": "Collective and individual advocacy for the rights of seniors and retirees in Montreal.",
+    "tags": [
+      "aines",
+      "montreal",
+      "droits",
+      "retraite",
+      "aqdr"
+    ]
+  },
+  {
+    "id": "QC-192",
+    "nameFr": "CENTRE DE CALM — LIGNE DE CRISE OUTAOUAIS",
+    "nameEn": "CALM CENTER — OUTAOUAIS CRISIS LINE",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "07 - OUTAOUAIS",
+    "phone": "819-777-2121",
+    "smsOrChat": "Soutien de crise en Outaouais",
+    "website": "https://www.centrecalm.ca",
+    "address": "Gatineau, QC",
+    "is247": true,
+    "hasChatOrSms": false,
+    "descFr": "Intervention téléphonique de crise et écoute active pour toute personne en détresse psychologique en Outaouais.",
+    "descEn": "Telephone crisis intervention and active listening for anyone experiencing psychological distress in Outaouais.",
+    "tags": [
+      "crise",
+      "outaouais",
+      "gatineau",
+      "detresse",
+      "aide"
+    ]
+  },
+  {
+    "id": "QC-193",
+    "nameFr": "CLINIQUE JURIDIQUE DE PORTAGE (AIDE EN DROIT PÉNAL ET CARCÉRAL)",
+    "nameEn": "PORTAGE LEGAL CLINIC",
+    "categoryIds": [
+      "LEGAL",
+      "EMPLOYMENT"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "514-939-0206",
+    "smsOrChat": "Information juridique en matière correctionnelle",
+    "website": "https://www.portage.ca",
+    "address": "Partout au Québec",
+    "is247": false,
+    "hasChatOrSms": false,
+    "descFr": "Soutien et orientation juridique pour les personnes aux prises avec des enjeux liés au système de justice pénale et carcérale.",
+    "descEn": "Support and legal referral for individuals dealing with issues related to the criminal and correctional justice system.",
+    "tags": [
+      "juridique",
+      "penal",
+      "justice",
+      "detenu",
+      "droits"
+    ]
+  },
+  {
+    "id": "QC-194",
+    "nameFr": "LIGNE PARENTSSECOURS",
+    "nameEn": "PARENTSSECOURS HELPLINE",
+    "categoryIds": [
+      "YOUTH",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-361-5085",
+    "smsOrChat": "Soutien et écoute pour les parents",
+    "website": "https://www.ligneparents.com",
+    "address": "Partout au Québec",
+    "is247": true,
+    "hasChatOrSms": true,
+    "descFr": "Ressource d’écoute et de référence professionnelle pour épauler les parents dans l’éducation de leurs enfants.",
+    "descEn": "Professional listening and referral resource to support parents in raising their children.",
+    "tags": [
+      "parents",
+      "famille",
+      "education",
+      "soutien",
+      "jeunes"
+    ]
+  },
+  {
+    "id": "QC-195",
+    "nameFr": "MAISON JOANNE-BLANCHET (HÉBERGEMENT POUR FEMMES — LANAUDIÈRE)",
+    "nameEn": "MAISON JOANNE-BLANCHET — WOMEN’S SHELTER (LANAUDIÈRE)",
+    "categoryIds": [
+      "VIOLENCE",
+      "HOUSING"
+    ],
+    "region": "14 - LANAUDIÈRE",
+    "phone": "450-839-6721",
+    "smsOrChat": "Hébergement sécuritaire 24/7 pour femmes et enfants",
+    "website": "https://www.maisonjoanneblanchet.com",
+    "address": "Lanaudière, QC",
+    "is247": true,
+    "hasChatOrSms": false,
+    "descFr": "Maison d’aide et d’hébergement pour les femmes et les enfants victimes de violence conjugale dans Lanaudière.",
+    "descEn": "Shelter and support center for women and children experiencing domestic violence in Lanaudière.",
+    "tags": [
+      "violence",
+      "femme",
+      "hebergement",
+      "lanaudiere",
+      "conjugale"
+    ]
   }
 ]
