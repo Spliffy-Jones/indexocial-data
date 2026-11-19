@@ -1,0 +1,3535 @@
+[
+  {
+    "id": "QC-01",
+    "nameFr": "211 QUÉBEC — RÉPERTOIRE COMMUNAUTAIRE",
+    "nameEn": "211 QUEBEC — COMMUNITY DIRECTORY",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING",
+      "SENIORS"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "211",
+    "website": "https://www.211qc.ca",
+    "address": "Partout au Québec",
+    "descFr": "Service d’information et de référence vers les banques alimentaires, l’aide au logement, les popotes roulantes, le soutien financier et les organismes locaux. Consultez 211 Québec pour vérifier les services et coordonnées à jour avant de vous déplacer.",
+    "descEn": "Information and referral service connecting users to food banks, housing support, meals on wheels, financial assistance, and local organizations.",
+    "tags": [
+      "211",
+      "repertoire",
+      "communautaire",
+      "reference",
+      "aide sociale",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-02",
+    "nameFr": "ACTION CENTRE-VILLE MONTRÉAL",
+    "nameEn": "ACTION CENTRE-VILLE MONTREAL",
+    "categoryIds": [
+      "HOUSING",
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-878-0847",
+    "website": "https://www.acv-montreal.com",
+    "address": "105, rue Ontario Est, bureau 201, Montréal, QC",
+    "descFr": "Organisme communautaire à Montréal offrant de l’information, de l’éducation populaire et du soutien aux citoyens et locataires.",
+    "descEn": "Community organization in Montreal providing information, popular education, and support for residents and tenants.",
+    "tags": [
+      "action centre-ville",
+      "montreal",
+      "logement",
+      "communautaire",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-03",
+    "nameFr": "AIDE FINANCIÈRE AUX ÉTUDES (AFE — GOUVERNEMENT DU QUÉBEC)",
+    "nameEn": "QUEBEC STUDENT FINANCIAL ASSISTANCE (AFE)",
+    "categoryIds": [
+      "STUDENT",
+      "LEGAL"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-877-643-3750",
+    "website": "https://www.quebec.ca/gouvernement/ministeres-organismes/enseignement-superieur/coordonnees-structure/aide-financiere-etudes",
+    "address": "Partout au Québec",
+    "descFr": "Programme gouvernemental offrant des prêts, bourses et plans de remboursement pour les étudiantes et étudiants au Québec.",
+    "descEn": "Government program providing student loans, bursaries, and repayment support for students in Quebec.",
+    "tags": [
+      "etudiant",
+      "prets et bourses",
+      "afe",
+      "cegep",
+      "universite",
+      "dep",
+      "argent",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-04",
+    "nameFr": "AÎNÉS ET RETRAITÉS DE LA COMMUNAUTÉ GAIE (ARCG)",
+    "nameEn": "AÎNÉS ET RETRAITÉS DE LA COMMUNAUTÉ GAIE (ARCG)",
+    "categoryIds": [
+      "LGBTQ",
+      "SENIORS"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-730-8870",
+    "website": "https://www.arcmontreal.org",
+    "address": "2075, rue Plessis, bureau 110, Montréal, QC",
+    "descFr": "Organisme communautaire à Montréal favorisant le bien-être, l’entraide et le lien social des aînés et retraités LGBTQ+.",
+    "descEn": "Community organization in Montreal supporting well-being, peer connection, and social engagement for LGBTQ+ seniors and retirees.",
+    "tags": [
+      "arcg",
+      "aines",
+      "retraites",
+      "lgbtq",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-05",
+    "nameFr": "AQEPA — ASSOCIATION DU QUÉBEC POUR ENFANTS AVEC PROBLÈMES AUDITIFS",
+    "nameEn": "AQEPA — QUEBEC ASSOCIATION FOR CHILDREN WITH HEARING LOSS",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "514-842-8706",
+    "website": "https://aqepa.org",
+    "address": "2033, rue Sherbrooke Est, Montréal, QC",
+    "descFr": "Soutien aux familles, information et défense des droits pour les jeunes vivant avec une surdité ou des difficultés auditives au Québec.",
+    "descEn": "Family support, information, and advocacy for youth living with hearing loss or deafness in Quebec.",
+    "tags": [
+      "aqepa",
+      "audition",
+      "surdite",
+      "jeunesse",
+      "famille",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-06",
+    "nameFr": "ASSOCIATION QUÉBÉCOISE DE DÉFENSE DES DROITS DES PERSONNES RETRAITÉES (AQDR)",
+    "nameEn": "QUEBEC ASSOCIATION FOR THE DEFENSE OF RETIREES' RIGHTS (AQDR)",
+    "categoryIds": [
+      "SENIORS",
+      "LEGAL"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "514-935-1551",
+    "website": "https://www.aqdr.org",
+    "address": "1090, rue de l’Église, bureau 204, Montréal, QC",
+    "descFr": "Association provinciale dédiée à la défense des droits collectifs et individuels des personnes retraitées et préretraitées au Québec.",
+    "descEn": "Provincial association dedicated to defending the collective and individual rights of retired and pre-retired citizens in Quebec.",
+    "tags": [
+      "aines",
+      "retraite",
+      "droits",
+      "aqdr",
+      "pension",
+      "seniors",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-07",
+    "nameFr": "ASSOCIATION QUÉBÉCOISE DE DÉFENSE DES DROITS DES PERSONNES RETRAITÉES (AQDR MONTRÉAL)",
+    "nameEn": "AQDR MONTREAL — SENIOR RIGHTS ADVOCACY",
+    "categoryIds": [
+      "SENIORS",
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": "https://www.aqdrmontreal.org",
+    "address": "Montréal, QC",
+    "descFr": "Défense collective et individuelle des droits des personnes aînées et retraitées sur le territoire de Montréal.",
+    "descEn": "Collective and individual defense of the rights of older and retired people in Montreal.",
+    "tags": [
+      "aqdr montreal",
+      "aines",
+      "retraite",
+      "droits",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-08",
+    "nameFr": "ASSOCIATION QUÉBÉCOISE DE LA DOULEUR CHRONIQUE (AQDC)",
+    "nameEn": "QUEBEC ASSOCIATION OF CHRONIC PAIN (AQDC)",
+    "categoryIds": [
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-855-368-5387",
+    "website": "https://douleurquebec.ca",
+    "address": "7665, boulevard Lacordaire, Montréal, QC",
+    "descFr": "Écoute par les pairs, groupes d’entraide et ateliers d’autogestion pour briser l’isolement des personnes vivant avec des douleurs chroniques.",
+    "descEn": "Peer listening, support groups, and self-management workshops to reduce isolation for people living with chronic pain.",
+    "tags": [
+      "douleur",
+      "chronique",
+      "sante",
+      "entraide",
+      "aqdc",
+      "chronic pain",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-09",
+    "nameFr": "ASSOCIATION QUÉBÉCOISE DE LA FIBROMYALGIE (AQF)",
+    "nameEn": "QUEBEC FIBROMYALGIA ASSOCIATION (AQF)",
+    "categoryIds": [
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": null,
+    "website": null,
+    "address": "Partout au Québec",
+    "descFr": "Association québécoise liée à l’information et au soutien des personnes touchées par la fibromyalgie au Québec.",
+    "descEn": "Quebec association related to information and support for people affected by fibromyalgia in Quebec.",
+    "tags": [
+      "fibromyalgie",
+      "douleur",
+      "fatigue chronique",
+      "sante",
+      "entraide",
+      "aqf",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-10",
+    "nameFr": "ASSOCIATION QUÉBÉCOISE DE PRÉVENTION DU SUICIDE (AQPS)",
+    "nameEn": "QUEBEC ASSOCIATION FOR SUICIDE PREVENTION (AQPS)",
+    "categoryIds": [
+      "CRISIS"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "418-614-5909",
+    "website": "https://aqps.info",
+    "address": "5400, boulevard des Galeries, local 575, Québec, QC",
+    "descFr": "Organisme provincial orientant vers les centres régionaux de prévention du suicide, les ressources de postvention et les formations sentinelles.",
+    "descEn": "Provincial organization connecting citizens to regional suicide prevention centers, postvention resources, and gatekeeper training.",
+    "tags": [
+      "suicide",
+      "aqps",
+      "prevention",
+      "repertoire",
+      "quebec",
+      "sentinelle"
+    ]
+  },
+  {
+    "id": "QC-11",
+    "nameFr": "ASSOCIATION SPORTIVE ET COMMUNAUTAIRE DU CENTRE-SUD (ASCCS)",
+    "nameEn": "CENTRE-SUD SPORTS AND COMMUNITY ASSOCIATION",
+    "categoryIds": [
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-522-2246",
+    "website": "https://asccs.qc.ca",
+    "address": "2093, rue de la Visitation, Montréal, QC",
+    "descFr": "Organisme communautaire offrant des activités sportives, culturelles, éducatives et communautaires dans le quartier Centre-Sud à Montréal.",
+    "descEn": "Community organization offering sports, cultural, educational, and community activities in Montreal’s Centre-Sud neighborhood.",
+    "tags": [
+      "asccs",
+      "centre-sud",
+      "montreal",
+      "communautaire",
+      "jeunesse",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-12",
+    "nameFr": "ATELIER DES LETTRES EN ALPHABÉTISATION DE CENTRE-SUD",
+    "nameEn": "CENTRE-SUD LITERACY WORKSHOP (ATELIER DES LETTRES)",
+    "categoryIds": [
+      "EMPLOYMENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-524-0507",
+    "website": null,
+    "address": "1710, rue Beaudry, bureau 3.9, Montréal, QC",
+    "descFr": "Ateliers d’alphabétisation, de lecture, d’écriture, de calcul et d’informatique dans le quartier Centre-Sud à Montréal.",
+    "descEn": "Literacy, reading, writing, numeracy, and computer workshops in Montreal’s Centre-Sud neighborhood.",
+    "tags": [
+      "alphabetisation",
+      "atelier des lettres",
+      "centre-sud",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-13",
+    "nameFr": "AU COUP DE POUCE CENTRE-SUD",
+    "nameEn": "AU COUP DE POUCE CENTRE-SUD",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-2439",
+    "website": "https://www.aucoupdepouce.qc.ca",
+    "address": "2338, rue Ontario Est, Montréal, QC",
+    "descFr": "Organisme communautaire dans le Centre-Sud à Montréal offrant soutien, entraide et activités de proximité.",
+    "descEn": "Community organization in Montreal’s Centre-Sud offering support, mutual aid, and neighborhood activities.",
+    "tags": [
+      "au coup de pouce",
+      "centre-sud",
+      "montreal",
+      "entraide",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-14",
+    "nameFr": "AU CŒUR DES FAMILLES AGRICOLES (ACFA — TRAVAILLEURS DE RANG)",
+    "nameEn": "AU CŒUR DES FAMILLES AGRICOLES (FARMING STRESS & CRISIS)",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "450-768-6995",
+    "website": "https://acfareseaux.qc.ca",
+    "address": "600, rue Benoît, Saint-Hyacinthe, QC",
+    "descFr": "Services psychosociaux de première ligne, écoute et accompagnement sur le terrain par des travailleurs de rang pour les producteurs agricoles et leurs familles.",
+    "descEn": "Frontline psychosocial services, listening, and on-farm outreach workers supporting agricultural producers and farming families across Quebec.",
+    "tags": [
+      "agriculteur",
+      "ferme",
+      "travailleur de rang",
+      "detresse",
+      "acfa",
+      "agriculture",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-15",
+    "nameFr": "BANQUE D’ÉCHANGES COMMUNAUTAIRES DE SERVICES (BECS)",
+    "nameEn": "COMMUNITY SERVICE EXCHANGE BANK (BECS)",
+    "categoryIds": [
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": "https://becs.ca",
+    "address": "2355, avenue Lalonde, Montréal, QC",
+    "descFr": "Réseau communautaire d’entraide et d’échange de services entre membres à Montréal.",
+    "descEn": "Community mutual-aid and service-exchange network among members in Montreal.",
+    "tags": [
+      "becs",
+      "entraide",
+      "communautaire",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-16",
+    "nameFr": "ASSOCIATION QUÉBÉCOISE DE DÉFENSE DES DROITS DES PERSONNES RETRAITÉES (AQDR MONTRÉAL)",
+    "nameEn": "AQDR MONTREAL — SENIOR RIGHTS ADVOCACY",
+    "categoryIds": [
+      "SENIORS",
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": "https://www.aqdrmontreal.org",
+    "address": "Montréal, QC",
+    "descFr": "Défense collective et individuelle des droits des personnes aînées et retraitées sur le territoire de Montréal.",
+    "descEn": "Collective and individual defense of the rights of older and retired people in Montreal.",
+    "tags": [
+      "aqdr montreal",
+      "aines",
+      "retraite",
+      "droits",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-17",
+    "nameFr": "ASSOCIATION QUÉBÉCOISE DE LA DOULEUR CHRONIQUE (AQDC)",
+    "nameEn": "QUEBEC ASSOCIATION OF CHRONIC PAIN (AQDC)",
+    "categoryIds": [
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-855-368-5387",
+    "website": "https://douleurquebec.ca",
+    "address": "7665, boulevard Lacordaire, Montréal, QC",
+    "descFr": "Écoute par les pairs, groupes d’entraide et ateliers d’autogestion pour briser l’isolement des personnes vivant avec des douleurs chroniques.",
+    "descEn": "Peer listening, support groups, and self-management workshops to reduce isolation for people living with chronic pain.",
+    "tags": [
+      "douleur",
+      "chronique",
+      "sante",
+      "entraide",
+      "aqdc",
+      "chronic pain",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-18",
+    "nameFr": "ASSOCIATION QUÉBÉCOISE DE LA FIBROMYALGIE (AQF)",
+    "nameEn": "QUEBEC FIBROMYALGIA ASSOCIATION (AQF)",
+    "categoryIds": [
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": null,
+    "website": null,
+    "address": "Partout au Québec",
+    "descFr": "Association québécoise liée à l’information et au soutien des personnes touchées par la fibromyalgie au Québec.",
+    "descEn": "Quebec association related to information and support for people affected by fibromyalgia in Quebec.",
+    "tags": [
+      "fibromyalgie",
+      "douleur",
+      "fatigue chronique",
+      "sante",
+      "entraide",
+      "aqf",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-19",
+    "nameFr": "ASSOCIATION QUÉBÉCOISE DE PRÉVENTION DU SUICIDE (AQPS)",
+    "nameEn": "QUEBEC ASSOCIATION FOR SUICIDE PREVENTION (AQPS)",
+    "categoryIds": [
+      "CRISIS"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "418-614-5909",
+    "website": "https://aqps.info",
+    "address": "5400, boulevard des Galeries, local 575, Québec, QC",
+    "descFr": "Organisme provincial orientant vers les centres régionaux de prévention du suicide, les ressources de postvention et les formations sentinelles.",
+    "descEn": "Provincial organization connecting citizens to regional suicide prevention centers, postvention resources, and gatekeeper training.",
+    "tags": [
+      "suicide",
+      "aqps",
+      "prevention",
+      "repertoire",
+      "quebec",
+      "sentinelle"
+    ]
+  },
+  {
+    "id": "QC-20",
+    "nameFr": "ASSOCIATION SPORTIVE ET COMMUNAUTAIRE DU CENTRE-SUD (ASCCS)",
+    "nameEn": "CENTRE-SUD SPORTS AND COMMUNITY ASSOCIATION",
+    "categoryIds": [
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-522-2246",
+    "website": "https://asccs.qc.ca",
+    "address": "2093, rue de la Visitation, Montréal, QC",
+    "descFr": "Organisme communautaire offrant des activités sportives, culturelles, éducatives et communautaires dans le quartier Centre-Sud à Montréal.",
+    "descEn": "Community organization offering sports, cultural, educational, and community activities in Montreal’s Centre-Sud neighborhood.",
+    "tags": [
+      "asccs",
+      "centre-sud",
+      "montreal",
+      "communautaire",
+      "jeunesse",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-21",
+    "nameFr": "ATELIER DES LETTRES EN ALPHABÉTISATION DE CENTRE-SUD",
+    "nameEn": "CENTRE-SUD LITERACY WORKSHOP (ATELIER DES LETTRES)",
+    "categoryIds": [
+      "EMPLOYMENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-524-0507",
+    "website": null,
+    "address": "1710, rue Beaudry, bureau 3.9, Montréal, QC",
+    "descFr": "Ateliers d’alphabétisation, de lecture, d’écriture, de calcul et d’informatique dans le quartier Centre-Sud à Montréal.",
+    "descEn": "Literacy, reading, writing, numeracy, and computer workshops in Montreal’s Centre-Sud neighborhood.",
+    "tags": [
+      "alphabetisation",
+      "atelier des lettres",
+      "centre-sud",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-22",
+    "nameFr": "AU COUP DE POUCE CENTRE-SUD",
+    "nameEn": "AU COUP DE POUCE CENTRE-SUD",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-2439",
+    "website": "https://www.aucoupdepouce.qc.ca",
+    "address": "2338, rue Ontario Est, Montréal, QC",
+    "descFr": "Organisme communautaire dans le Centre-Sud à Montréal offrant soutien, entraide et activités de proximité.",
+    "descEn": "Community organization in Montreal’s Centre-Sud offering support, mutual aid, and neighborhood activities.",
+    "tags": [
+      "au coup de pouce",
+      "centre-sud",
+      "montreal",
+      "entraide",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-23",
+    "nameFr": "AU CŒUR DES FAMILLES AGRICOLES (ACFA — TRAVAILLEURS DE RANG)",
+    "nameEn": "AU CŒUR DES FAMILLES AGRICOLES (FARMING STRESS & CRISIS)",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "450-768-6995",
+    "website": "https://acfareseaux.qc.ca",
+    "address": "600, rue Benoît, Saint-Hyacinthe, QC",
+    "descFr": "Services psychosociaux de première ligne, écoute et accompagnement sur le terrain par des travailleurs de rang pour les producteurs agricoles et leurs familles.",
+    "descEn": "Frontline psychosocial services, listening, and on-farm outreach workers supporting agricultural producers and farming families across Quebec.",
+    "tags": [
+      "agriculteur",
+      "ferme",
+      "travailleur de rang",
+      "detresse",
+      "acfa",
+      "agriculture",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-24",
+    "nameFr": "BANQUE D’ÉCHANGES COMMUNAUTAIRES DE SERVICES (BECS)",
+    "nameEn": "COMMUNITY SERVICE EXCHANGE BANK (BECS)",
+    "categoryIds": [
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": "https://becs.ca",
+    "address": "2355, avenue Lalonde, Montréal, QC",
+    "descFr": "Réseau communautaire d’entraide et d’échange de services entre membres à Montréal.",
+    "descEn": "Community mutual-aid and service-exchange network among members in Montreal.",
+    "tags": [
+      "becs",
+      "entraide",
+      "communautaire",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-25",
+    "nameFr": "ASSOCIATION SPORTIVE ET COMMUNAUTAIRE DU CENTRE-SUD (ASCCS)",
+    "nameEn": "CENTRE-SUD SPORTS AND COMMUNITY ASSOCIATION",
+    "categoryIds": [
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-522-2246",
+    "website": "https://asccs.qc.ca",
+    "address": "2093, rue de la Visitation, Montréal, QC",
+    "descFr": "Organisme communautaire offrant des activités sportives, culturelles, éducatives et communautaires dans le quartier Centre-Sud à Montréal.",
+    "descEn": "Community organization offering sports, cultural, educational, and community activities in Montreal’s Centre-Sud neighborhood.",
+    "tags": [
+      "asccs",
+      "centre-sud",
+      "montreal",
+      "communautaire",
+      "jeunesse",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-26",
+    "nameFr": "ATELIER DES LETTRES EN ALPHABÉTISATION DE CENTRE-SUD",
+    "nameEn": "CENTRE-SUD LITERACY WORKSHOP (ATELIER DES LETTRES)",
+    "categoryIds": [
+      "EMPLOYMENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-524-0507",
+    "website": null,
+    "address": "1710, rue Beaudry, bureau 3.9, Montréal, QC",
+    "descFr": "Ateliers d’alphabétisation, de lecture, d’écriture, de calcul et d’informatique dans le quartier Centre-Sud à Montréal.",
+    "descEn": "Literacy, reading, writing, numeracy, and computer workshops in Montreal’s Centre-Sud neighborhood.",
+    "tags": [
+      "alphabetisation",
+      "atelier des lettres",
+      "centre-sud",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-27",
+    "nameFr": "ATELIER DES LETTRES — ALPHABÉTISATION",
+    "nameEn": "ATELIER DES LETTRES — LITERACY",
+    "categoryIds": [
+      "EMPLOYMENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-524-0507",
+    "website": null,
+    "address": "1710, rue Beaudry, bureau 3.9, Montréal, QC",
+    "descFr": "Organisme d’éducation populaire et d’alphabétisation à Montréal soutenant l’apprentissage de la lecture, de l’écriture et des compétences de base.",
+    "descEn": "Popular education and adult literacy organization in Montreal supporting reading, writing, and foundational skills.",
+    "tags": [
+      "alphabetisation",
+      "education populaire",
+      "atelier des lettres",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-28",
+    "nameFr": "AU COUP DE POUCE CENTRE-SUD",
+    "nameEn": "AU COUP DE POUCE CENTRE-SUD",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-2439",
+    "website": "https://www.aucoupdepouce.qc.ca",
+    "address": "2338, rue Ontario Est, Montréal, QC",
+    "descFr": "Organisme communautaire dans le Centre-Sud à Montréal offrant soutien, entraide et activités de proximité.",
+    "descEn": "Community organization in Montreal’s Centre-Sud offering support, mutual aid, and neighborhood activities.",
+    "tags": [
+      "au coup de pouce",
+      "centre-sud",
+      "montreal",
+      "entraide",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-29",
+    "nameFr": "AU CŒUR DES FAMILLES AGRICOLES (ACFA — TRAVAILLEURS DE RANG)",
+    "nameEn": "AU CŒUR DES FAMILLES AGRICOLES (FARMING STRESS & CRISIS)",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "450-768-6995",
+    "website": "https://acfareseaux.qc.ca",
+    "address": "600, rue Benoît, Saint-Hyacinthe, QC",
+    "descFr": "Services psychosociaux de première ligne, écoute et accompagnement sur le terrain par des travailleurs de rang pour les producteurs agricoles et leurs familles.",
+    "descEn": "Frontline psychosocial services, listening, and on-farm outreach workers supporting agricultural producers and farming families across Quebec.",
+    "tags": [
+      "agriculteur",
+      "ferme",
+      "travailleur de rang",
+      "detresse",
+      "acfa",
+      "agriculture",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-30",
+    "nameFr": "BANQUE D’ÉCHANGES COMMUNAUTAIRES DE SERVICES (BECS)",
+    "nameEn": "COMMUNITY SERVICE EXCHANGE BANK (BECS)",
+    "categoryIds": [
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": "https://becs.ca",
+    "address": "2355, avenue Lalonde, Montréal, QC",
+    "descFr": "Réseau communautaire d’entraide et d’échange de services entre membres à Montréal.",
+    "descEn": "Community mutual-aid and service-exchange network among members in Montreal.",
+    "tags": [
+      "becs",
+      "entraide",
+      "communautaire",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-31",
+    "nameFr": "BIBLIOTHÈQUE FRONTENAC",
+    "nameEn": "FRONTENAC LIBRARY",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "2550, boulevard Hochelaga, Montréal, QC",
+    "descFr": "Bibliothèque publique de quartier à Montréal offrant l’accès aux livres, à l’étude et à des services documentaires.",
+    "descEn": "Neighborhood public library in Montreal providing access to books, study space, and library services.",
+    "tags": [
+      "bibliotheque",
+      "frontenac",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-32",
+    "nameFr": "BIBLIOTHÈQUE PÈRE-AMBROISE",
+    "nameEn": "PÈRE-AMBROISE LIBRARY",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "2095, rue Rachel Est, Montréal, QC",
+    "descFr": "Bibliothèque publique de quartier à Montréal offrant l’accès aux livres, à l’étude et à des services documentaires.",
+    "descEn": "Neighborhood public library in Montreal providing access to books, study space, and library services.",
+    "tags": [
+      "bibliotheque",
+      "pere-ambroise",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-33",
+    "nameFr": "BONNE BOUFFE / COMPTOIR ALIMENTAIRE LOCAL",
+    "nameEn": "LOCAL FOOD PANTRY & MEAL SUPPORT",
+    "categoryIds": [
+      "FOOD"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Ressource locale d’entraide et de soutien alimentaire communautaire à Montréal.",
+    "descEn": "Local community mutual-aid and food support resource in Montreal.",
+    "tags": [
+      "alimentation",
+      "entraide",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-34",
+    "nameFr": "CACTUS MONTRÉAL — CENTRE DE PRÉVENTION ET DE RÉDUCTION DES MÉFAITS",
+    "nameEn": "CACTUS MONTREAL — HARM REDUCTION & PREVENTION CENTER",
+    "categoryIds": [
+      "ADDICTION",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-847-0067",
+    "website": "https://cactusmontreal.org",
+    "address": "1300, rue Sanguinet, Montréal, QC",
+    "descFr": "Centre communautaire de prévention des surdoses, soins infirmiers de base, matériel stérile et soutien psychosocial à Montréal.",
+    "descEn": "Community center providing overdose prevention, basic nursing care, sterile supplies, and psychosocial support in Montreal.",
+    "tags": [
+      "cactus",
+      "prevention surdose",
+      "reduction des mefaits",
+      "montreal",
+      "sante",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-35",
+    "nameFr": "CALACS LA BÔME (VIOLENCE SEXUELLE — GASPÉSIE)",
+    "nameEn": "CALACS LA BÔME — SEXUAL ASSAULT CENTER (GASPÉSIE)",
+    "categoryIds": [
+      "VIOLENCE",
+      "LEGAL"
+    ],
+    "region": "11 - GASPÉSIE–ÎLES-DE-LA-MADELEINE",
+    "phone": "418-368-1166",
+    "website": "https://www.calacslabome.com",
+    "address": "Gaspé, QC",
+    "descFr": "Soutien confidentiel, écoute, groupes d’entraide et accompagnement médical ou judiciaire pour les femmes victimes d’agression sexuelle en Gaspésie.",
+    "descEn": "Confidential support, listening, peer groups, and medical or legal accompaniment for women who have experienced sexual assault in Gaspésie.",
+    "tags": [
+      "calacs",
+      "gaspesie",
+      "gaspe",
+      "agression",
+      "violence sexuelle",
+      "femme",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-36",
+    "nameFr": "CAP SAINT-BARNABÉ — COMPTOIR ALIMENTAIRE & REPAS (HOCHELAGA)",
+    "nameEn": "CAP SAINT-BARNABÉ — FOOD PANTRY & HOT MEALS",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-0467",
+    "website": "https://www.capsaintbarnabe.org",
+    "address": "1475, avenue Bennett, Montréal, QC",
+    "descFr": "Comptoir alimentaire et repas communautaires dans le quartier Hochelaga-Maisonneuve à Montréal.",
+    "descEn": "Food pantry and community meals in Montreal’s Hochelaga-Maisonneuve neighborhood.",
+    "tags": [
+      "cap saint-barnabe",
+      "alimentation",
+      "repas",
+      "hochelaga",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-37",
+    "nameFr": "CARREFOUR ALIMENTAIRE CENTRE-SUD (BANQUE ALIMENTAIRE)",
+    "nameEn": "CARREFOUR ALIMENTAIRE CENTRE-SUD (FOOD BANK & MARKETS)",
+    "categoryIds": [
+      "FOOD"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-525-6611",
+    "website": "https://carrefouralimentaire.org",
+    "address": "2349, rue de Rouen, Montréal, QC",
+    "descFr": "Banque alimentaire, marchés solidaires et cuisines collectives dans le quartier Centre-Sud à Montréal.",
+    "descEn": "Food bank, solidarity markets, and collective kitchens in Montreal’s Centre-Sud neighborhood.",
+    "tags": [
+      "carrefour alimentaire",
+      "banque alimentaire",
+      "centre-sud",
+      "montreal",
+      "nourriture",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-38",
+    "nameFr": "CARREFOUR SOLIDAIRE CENTRE-SUD",
+    "nameEn": "CARREFOUR SOLIDAIRE CENTRE-SUD",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative communautaire locale à Montréal favorisant l’entraide et le soutien de proximité.",
+    "descEn": "Local community initiative in Montreal supporting mutual aid and neighborhood assistance.",
+    "tags": [
+      "carrefour solidaire",
+      "montreal",
+      "entraide",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-39",
+    "nameFr": "CARREFOUR SAINT-EUSÈBE",
+    "nameEn": "CARREFOUR SAINT-EUSÈBE",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Ressource communautaire locale active à Montréal offrant des activités d’entraide et de soutien social.",
+    "descEn": "Local community resource in Montreal offering mutual aid and social support activities.",
+    "tags": [
+      "carrefour saint-eusebe",
+      "montreal",
+      "entraide",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-40",
+    "nameFr": "CÉGEP DE VALLEYFIELD — SERVICES PSYCHOSOCIAUX & AIDE ÉTUDIANTE",
+    "nameEn": "CÉGEP DE VALLEYFIELD — STUDENT PSYCHOSOCIAL & FINANCIAL AID",
+    "categoryIds": [
+      "STUDENT",
+      "HEALTH"
+    ],
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-373-9441",
+    "website": "https://www.cegepvalleyfield.ca",
+    "address": "169, rue Champlain, Salaberry-de-Valleyfield, QC",
+    "descFr": "Consultation psychosociale, aide financière aux études et services adaptés pour la population étudiante à Salaberry-de-Valleyfield.",
+    "descEn": "Psychosocial counseling, student financial assistance, and adapted support services in Salaberry-de-Valleyfield.",
+    "tags": [
+      "cegep valleyfield",
+      "etudiant",
+      "salaberry-de-valleyfield",
+      "suroit",
+      "sante",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-41",
+    "nameFr": "CENTRE ANTIPOISON DU QUÉBEC",
+    "nameEn": "POISON CONTROL CENTRE OF QUEBEC",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-463-5060",
+    "website": "https://www.ciusss-capitalenationale.gouv.qc.ca/antipoison",
+    "address": "Partout au Québec",
+    "descFr": "Service téléphonique spécialisé en cas d’intoxication, d’ingestion accidentelle, d’exposition chimique ou de morsure au Québec.",
+    "descEn": "Specialized telephone guidance for poisoning, accidental ingestion, chemical exposure, or bites across Quebec.",
+    "tags": [
+      "antipoison",
+      "intoxication",
+      "urgence",
+      "sante",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-42",
+    "nameFr": "CENTRE ASSOCIATIF POLYVALENT D’AIDE HÉPATITE C (CAPAHC)",
+    "nameEn": "CAPAHC — HEPATITIS C SUPPORT CENTER",
+    "categoryIds": [
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-2437",
+    "website": "https://www.capahc.org",
+    "address": "3680, rue Jeanne-Mance, bureau 340, Montréal, QC",
+    "descFr": "Organisme communautaire à Montréal offrant de l’information, de l’accompagnement et du soutien aux personnes vivant avec l’hépatite C.",
+    "descEn": "Community organization in Montreal providing information, accompaniment, and support for people living with hepatitis C.",
+    "tags": [
+      "capahc",
+      "hepatite c",
+      "sante",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-43",
+    "nameFr": "CENTRE DE CRISE ET DE PRÉVENTION DU SUICIDE (CHAUDIÈRE-APPALACHES)",
+    "nameEn": "CHAUDIÈRE-APPALACHES CRISIS & SUICIDE PREVENTION CENTER",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "12 - CHAUDIÈRE-APPALACHES",
+    "phone": "1-866-277-3553",
+    "website": "https://www.ccpsca.org",
+    "address": "Lévis, QC",
+    "descFr": "Intervention de crise, accompagnement et soutien en prévention du suicide dans la région de Chaudière-Appalaches.",
+    "descEn": "Crisis intervention, support, and suicide prevention services in the Chaudière-Appalaches region.",
+    "tags": [
+      "crise",
+      "suicide",
+      "chaudiere-appalaches",
+      "levis",
+      "prevention",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-44",
+    "nameFr": "CDC CENTRE-SUD (CORPORATION DE DÉVELOPPEMENT COMMUNAUTAIRE)",
+    "nameEn": "CENTRE-SUD COMMUNITY DEVELOPMENT CORPORATION (CDC)",
+    "categoryIds": [
+      "EMPLOYMENT",
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-524-5677",
+    "website": "https://www.cdccentresud.org",
+    "address": "1710, rue Beaudry, Montréal, QC",
+    "descFr": "Regroupement d’organismes communautaires et d’initiatives citoyennes œuvrant au développement social du quartier Centre-Sud à Montréal.",
+    "descEn": "Network of community organizations and citizen initiatives working on social development in Montreal’s Centre-Sud.",
+    "tags": [
+      "cdc centre-sud",
+      "communautaire",
+      "montreal",
+      "developpement social",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-45",
+    "nameFr": "CENTRE DE PRÉVENTION DU SUICIDE DU SAGUENAY–LAC-SAINT-JEAN (CPS 02)",
+    "nameEn": "SAGUENAY–LAC-SAINT-JEAN SUICIDE PREVENTION CENTER (CPS 02)",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "02 - SAGUENAY–LAC-SAINT-JEAN",
+    "phone": "1-866-277-3553",
+    "website": "https://www.cps02.org",
+    "address": "Saguenay, QC",
+    "descFr": "Intervention de crise, suivi et soutien aux proches ou personnes endeuillées au Saguenay–Lac-Saint-Jean.",
+    "descEn": "Crisis intervention, follow-up, and support for loved ones or the bereaved in Saguenay–Lac-Saint-JEAN.",
+    "tags": [
+      "suicide",
+      "saguenay",
+      "lac-saint-jean",
+      "crise",
+      "cps02",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-46",
+    "nameFr": "CENTRE DE PRÉVENTION DU SUICIDE ACCALMIE (MAURICIE)",
+    "nameEn": "ACCALMIE SUICIDE PREVENTION CENTER (MAURICIE)",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "04 - MAURICIE",
+    "phone": "819-376-4477",
+    "website": "https://www.accalmie.ca",
+    "address": "Trois-Rivières, QC",
+    "descFr": "Soutien en prévention du suicide, écoute et accompagnement pour les personnes en détresse et leurs proches en Mauricie.",
+    "descEn": "Suicide prevention support, listening, and accompaniment for people in distress and their loved ones in Mauricie.",
+    "tags": [
+      "suicide",
+      "crise",
+      "mauricie",
+      "trois-rivieres",
+      "accalmie",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-47",
+    "nameFr": "CENTRE DE PRÉVENTION DU SUICIDE DE QUÉBEC (CPSQ)",
+    "nameEn": "QUEBEC CITY SUICIDE PREVENTION CENTER (CPSQ)",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "03 - CAPITALE-NATIONALE",
+    "phone": "418-683-4588",
+    "website": "https://www.cpsquebec.ca",
+    "address": "8180, boulevard Pierre-Bertrand, Québec, QC",
+    "descFr": "Intervention de crise, soutien aux proches et accompagnement en prévention du suicide dans la région de Québec.",
+    "descEn": "Crisis intervention, support for loved ones, and suicide prevention services in the Quebec City area.",
+    "tags": [
+      "suicide",
+      "crise",
+      "quebec",
+      "cpsq",
+      "capitale-nationale"
+    ]
+  },
+  {
+    "id": "QC-48",
+    "nameFr": "CENTRE DE PRÉVENTION DU SUICIDE DU HAUT-RICHELIEU",
+    "nameEn": "HAUT-RICHELIEU SUICIDE PREVENTION CENTER",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-348-6300",
+    "website": "https://www.cpshr.ca",
+    "address": "Saint-Jean-sur-Richelieu, QC",
+    "descFr": "Intervention téléphonique, suivi de crise et soutien en prévention du suicide dans le Haut-Richelieu.",
+    "descEn": "Telephone intervention, crisis follow-up, and suicide prevention support in Haut-Richelieu.",
+    "tags": [
+      "suicide",
+      "crise",
+      "saint-jean-sur-richelieu",
+      "monteregie",
+      "cpshr",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-49",
+    "nameFr": "CENTRE DE CRISE L’AUTRE MAISON (MONTRÉAL SUD-OUEST)",
+    "nameEn": "L’AUTRE MAISON CRISIS CENTER (SOUTHWEST MONTREAL)",
+    "categoryIds": [
+      "CRISIS",
+      "HOUSING",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-768-7225",
+    "website": "https://lautremaison.org",
+    "address": "Montréal, QC",
+    "descFr": "Intervention de crise, suivi dans le milieu et soutien temporaire pour adultes dans le Sud-Ouest de Montréal.",
+    "descEn": "Crisis intervention, community follow-up, and temporary support for adults in Southwest Montreal.",
+    "tags": [
+      "crise",
+      "autre maison",
+      "montreal",
+      "sud-ouest",
+      "sante mentale",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-50",
+    "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DU SAGUENAY (CHICOUTIMI)",
+    "nameEn": "SAGUENAY NATIVE FRIENDSHIP CENTRE",
+    "categoryIds": [
+      "INDIGENOUS",
+      "FOOD",
+      "HOUSING",
+      "HEALTH"
+    ],
+    "region": "02 - SAGUENAY–LAC-SAINT-JEAN",
+    "phone": "418-543-4444",
+    "website": "https://www.caasaguenay.ca",
+    "address": "512, rue Jacques-Cartier Est, Saguenay, QC",
+    "descFr": "Carrefour de services culturels, sociaux et d’entraide pour les personnes autochtones à Saguenay et au Saguenay–Lac-Saint-JEAN.",
+    "descEn": "Cultural, social, and mutual-aid hub serving Indigenous community members in Saguenay and Saguenay–Lac-Saint-Jean.",
+    "tags": [
+      "autochtone",
+      "saguenay",
+      "chicoutimi",
+      "centre amitie",
+      "premieres nations",
+      "quebec"
+      ]
+  },
+  {
+    "id": "QC-51",
+    "nameFr": "CENTRE DE CALM — LIGNE DE CRISE OUTAOUAIS",
+    "nameEn": "CALM CENTER — OUTAOUAIS CRISIS LINE",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "07 - OUTAOUAIS",
+    "phone": null,
+    "website": null,
+    "address": "Gatineau, QC",
+    "descFr": "Service d’intervention de crise et de soutien psychosocial dans la région de l’Outaouais.",
+    "descEn": "Crisis intervention and psychosocial support service in the Outaouais region.",
+    "tags": [
+      "crise",
+      "outaouais",
+      "gatineau",
+      "sante mentale",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-52",
+    "nameFr": "CENTRE DE CRISE DE QUÉBEC",
+    "nameEn": "QUEBEC CITY CRISIS CENTER",
+    "categoryIds": [
+      "CRISIS",
+      "HOUSING",
+      "HEALTH"
+    ],
+    "region": "03 - CAPITALE-NATIONALE",
+    "phone": null,
+    "website": null,
+    "address": "Québec, QC",
+    "descFr": "Centre d’intervention de crise et d’hébergement temporaire dans la région de Québec.",
+    "descEn": "Crisis intervention center and temporary shelter in the Quebec City area.",
+    "tags": [
+      "crise",
+      "quebec",
+      "capitale-nationale",
+      "hebergement"
+    ]
+  },
+  {
+    "id": "QC-53",
+    "nameFr": "CENTRE DE CRISE DE LA RIVE-SUD",
+    "nameEn": "SOUTH SHORE CRISIS CENTER",
+    "categoryIds": [
+      "CRISIS",
+      "HOUSING",
+      "HEALTH"
+    ],
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": null,
+    "website": null,
+    "address": "Longueuil, QC",
+    "descFr": "Service d’intervention de crise et de soutien psychosocial sur la Rive-Sud / Montérégie.",
+    "descEn": "Crisis intervention and psychosocial support service on the South Shore / Montérégie.",
+    "tags": [
+      "crise",
+      "rive-sud",
+      "monteregie",
+      "longueuil",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-54",
+    "nameFr": "CENTRE DE CRISE L’AUTRE MAISON (MONTRÉAL SUD-OUEST)",
+    "nameEn": "L’AUTRE MAISON CRISIS CENTER (SOUTHWEST MONTREAL)",
+    "categoryIds": [
+      "CRISIS",
+      "HOUSING",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-768-7225",
+    "website": "https://lautremaison.org",
+    "address": "Montréal, QC",
+    "descFr": "Intervention de crise, suivi dans le milieu et soutien temporaire pour adultes dans le Sud-Ouest de Montréal.",
+    "descEn": "Crisis intervention, community follow-up, and temporary support for adults in Southwest Montreal.",
+    "tags": [
+      "crise",
+      "autre maison",
+      "montreal",
+      "sud-ouest",
+      "sante mentale",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-55",
+    "nameFr": "CENTRE DE PRÉVENTION DU SUICIDE DU SAGUENAY–LAC-SAINT-JEAN (CPS 02)",
+    "nameEn": "SAGUENAY–LAC-SAINT-JEAN SUICIDE PREVENTION CENTER (CPS 02)",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "02 - SAGUENAY–LAC-SAINT-JEAN",
+    "phone": "1-866-277-3553",
+    "website": "https://www.cps02.org",
+    "address": "Saguenay, QC",
+    "descFr": "Intervention de crise, suivi et soutien aux proches ou personnes endeuillées au Saguenay–Lac-Saint-Jean.",
+    "descEn": "Crisis intervention, follow-up, and support for loved ones or the bereaved in Saguenay–Lac-Saint-Jean.",
+    "tags": [
+      "suicide",
+      "saguenay",
+      "lac-saint-jean",
+      "crise",
+      "cps02",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-56",
+    "nameFr": "CENTRE DE PRÉVENTION DU SUICIDE ACCALMIE (MAURICIE)",
+    "nameEn": "ACCALMIE SUICIDE PREVENTION CENTER (MAURICIE)",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "04 - MAURICIE",
+    "phone": "819-376-4477",
+    "website": "https://www.accalmie.ca",
+    "address": "Trois-Rivières, QC",
+    "descFr": "Soutien en prévention du suicide, écoute et accompagnement pour les personnes en détresse et leurs proches en Mauricie.",
+    "descEn": "Suicide prevention support, listening, and accompaniment for people in distress and their loved ones in Mauricie.",
+    "tags": [
+      "suicide",
+      "crise",
+      "mauricie",
+      "trois-rivieres",
+      "accalmie",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-57",
+    "nameFr": "CENTRE DE PRÉVENTION DU SUICIDE DE QUÉBEC (CPSQ)",
+    "nameEn": "QUEBEC CITY SUICIDE PREVENTION CENTER (CPSQ)",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "03 - CAPITALE-NATIONALE",
+    "phone": "418-683-4588",
+    "website": "https://www.cpsquebec.ca",
+    "address": "8180, boulevard Pierre-Bertrand, Québec, QC",
+    "descFr": "Intervention de crise, soutien aux proches et accompagnement en prévention du suicide dans la région de Québec.",
+    "descEn": "Crisis intervention, support for loved ones, and suicide prevention services in the Quebec City area.",
+    "tags": [
+      "suicide",
+      "crise",
+      "quebec",
+      "cpsq",
+      "capitale-nationale"
+    ]
+  },
+  {
+    "id": "QC-58",
+    "nameFr": "CENTRE DE PRÉVENTION DU SUICIDE DU HAUT-RICHELIEU",
+    "nameEn": "HAUT-RICHELIEU SUICIDE PREVENTION CENTER",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-348-6300",
+    "website": "https://www.cpshr.ca",
+    "address": "Saint-Jean-sur-Richelieu, QC",
+    "descFr": "Intervention téléphonique, suivi de crise et soutien en prévention du suicide dans le Haut-Richelieu.",
+    "descEn": "Telephone intervention, crisis follow-up, and suicide prevention support in Haut-Richelieu.",
+    "tags": [
+      "suicide",
+      "crise",
+      "saint-jean-sur-richelieu",
+      "monteregie",
+      "cpshr",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-59",
+    "nameFr": "CENTRE DE PRÉVENTION DU SUICIDE ET D’INTERVENTION DE CRISE DU BSL",
+    "nameEn": "BAS-SAINT-LAURENT CRISIS & SUICIDE PREVENTION CENTER",
+    "categoryIds": [
+      "CRISIS",
+      "HOUSING",
+      "HEALTH"
+    ],
+    "region": "01 - BAS-SAINT-LAURENT",
+    "phone": "418-724-4633",
+    "website": null,
+    "address": "Rimouski, QC",
+    "descFr": "Intervention de crise et prévention du suicide au Bas-Saint-Laurent.",
+    "descEn": "Crisis intervention and suicide prevention services in Bas-Saint-Laurent.",
+    "tags": [
+      "suicide",
+      "crise",
+      "bas-saint-laurent",
+      "rimouski",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-60",
+    "nameFr": "CENTRE DE RESSOURCES POUR HOMMES DE MONTRÉAL",
+    "nameEn": "MONTREAL MEN’S RESOURCE CENTER",
+    "categoryIds": [
+      "HEALTH",
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Ressource communautaire de soutien et d’accompagnement destinée aux hommes à Montréal.",
+    "descEn": "Community support and guidance resource for men in Montreal.",
+    "tags": [
+      "hommes",
+      "soutien",
+      "montreal",
+      "communautaire",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-61",
+    "nameFr": "CENTRE DE SANTÉ ET DE SERVICES SOCIAUX DE KANESATAKE",
+    "nameEn": "KANESATAKE HEALTH CENTER",
+    "categoryIds": [
+      "INDIGENOUS",
+      "HEALTH"
+    ],
+    "region": "15 - LAURENTIDES",
+    "phone": "450-479-8373",
+    "website": "https://www.kanesatake.ca",
+    "address": "12, rue Joseph-Swan, Kanesatake, QC",
+    "descFr": "Centre de santé, services psychosociaux et soutien communautaire destinés aux membres de la communauté Mohawk de Kanesatake.",
+    "descEn": "Health center, psychosocial services, and community support serving members of the Mohawk community of Kanesatake.",
+    "tags": [
+      "autochtone",
+      "premieres nations",
+      "mohawk",
+      "kanesatake",
+      "sante",
+      "laurentides"
+    ]
+  },
+  {
+    "id": "QC-62",
+    "nameFr": "CENTRE DE SOIR DENISE-MASSÉ",
+    "nameEn": "DENISE-MASSÉ EVENING CENTER",
+    "categoryIds": [
+      "HEALTH",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Ressource de soutien et d’accueil en soirée à Montréal.",
+    "descEn": "Evening outreach and support resource in Montreal.",
+    "tags": [
+      "denise-masse",
+      "montreal",
+      "soutien",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-63",
+    "nameFr": "CENTRE D’ACTION BÉNÉVOLE DE VALLEYFIELD",
+    "nameEn": "VALLEYFIELD VOLUNTEER ACTION CENTER",
+    "categoryIds": [
+      "SENIORS",
+      "FOOD"
+    ],
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-373-2111",
+    "website": "https://www.cabvalleyfield.com",
+    "address": "104, rue Saint-Jean-Baptiste, Salaberry-de-Valleyfield, QC",
+    "descFr": "Services communautaires, popote roulante, transport et soutien aux aînés à Salaberry-de-Valleyfield et dans le Suroît.",
+    "descEn": "Community services, meals-on-wheels, transportation, and senior support in Salaberry-de-Valleyfield and Suroît.",
+    "tags": [
+      "valleyfield",
+      "aines",
+      "popote roulante",
+      "transport",
+      "benevole",
+      "suroit",
+      "monteregie"
+    ]
+  },
+  {
+    "id": "QC-64",
+    "nameFr": "CENTRE D’ACTION BÉNÉVOLE DU HAUT-SAINT-LAURENT / SUROÎT",
+    "nameEn": "HAUT-SAINT-LAURENT VOLUNTEER ACTION CENTER",
+    "categoryIds": [
+      "SENIORS",
+      "FOOD"
+    ],
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": null,
+    "website": null,
+    "address": "Huntingdon, QC",
+    "descFr": "Soutien communautaire et bénévolat dans le Haut-Saint-Laurent en Montérégie.",
+    "descEn": "Community support and volunteer services in Haut-Saint-Laurent, Montérégie.",
+    "tags": [
+      "benevole",
+      "haut-saint-laurent",
+      "monteregie",
+      "aines",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-65",
+    "nameFr": "CENTRE D’AIDE AUX ÉTUDIANTS DE L’UNIVERSITÉ LAVAL (QUÉBEC)",
+    "nameEn": "UNIVERSITÉ LAVAL STUDENT COUNSELING CENTER (QUEBEC CITY)",
+    "categoryIds": [
+      "STUDENT",
+      "HEALTH"
+    ],
+    "region": "03 - CAPITALE-NATIONALE",
+    "phone": "418-656-7987",
+    "website": "https://www.aide.ulaval.ca",
+    "address": "2305, rue de l’Université, Québec, QC",
+    "descFr": "Consultation psychologique, soutien à la réussite et services adaptés pour les étudiants de l’Université Laval à Québec.",
+    "descEn": "Psychological counseling, academic success support, and adapted student services at Université Laval in Quebec City.",
+    "tags": [
+      "etudiant",
+      "universite laval",
+      "quebec",
+      "sante mentale",
+      "reussite"
+    ]
+  },
+  {
+    "id": "QC-66",
+    "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE CHIBOUGAMAU",
+    "nameEn": "CHIBOUGAMAU NATIVE FRIENDSHIP CENTRE",
+    "categoryIds": [
+      "INDIGENOUS",
+      "FOOD",
+      "HOUSING",
+      "HEALTH"
+    ],
+    "region": "10 - NORD-DU-QUÉBEC",
+    "phone": null,
+    "website": null,
+    "address": "Chibougamau, QC",
+    "descFr": "Services culturels, sociaux et d’entraide pour les Premières Nations et membres de la communauté à Chibougamau.",
+    "descEn": "Cultural, social, and mutual-aid services for First Nations and community members in Chibougamau.",
+    "tags": [
+      "autochtone",
+      "chibougamau",
+      "nord-du-quebec",
+      "centre amitie",
+      "premieres nations"
+    ]
+  },
+  {
+    "id": "QC-67",
+    "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE GASPÉ (GESPEG)",
+    "nameEn": "GASPÉ NATIVE FRIENDSHIP CENTRE (GESPEG)",
+    "categoryIds": [
+      "INDIGENOUS",
+      "HEALTH"
+    ],
+    "region": "11 - GASPÉSIE–ÎLES-DE-LA-MADELEINE",
+    "phone": "418-368-6005",
+    "website": null,
+    "address": "Gaspé, QC",
+    "descFr": "Services communautaires, santé et soutien culturel destinés aux Premières Nations à Gaspé et en Gaspésie.",
+    "descEn": "Community services, health, and cultural support for First Nations in Gaspé and Gaspésie.",
+    "tags": [
+      "autochtone",
+      "gaspe",
+      "gaspesie",
+      "centre amitie",
+      "premieres nations"
+    ]
+  },
+  {
+    "id": "QC-68",
+    "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE JOLIETTE",
+    "nameEn": "JOLIETTE NATIVE FRIENDSHIP CENTRE",
+    "categoryIds": [
+      "INDIGENOUS",
+      "HEALTH",
+      "FOOD"
+    ],
+    "region": "14 - LANAUDIÈRE",
+    "phone": "450-760-3865",
+    "website": "https://www.caajoliette.org",
+    "address": "Joliette, QC",
+    "descFr": "Carrefour de services gratuits pour les Premières Nations à Joliette et dans Lanaudière : santé, alimentation et soutien social.",
+    "descEn": "Hub of free services for First Nations in Joliette and Lanaudière offering health, food aid, and social support.",
+    "tags": [
+      "autochtone",
+      "joliette",
+      "lanaudiere",
+      "centre amitie",
+      "premieres nations"
+    ]
+  },
+  {
+    "id": "QC-69",
+    "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE LA TUQUE",
+    "nameEn": "LA TUQUE NATIVE FRIENDSHIP CENTRE",
+    "categoryIds": [
+      "INDIGENOUS",
+      "HOUSING",
+      "FOOD",
+      "HEALTH"
+    ],
+    "region": "04 - MAURICIE ET CENTRE-DU-QUÉBEC",
+    "phone": "819-523-6121",
+    "website": null,
+    "address": "La Tuque, QC",
+    "descFr": "Services d’accueil, d’entraide et de soutien social pour les Premières Nations à La Tuque.",
+    "descEn": "Welcoming, mutual-aid, and social support services for First Nations in La Tuque.",
+    "tags": [
+      "autochtone",
+      "la tuque",
+      "mauricie",
+      "centre amitie",
+      "premieres nations"
+    ]
+  },
+  {
+    "id": "QC-70",
+    "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE MONTRÉAL (CAAM)",
+    "nameEn": "NATIVE FRIENDSHIP CENTRE OF MONTREAL (NFCM)",
+    "categoryIds": [
+      "INDIGENOUS",
+      "FOOD",
+      "HOUSING",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-499-1854",
+    "website": "https://www.nfcm.org/fr/",
+    "address": "2001, boulevard Saint-Laurent, Montréal, QC",
+    "descFr": "Centre de jour et carrefour de services sociaux, culturels et communautaires pour les personnes autochtones à Montréal.",
+    "descEn": "Day center and hub for social, cultural, and community services for Indigenous people in Montreal.",
+    "tags": [
+      "autochtone",
+      "montreal",
+      "caam",
+      "nfcm",
+      "centre amitie",
+      "premieres nations"
+    ]
+  },
+  {
+    "id": "QC-71",
+    "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE SEPT-ÎLES",
+    "nameEn": "SEPT-ÎLES NATIVE FRIENDSHIP CENTRE",
+    "categoryIds": [
+      "INDIGENOUS",
+      "HEALTH",
+      "FOOD"
+    ],
+    "region": "09 - CÔTE-NORD",
+    "phone": null,
+    "website": null,
+    "address": "Sept-Îles, QC",
+    "descFr": "Services communautaires, santé et soutien social pour les Premières Nations à Sept-Îles et sur la Côte-Nord.",
+    "descEn": "Community services, health, and social support for First Nations in Sept-Îles and the North Shore.",
+    "tags": [
+      "autochtone",
+      "sept-iles",
+      "cote-nord",
+      "centre amitie",
+      "premieres nations"
+    ]
+  },
+  {
+    "id": "QC-72",
+    "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DE VAL-D’OR",
+    "nameEn": "VAL-D’OR NATIVE FRIENDSHIP CENTRE",
+    "categoryIds": [
+      "INDIGENOUS",
+      "HEALTH",
+      "HOUSING",
+      "YOUTH"
+    ],
+    "region": "08 - ABITIBI-TÉMISCAMINGUE",
+    "phone": "819-825-6857",
+    "website": null,
+    "address": "Val-d’Or, QC",
+    "descFr": "Services d’entraide, de soutien social et d’accompagnement pour les Premières Nations à Val-d’Or et en Abitibi-Témiscamingue.",
+    "descEn": "Mutual-aid, social support, and accompaniment services for First Nations in Val-d’Or and Abitibi-Témiscamingue.",
+    "tags": [
+      "autochtone",
+      "val-dor",
+      "abitibi",
+      "centre amitie",
+      "premieres nations"
+    ]
+  },
+  {
+    "id": "QC-73",
+    "nameFr": "CENTRE D’AMITIÉ AUTOCHTONE DU SAGUENAY (CHICOUTIMI)",
+    "nameEn": "SAGUENAY NATIVE FRIENDSHIP CENTRE",
+    "categoryIds": [
+      "INDIGENOUS",
+      "FOOD",
+      "HOUSING",
+      "HEALTH"
+    ],
+    "region": "02 - SAGUENAY–LAC-SAINT-JEAN",
+    "phone": "418-543-4444",
+    "website": "https://www.caasaguenay.ca",
+    "address": "512, rue Jacques-Cartier Est, Saguenay, QC",
+    "descFr": "Carrefour de services gratuits pour les Premières Nations et Inuit au Saguenay : sécurité alimentaire, santé, logement et soutien social.",
+    "descEn": "Hub of free services for First Nations and Inuit in Saguenay offering food security, health, housing, and social support.",
+    "tags": [
+      "autochtone",
+      "saguenay",
+      "chicoutimi",
+      "centre amitie",
+      "premieres nations"
+    ]
+  },
+  {
+    "id": "QC-74",
+    "nameFr": "CENTRE D’ÉDUCATION ET D’ACTION DES FEMMES DE MONTRÉAL (CÉAF)",
+    "nameEn": "MONTREAL WOMEN’S EDUCATION AND ACTION CENTER (CÉAF)",
+    "categoryIds": [
+      "LEGAL",
+      "EMPLOYMENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Groupe d’action et d’éducation populaire pour les femmes à Montréal sur les droits, l’autonomie et les conditions de vie.",
+    "descEn": "Popular education and action group for women in Montreal focusing on rights, autonomy, and living conditions.",
+    "tags": [
+      "femmes",
+      "ceaf",
+      "droits",
+      "education populaire",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-75",
+    "nameFr": "CENTRE D’ENTRAIDE ET DE RALLIEMENT FAMILIAL (C.E.R.F.)",
+    "nameEn": "FAMILY MUTUAL AID AND GATHERING CENTER (C.E.R.F.)",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Ressource communautaire locale à Montréal offrant entraide et soutien aux familles.",
+    "descEn": "Local community resource in Montreal offering mutual aid and family support.",
+    "tags": [
+      "entraide",
+      "famille",
+      "cerf",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-76",
+    "nameFr": "CENTRE RÉCRÉATIF POUPART",
+    "nameEn": "POUPART RECREATION CENTER",
+    "categoryIds": [
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Centre d’activités communautaires et récréatives de quartier à Montréal.",
+    "descEn": "Neighborhood community and recreation activity center in Montreal.",
+    "tags": [
+      "poupart",
+      "loisirs",
+      "jeunesse",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-77",
+    "nameFr": "CENTRE SAINT-PIERRE",
+    "nameEn": "CENTRE SAINT-PIERRE",
+    "categoryIds": [
+      "EMPLOYMENT",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Centre d’éducation populaire et de formation communautaire à Montréal.",
+    "descEn": "Popular education and community training center in Montreal.",
+    "tags": [
+      "centre saint-pierre",
+      "formation",
+      "education populaire",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-78",
+    "nameFr": "CENTRES DE JUSTICE DE PROXIMITÉ DU QUÉBEC (CJP)",
+    "nameEn": "COMMUNITY JUSTICE CENTRES OF QUEBEC (CJP)",
+    "categoryIds": [
+      "LEGAL"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": null,
+    "website": "https://www.justicedeproximite.qc.ca",
+    "address": "Partout au Québec",
+    "descFr": "Services gratuits d’information juridique et d’orientation pour aider les citoyens à prévenir ou régler un différend au Québec.",
+    "descEn": "Free legal information and referral services helping citizens prevent or resolve disputes across Quebec.",
+    "tags": [
+      "justice de proximite",
+      "cjp",
+      "juridique",
+      "droits",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-79",
+    "nameFr": "CHEZ ÉMILIE (MAISON D’ENTRAIDE)",
+    "nameEn": "CHEZ ÉMILIE (MUTUAL AID HOUSE)",
+    "categoryIds": [
+      "HEALTH",
+      "FOOD"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Ressource communautaire d’entraide et d’accueil à Montréal.",
+    "descEn": "Community mutual-aid and drop-in resource in Montreal.",
+    "tags": [
+      "chez emilie",
+      "entraide",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-80",
+    "nameFr": "CHŒUR POPULAIRE DE MONTRÉAL",
+    "nameEn": "CHŒUR POPULAIRE DE MONTRÉAL",
+    "categoryIds": [
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative culturelle et communautaire à Montréal.",
+    "descEn": "Cultural and community initiative in Montreal.",
+    "tags": [
+      "culture",
+      "communautaire",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-81",
+    "nameFr": "CITIM",
+    "nameEn": "CITIM",
+    "categoryIds": [
+      "EMPLOYMENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Organisme communautaire à Montréal soutenant l’intégration et l’employabilité.",
+    "descEn": "Community organization in Montreal supporting integration and employability.",
+    "tags": [
+      "citim",
+      "emploi",
+      "integration",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-82",
+    "nameFr": "CIUSSS CENTRE-SUD-DE-L’ÎLE-DE-MONTRÉAL",
+    "nameEn": "CIUSSS CENTRE-SUD-DE-L’ÎLE-DE-MONTRÉAL",
+    "categoryIds": [
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Établissement public du réseau de la santé et des services sociaux desservant le Centre-Sud de l’Île-de-Montréal.",
+    "descEn": "Public health and social services institution serving Montreal’s Centre-Sud area.",
+    "tags": [
+      "ciusss",
+      "sante",
+      "services sociaux",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-83",
+    "nameFr": "CLINIQUE D’INFORMATION JURIDIQUE À MCGILL",
+    "nameEn": "LEGAL INFORMATION CLINIC AT MCGILL",
+    "categoryIds": [
+      "LEGAL",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-398-6792",
+    "website": "https://licm.ca",
+    "address": "Montréal, QC",
+    "descFr": "Clinique d’information juridique offrant des renseignements bilingues (FR/EN) à Montréal.",
+    "descEn": "Legal information clinic providing bilingual (FR/EN) legal information in Montreal.",
+    "tags": [
+      "clinique juridique",
+      "mcgill",
+      "juridique",
+      "droits",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-84",
+    "nameFr": "CLINIQUE JURIDIQUE DE L’UNIVERSITÉ DE MONTRÉAL",
+    "nameEn": "UNIVERSITÉ DE MONTRÉAL LEGAL CLINIC",
+    "categoryIds": [
+      "LEGAL",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-343-7851",
+    "website": "https://cliniquejuridique.umontreal.ca",
+    "address": "3101, chemin de la Tour, Montréal, QC",
+    "descFr": "Information juridique gratuite en droit du logement, petites créances, droit du travail et consommation à Montréal.",
+    "descEn": "Free legal information on housing law, small claims, labor law, and consumer issues in Montreal.",
+    "tags": [
+      "clinique juridique",
+      "universite de montreal",
+      "logement",
+      "juridique",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-85",
+    "nameFr": "CLINIQUE JURIDIQUE JURIPOP",
+    "nameEn": "JURIPOP LEGAL CLINIC",
+    "categoryIds": [
+      "LEGAL"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": null,
+    "website": null,
+    "address": "Partout au Québec",
+    "descFr": "Clinique juridique offrant de l’information et des services juridiques accessibles au Québec.",
+    "descEn": "Legal clinic providing accessible legal information and services in Quebec.",
+    "tags": [
+      "juripop",
+      "juridique",
+      "avocat",
+      "droits",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-86",
+    "nameFr": "CLUB DES PETITS DÉJEUNERS DU QUÉBEC",
+    "nameEn": "BREAKFAST CLUB OF CANADA (QUEBEC)",
+    "categoryIds": [
+      "FOOD",
+      "YOUTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": null,
+    "website": null,
+    "address": "Partout au Québec",
+    "descFr": "Soutien à l’alimentation matinale des enfants et jeunes dans les milieux scolaires et communautaires au Québec.",
+    "descEn": "Support for morning nutrition for children and youth in school and community settings across Quebec.",
+    "tags": [
+      "petits dejeuners",
+      "alimentation",
+      "jeunesse",
+      "ecole",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-87",
+    "nameFr": "COALITION DES ASSOCIATIONS DES LIMITROPHES DE MONTRÉAL",
+    "nameEn": "COALITION OF MONTREAL BORDER ASSOCIATIONS",
+    "categoryIds": [
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Coalition citoyenne et communautaire active dans la région de Montréal.",
+    "descEn": "Citizen and community coalition active in the Montreal area.",
+    "tags": [
+      "coalition",
+      "montreal",
+      "communautaire",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-88",
+    "nameFr": "COALITION DES FAMILLES LGBT+",
+    "nameEn": "COALITION DES FAMILLES LGBT+",
+    "categoryIds": [
+      "LGBTQ",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-878-7600",
+    "website": "https://familleslgbt.org",
+    "address": "2242, rue Fullum, bureau R5, Montréal, QC",
+    "descFr": "Organisme communautaire de défense des droits et de soutien pour les parents, futurs parents et familles issues de la diversité sexuelle et de la pluralité des genres.",
+    "descEn": "Community rights advocacy and support organization for parents, prospective parents, and families from diverse sexual orientations and gender identities.",
+    "tags": [
+      "familles",
+      "lgbt",
+      "parents",
+      "droits",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-89",
+    "nameFr": "COMITÉ D’ACTION DES PERSONNES SANS-EMPLOI (CAPSE)",
+    "nameEn": "UNEMPLOYED WORKERS ACTION COMMITTEE (CAPSE)",
+    "categoryIds": [
+      "EMPLOYMENT",
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Défense des droits et accompagnement des personnes sans emploi à Montréal.",
+    "descEn": "Rights advocacy and support for unemployed individuals in Montreal.",
+    "tags": [
+      "emploi",
+      "chomage",
+      "droits",
+      "capse",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-90",
+    "nameFr": "COMITÉ LOGEMENT VILLE-MARIE",
+    "nameEn": "VILLE-MARIE HOUSING COMMITTEE",
+    "categoryIds": [
+      "HOUSING",
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Défense des droits des locataires et information sur le logement dans l’arrondissement de Ville-Marie à Montréal.",
+    "descEn": "Tenant rights advocacy and housing information in Montreal’s Ville-Marie borough.",
+    "tags": [
+      "logement",
+      "locataire",
+      "ville-marie",
+      "droits",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-91",
+    "nameFr": "COMITÉ SOCIAL CENTRE-SUD",
+    "nameEn": "CENTRE-SUD SOCIAL COMMITTEE",
+    "categoryIds": [
+      "HEALTH",
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Comité communautaire actif dans le quartier Centre-Sud à Montréal.",
+    "descEn": "Community committee active in Montreal’s Centre-Sud neighborhood.",
+    "tags": [
+      "centre-sud",
+      "social",
+      "communautaire",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-92",
+    "nameFr": "COMMISSION DES DROITS DE LA PERSONNE ET DE LA JEUNESSE (CDPDJ)",
+    "nameEn": "QUEBEC HUMAN RIGHTS & YOUTH RIGHTS COMMISSION (CDPDJ)",
+    "categoryIds": [
+      "LEGAL",
+      "YOUTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-361-6477",
+    "website": "https://www.cdpdj.qc.ca",
+    "address": "Partout au Québec",
+    "descFr": "Enquête et recours gratuits en cas de discrimination (logement, emploi, services), harcèlement discriminatoire ou atteinte aux droits des jeunes et aînés.",
+    "descEn": "Free investigation and recourse for discrimination (housing, employment, services), discriminatory harassment, or violations of youth and senior rights.",
+    "tags": [
+      "droits",
+      "discrimination",
+      "harcelement",
+      "cdpdj",
+      "jeunesse",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-93",
+    "nameFr": "COMMISSION DES NORMES, DE L’ÉQUITÉ, DE LA SANTÉ ET DE LA SÉCURITÉ DU TRAVAIL (CNESST)",
+    "nameEn": "CNESST — QUEBEC LABOR STANDARDS, PAY EQUITY & WORKPLACE SAFETY",
+    "categoryIds": [
+      "EMPLOYMENT",
+      "LEGAL",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": null,
+    "website": "https://www.cnesst.gouv.qc.ca",
+    "address": "Partout au Québec",
+    "descFr": "Organisme gouvernemental québécois encadrant les normes du travail, l’équité salariale ainsi que la santé et la sécurité au travail.",
+    "descEn": "Quebec government body overseeing labor standards, pay equity, and occupational health and safety.",
+    "tags": [
+      "cnesst",
+      "travail",
+      "normes du travail",
+      "securite",
+      "emploi",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-94",
+    "nameFr": "CONSEILLERS EN DÉVELOPPEMENT DE LA MAIN-D’ŒUVRE — CODEM",
+    "nameEn": "WORKFORCE DEVELOPMENT COUNSELORS — CODEM",
+    "categoryIds": [
+      "EMPLOYMENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Services d’orientation professionnelle et d’employabilité à Montréal.",
+    "descEn": "Career guidance and employability services in Montreal.",
+    "tags": [
+      "emploi",
+      "codem",
+      "orientation",
+      "travail",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-95",
+    "nameFr": "COOP LES VALORISTES",
+    "nameEn": "COOP LES VALORISTES",
+    "categoryIds": [
+      "EMPLOYMENT",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Coopérative communautaire à Montréal soutenant des valoristes et l’insertion économique.",
+    "descEn": "Community cooperative in Montreal supporting can/bottle collectors and economic inclusion.",
+    "tags": [
+      "valoristes",
+      "coop",
+      "montreal",
+      "insertion",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-96",
+    "nameFr": "CORPORATION DU CENTRE JEAN-CLAUDE MALÉPART",
+    "nameEn": "CORPORATION DU CENTRE JEAN-CLAUDE MALÉPART",
+    "categoryIds": [
+      "YOUTH",
+      "SENIORS"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Centre communautaire de quartier à Montréal proposant des activités et services locaux.",
+    "descEn": "Neighborhood community center in Montreal offering local activities and services.",
+    "tags": [
+      "jean-claude malepart",
+      "centre communautaire",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-97",
+    "nameFr": "COURTIERS / AIDE AU LOGEMENT COMMUNAUTAIRE",
+    "nameEn": "COMMUNITY HOUSING SUPPORT",
+    "categoryIds": [
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Soutien et information liés au logement à Montréal.",
+    "descEn": "Housing support and information in Montreal.",
+    "tags": [
+      "logement",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-98",
+    "nameFr": "CRIC — CENTRE DE RESSOURCES ET D’INTERVENTION COMMUNAUTAIRE",
+    "nameEn": "CRIC — COMMUNITY RESOURCE & INTERVENTION CENTER",
+    "categoryIds": [
+      "HEALTH",
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Centre communautaire de ressources et d’intervention à Montréal.",
+    "descEn": "Community resource and intervention center in Montreal.",
+    "tags": [
+      "cric",
+      "communautaire",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-99",
+    "nameFr": "CURATEUR PUBLIC DU QUÉBEC (PROTECTION DES PERSONNES INAPTES)",
+    "nameEn": "PUBLIC CURATOR OF QUEBEC (PROTECTION OF INCAPACITATED PERSONS)",
+    "categoryIds": [
+      "LEGAL",
+      "SENIORS"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": null,
+    "website": "https://www.curateur.gouv.qc.ca",
+    "address": "Partout au Québec",
+    "descFr": "Organisme public québécois chargé de la protection des personnes inaptes, des tutelles et des régimes de protection au Québec.",
+    "descEn": "Quebec public body responsible for protecting incapacitated persons, tutorships, and protective regimes in Quebec.",
+    "tags": [
+      "curateur public",
+      "tutelle",
+      "protection",
+      "aines",
+      "juridique",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-100",
+    "nameFr": "DANS LA RUE (LE BON DIEU DANS LA RUE)",
+    "nameEn": "DANS LA RUE — HOMELESS YOUTH SUPPORT",
+    "categoryIds": [
+      "YOUTH",
+      "HOUSING",
+      "FOOD",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-526-5222",
+    "website": "https://danslarue.org",
+    "address": "533, rue Ontario Est, Montréal, QC",
+    "descFr": "Soutien d’urgence, hébergement, alimentation et accompagnement pour les jeunes en situation de vulnérabilité ou d’itinérance à Montréal.",
+    "descEn": "Emergency support, shelter, food, and accompaniment for vulnerable or unhoused youth in Montreal.",
+    "tags": [
+      "dans la rue",
+      "jeunesse",
+      "itinerance",
+      "refuge",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-103",
+    "nameFr": "DROGUE : AIDE ET RÉFÉRENCE (DAR)",
+    "nameEn": "DRUGS: HELP AND REFERRAL",
+    "categoryIds": [
+      "ADDICTION",
+      "CRISIS"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-265-2626",
+    "website": "https://www.aidedrogue.ca",
+    "address": "Partout au Québec",
+    "descFr": "Soutien, information et orientation vers les centres de réadaptation en dépendance (alcool, drogues, médicaments) partout au Québec.",
+    "descEn": "Support, information, and referral to addiction rehabilitation centers (alcohol, drugs, medication) across Quebec.",
+    "tags": [
+      "drogue",
+      "alcool",
+      "dependance",
+      "desintox",
+      "consommation",
+      "addiction",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-104",
+    "nameFr": "Écomusée du fier monde",
+    "nameEn": "Écomusée du fier monde",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-528-8444",
+    "website": null,
+    "address": "2050, rue Atateken, Montréal, QC H2L 3L8",
+    "descFr": "Musée d’histoire citoyenne et sociale situé dans le quartier Centre-Sud à Montréal.",
+    "descEn": "Civic and social history museum located in Montreal’s Centre-Sud neighborhood.",
+    "tags": [
+      "ecomusee",
+      "fier monde",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-105",
+    "nameFr": "ÉDUCALOI — INFORMATION JURIDIQUE CITOYENNE",
+    "nameEn": "ÉDUCALOI — PLAIN-LANGUAGE LEGAL INFORMATION",
+    "categoryIds": [
+      "LEGAL"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "514-954-3408",
+    "website": "https://educaloi.qc.ca",
+    "address": "Partout au Québec",
+    "descFr": "Organisme sans but lucratif expliquant clairement les lois du Québec (séparation, garde d’enfants, logement, travail, succession, consommation).",
+    "descEn": "Non-profit explaining Quebec laws in plain language (separation, child custody, housing, employment, wills, and consumer rights).",
+    "tags": [
+      "loi",
+      "droit",
+      "juridique",
+      "separation",
+      "educaloi",
+      "garde",
+      "consommation",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-106",
+    "nameFr": "EN MARGE 12-17 — HÉBERGEMENT & TRAVAIL DE RUE JEUNESSE",
+    "nameEn": "EN MARGE 12-17 — YOUTH SHELTER & STREET OUTREACH",
+    "categoryIds": [
+      "YOUTH",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-849-7117",
+    "website": "https://www.enmarge1217.ca",
+    "address": "1151, rue Alexandre-DeSève, Montréal, QC H2L 2T7",
+    "descFr": "Organisme communautaire à Montréal offrant hébergement, soutien et travail de rue auprès des jeunes et des familles.",
+    "descEn": "Community organization in Montreal offering shelter, support, and street outreach for youth and families.",
+    "tags": [
+      "ado",
+      "fugue",
+      "jeunes",
+      "hebergement",
+      "montreal",
+      "en marge",
+      "travail de rue"
+    ]
+  },
+  {
+    "id": "QC-107",
+    "nameFr": "Ensemble pour le respect de la diversité",
+    "nameEn": "Ensemble pour le respect de la diversité",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-842-4848",
+    "website": "https://ensemble-rd.com",
+    "address": "2120, rue Sherbrooke Est, bureau 402, Montréal, QC H2K 1C3",
+    "descFr": "Organisme à but non lucratif promouvant le respect de la diversité, l’inclusion et la prévention de l’intimidation et des discriminations.",
+    "descEn": "Non-profit organization promoting diversity, inclusion, and the prevention of bullying and discrimination.",
+    "tags": [
+      "diversite",
+      "inclusion",
+      "jeunesse",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-109",
+    "nameFr": "Espace Libre",
+    "nameEn": "Espace Libre",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": "https://espacelibre.qc.ca",
+    "address": "1945, rue Fullum, Montréal, QC H2K 3N3",
+    "descFr": "Lieu culturel et théâtral à Montréal accueillant des créations artistiques et des initiatives culturelles.",
+    "descEn": "Cultural and theater venue in Montreal hosting artistic creations and cultural initiatives.",
+    "tags": [
+      "espace libre",
+      "theatre",
+      "culture",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-111",
+    "nameFr": "FÉDÉRATION ÉTUDIANTE COLLÉGIALE DU QUÉBEC (FECQ)",
+    "nameEn": "QUEBEC FEDERATION OF COLLEGE STUDENTS (FECQ)",
+    "categoryIds": [
+      "STUDENT",
+      "LEGAL"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "514-396-3320",
+    "website": "https://www.fecq.org",
+    "address": "2003, rue Saint-Hubert, Montréal, QC H2L 3Z6",
+    "descFr": "Fédération représentant les étudiants des cégeps partout au Québec : information sur les droits étudiants, logement, transport et réussite scolaire.",
+    "descEn": "Federation representing CEGEP students across Quebec providing guidance on student rights, housing, transit, and academic success.",
+    "tags": [
+      "etudiant",
+      "cegep",
+      "fecq",
+      "droits",
+      "collegial",
+      "jeunes",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-112",
+    "nameFr": "FÉDÉRATION QUÉBÉCOISE DE L’AUTISME (FQA)",
+    "nameEn": "QUEBEC FEDERATION OF AUTISM (FQA)",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH",
+      "LEGAL"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-888-830-2833",
+    "website": "https://www.autisme.qc.ca",
+    "address": "3958, rue Dandurand, bureau 33, Montréal, QC H1X 1P7",
+    "descFr": "Orientation vers les associations régionales en autisme, information et défense des droits des personnes autistes et de leurs proches au Québec.",
+    "descEn": "Referrals to regional autism associations, information, and advocacy for autistic individuals and their families in Quebec.",
+    "tags": [
+      "autisme",
+      "fqa",
+      "droits",
+      "famille",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-114",
+    "nameFr": "FEMMES AUTOCHTONES DU QUÉBEC (FAQ)",
+    "nameEn": "QUEBEC NATIVE WOMEN (QNW)",
+    "categoryIds": [
+      "INDIGENOUS",
+      "VIOLENCE",
+      "LEGAL"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-363-0322",
+    "website": "https://faq-qnw.org",
+    "address": "Partout au Québec",
+    "descFr": "Soutien, défense des droits, prévention de la violence et accompagnement juridique et social pour les femmes autochtones et leurs familles partout au Québec.",
+    "descEn": "Support, rights advocacy, violence prevention, and legal and social accompaniment for Indigenous women and their families across Quebec.",
+    "tags": [
+      "autochtone",
+      "femmes",
+      "droits",
+      "violence",
+      "faq",
+      "premieres nations"
+    ]
+  },
+  {
+    "id": "QC-118",
+    "nameFr": "Front commun québécois pour une gestion écologique des déchets",
+    "nameEn": "Front commun québécois pour une gestion écologique des déchets",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-396-2686",
+    "website": "https://fcqged.org",
+    "address": "1431, rue Fullum, bureau 107, Montréal, QC H2K 0B5",
+    "descFr": "Regroupement citoyen et environnemental québécois dédié à la réduction et à la gestion écologique des matières résiduelles.",
+    "descEn": "Quebec citizen and environmental coalition dedicated to waste reduction and ecological residual materials management.",
+    "tags": [
+      "environnement",
+      "dechets",
+      "ecologie",
+      "fcqged",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-119",
+    "nameFr": "GEIPSI",
+    "nameEn": "GEIPSI",
+    "categoryIds": [
+      "HEALTH",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-523-0979",
+    "website": "https://www.geipsi.ca",
+    "address": "1223, rue Ontario Est, Montréal, QC H2L 1R5",
+    "descFr": "Centre de jour, accompagnement et soutien communautaire à Montréal auprès des adultes vivant avec le VIH ou l’hépatite C ou en situation de précarité.",
+    "descEn": "Day center, accompaniment, and community support in Montreal for adults living with HIV or hepatitis C or experiencing housing precarity.",
+    "tags": [
+      "geipsi",
+      "vih",
+      "hepatite c",
+      "logement",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-120",
+    "nameFr": "Go Jeunesse",
+    "nameEn": "Go Jeunesse",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative ou ressource jeunesse à Montréal.",
+    "descEn": "Youth initiative or resource in Montreal.",
+    "tags": [
+      "jeunesse",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-121",
+    "nameFr": "Groupe Information Travail (G.I.T.)",
+    "nameEn": "Groupe Information Travail (G.I.T.)",
+    "categoryIds": [
+      "EMPLOYMENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": "https://www.groupeinfotravail.ca",
+    "address": "Montréal, QC",
+    "descFr": "Organisme d’économie sociale à Montréal accompagnant des personnes en situation d’exclusion sociale vers l’insertion socioprofessionnelle et l’emploi.",
+    "descEn": "Social economy organization in Montreal supporting individuals facing social exclusion toward social and employment integration.",
+    "tags": [
+      "emploi",
+      "insertion",
+      "git",
+      "travail",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-125",
+    "nameFr": "ICRC Clinique de Finance Sociale",
+    "nameEn": "ICRC Clinique de Finance Sociale",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Ressource liée à la finance sociale et à l’accompagnement communautaire à Montréal.",
+    "descEn": "Social finance and community support resource in Montreal.",
+    "tags": [
+      "icrc",
+      "clinique",
+      "finance",
+      "sociale",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-126",
+    "nameFr": "Inclusion sport",
+    "nameEn": "Inclusion sport",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative favorisant l’inclusion par le sport et l’activité physique à Montréal.",
+    "descEn": "Initiative promoting inclusion through sports and physical activity in Montreal.",
+    "tags": [
+      "inclusion",
+      "sport",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-127",
+    "nameFr": "INFO-AIDANT (L’APPUI PROCHES AIDANTS)",
+    "nameEn": "INFO-AIDANT (CAREGIVER SUPPORT)",
+    "categoryIds": [
+      "SENIORS",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-855-852-7784",
+    "website": "https://www.lappui.org",
+    "address": "Partout au Québec",
+    "descFr": "Écoute professionnelle, information et orientation vers des ressources de répit pour les personnes qui soutiennent un proche en perte d’autonomie.",
+    "descEn": "Professional listening, information, and referrals to respite resources for caregivers supporting a loved one with loss of autonomy.",
+    "tags": [
+      "proche aidant",
+      "alzheimer",
+      "repit",
+      "epuisement",
+      "aines",
+      "caregiver",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-128",
+    "nameFr": "INFO-AIDE VIOLENCE SEXUELLE (CALACS)",
+    "nameEn": "SEXUAL VIOLENCE HELPLINE (CALACS)",
+    "categoryIds": [
+      "VIOLENCE",
+      "CRISIS"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-888-933-9007",
+    "website": "https://infoaideviolencesexuelle.ca",
+    "address": "Partout au Québec",
+    "descFr": "Écoute, soutien et orientation vers les CALACS et les ressources d’aide pour toute personne touchée par la violence sexuelle au Québec.",
+    "descEn": "Listening, support, and referral to CALACS centers and support resources for anyone affected by sexual violence in Quebec.",
+    "tags": [
+      "agression",
+      "calacs",
+      "violence sexuelle",
+      "consentement",
+      "sexual assault",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-129",
+    "nameFr": "INFO-SANTÉ 811 (OPTION 1 — SOINS INFIRMIERS)",
+    "nameEn": "INFO-SANTÉ 811 (OPTION 1 — NURSING CONSULTATION)",
+    "categoryIds": [
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "811",
+    "website": "https://www.quebec.ca/sante/trouver-une-ressource/info-sante-811",
+    "address": "Partout au Québec",
+    "descFr": "Service téléphonique d’information et de conseil santé avec des infirmières au Québec.",
+    "descEn": "Telephone health information and nursing advice service in Quebec.",
+    "tags": [
+      "811",
+      "info-sante",
+      "infirmiere",
+      "sante",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-130",
+    "nameFr": "INFO-SOCIAL 811 (OPTION 2 — INTERVENTION PSYCHOSOCIALE)",
+    "nameEn": "INFO-SOCIAL 811 (OPTION 2 — PSYCHOSOCIAL SUPPORT)",
+    "categoryIds": [
+      "HEALTH",
+      "CRISIS"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "811",
+    "website": "https://www.quebec.ca/sante/trouver-une-ressource/info-social-811",
+    "address": "Partout au Québec",
+    "descFr": "Consultation téléphonique confidentielle avec un professionnel en intervention psychosociale pour la santé mentale ou des difficultés psychosociales au Québec.",
+    "descEn": "Confidential telephone consultation with a psychosocial intervention professional for mental health or psychosocial challenges in Quebec.",
+    "tags": [
+      "811",
+      "info-social",
+      "psychosocial",
+      "anxiete",
+      "crise",
+      "clsc",
+      "deuil",
+      "sante mentale",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-131",
+    "nameFr": "Information alimentaire populaire Centre-Sud",
+    "nameEn": "Information alimentaire populaire Centre-Sud",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative ou information locale liée à l’alimentation populaire dans le quartier Centre-Sud à Montréal.",
+    "descEn": "Local initiative or information related to community food access in Montreal’s Centre-Sud neighborhood.",
+    "tags": [
+      "information",
+      "alimentaire",
+      "populaire",
+      "centre-sud",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-132",
+    "nameFr": "Institut National Canadien pour les Aveugles (INCA)",
+    "nameEn": "Institut National Canadien pour les Aveugles (INCA)",
+    "categoryIds": [
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "1-800-563-2642",
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Organisme offrant du soutien et des services aux personnes aveugles ou ayant une perte de vision.",
+    "descEn": "Organization providing support and services for people who are blind or experiencing vision loss.",
+    "tags": [
+      "vision",
+      "aveugle",
+      "inca",
+      "sante",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-134",
+    "nameFr": "INTERLIGNE (SOUTIEN LGBTQ+)",
+    "nameEn": "INTERLIGNE (LGBTQ+ SUPPORT)",
+    "categoryIds": [
+      "LGBTQ",
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-888-505-1010",
+    "website": "https://interligne.co",
+    "address": "Partout au Québec",
+    "descFr": "Centre de première ligne offrant écoute, information et intervention en matière de diversité sexuelle et de pluralité des genres.",
+    "descEn": "Frontline center offering listening, information, and intervention regarding sexual diversity and gender plurality.",
+    "tags": [
+      "lgbtq",
+      "interligne",
+      "diversite sexuelle",
+      "genre",
+      "ecoute",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-136",
+    "nameFr": "IVAC — INDEMNISATION DES VICTIMES D’ACTES CRIMINELS",
+    "nameEn": "IVAC — CRIME VICTIMS COMPENSATION PROGRAM",
+    "categoryIds": [
+      "LEGAL",
+      "VIOLENCE",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": null,
+    "website": null,
+    "address": "Partout au Québec",
+    "descFr": "Programme d’indemnisation et de soutien destiné aux victimes d’actes criminels au Québec.",
+    "descEn": "Compensation and support program for victims of criminal acts in Quebec.",
+    "tags": [
+      "ivac",
+      "victime",
+      "crime",
+      "indemnisation",
+      "juridique",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-137",
+    "nameFr": "JEU : AIDE ET RÉFÉRENCE",
+    "nameEn": "GAMBLING: HELP AND REFERRAL",
+    "categoryIds": [
+      "ADDICTION",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-461-0140",
+    "website": "https://aidejeu.ca",
+    "address": "Partout au Québec",
+    "descFr": "Aide confidentielle et gratuite pour les personnes aux prises avec une dépendance au jeu (casino, paris en ligne, loterie) et leur entourage.",
+    "descEn": "Free, confidential help for individuals struggling with gambling addiction (casino, online betting, lottery) and their loved ones.",
+    "tags": [
+      "jeu",
+      "dependance",
+      "aidejeu",
+      "paris",
+      "soutien",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-139",
+    "nameFr": "Jeunesse Lambda",
+    "nameEn": "Jeunesse Lambda",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Ressource ou initiative jeunesse à Montréal.",
+    "descEn": "Youth resource or initiative in Montreal.",
+    "tags": [
+      "jeunesse",
+      "lambda",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-140",
+    "nameFr": "JEUNESSE, J’ÉCOUTE (KIDS HELP PHONE)",
+    "nameEn": "KIDS HELP PHONE",
+    "categoryIds": [
+      "YOUTH",
+      "CRISIS",
+      "STUDENT"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-668-6868",
+    "website": "https://jeunessejecoute.ca",
+    "address": "Partout au Québec",
+    "descFr": "Service gratuit, anonyme et confidentiel d’intervention professionnelle par téléphone ou texto pour les enfants, adolescents et jeunes adultes.",
+    "descEn": "Free, anonymous, and confidential professional counseling by phone or text for children, teens, and young adults.",
+    "tags": [
+      "jeunesse",
+      "enfants",
+      "ados",
+      "686868",
+      "texto",
+      "ecoute",
+      "kids help phone",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-141",
+    "nameFr": "JEVI — CENTRE DE PRÉVENTION DU SUICIDE (ESTRIE)",
+    "nameEn": "JEVI — SUICIDE PREVENTION CENTER (ESTRIE)",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "05 - ESTRIE",
+    "phone": "819-564-1354",
+    "website": "https://jevi.qc.ca",
+    "address": "275, boulevard Jacques-Cartier Sud, Sherbrooke, QC J1J 2Z6",
+    "descFr": "Intervention, soutien aux proches et accompagnement en prévention du suicide à Sherbrooke et en Estrie.",
+    "descEn": "Intervention, support for loved ones, and suicide prevention services in Sherbrooke and Estrie.",
+    "tags": [
+      "suicide",
+      "estrie",
+      "sherbrooke",
+      "crise",
+      "jevi",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-143",
+    "nameFr": "La Chaufferie / Coop Lézarts",
+    "nameEn": "La Chaufferie / Coop Lézarts",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative ou espace local à Montréal.",
+    "descEn": "Local initiative or space in Montreal.",
+    "tags": [
+      "montreal",
+      "communautaire",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-152",
+    "nameFr": "LA SOURCE D’ENTRAIDE (SAINT-LAZARE / VAUDREUIL-SOULANGES)",
+    "nameEn": "LA SOURCE D’ENTRAIDE (SAINT-LAZARE / VAUDREUIL-SOULANGES)",
+    "categoryIds": [
+      "FOOD",
+      "HEALTH"
+    ],
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-455-8000",
+    "website": "https://www.sourcedentraide.org",
+    "address": "2252, chemin Sainte-Angélique, Saint-Lazare, QC J7T 2H5",
+    "descFr": "Organisme communautaire à Saint-Lazare offrant aide alimentaire, friperie, garde-manger communautaire et entraide locale.",
+    "descEn": "Community organization in Saint-Lazare offering food assistance, thrift shop, community pantry, and local mutual aid.",
+    "tags": [
+      "source d'entraide",
+      "saint-lazare",
+      "vaudreuil-soulanges",
+      "alimentation",
+      "entraide",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-166",
+    "nameFr": "LES IMPATIENTS — ART-THÉRAPIE ET SANTÉ MENTALE",
+    "nameEn": "LES IMPATIENTS — ART THERAPY & MENTAL HEALTH",
+    "categoryIds": [
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "514-842-1043",
+    "website": "https://impatients.ca",
+    "address": "5800, rue Saint-Denis, bureau 702, Montréal, QC H2S 3L5",
+    "descFr": "Ateliers gratuits de création artistique pour les personnes vivant avec des enjeux de santé mentale au Québec.",
+    "descEn": "Free art workshops for people living with mental health challenges across Quebec.",
+    "tags": [
+      "impatients",
+      "sante mentale",
+      "art",
+      "ateliers",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-168",
+    "nameFr": "LESPACEMAKER",
+    "nameEn": "LESPACEMAKER",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative ou ressource locale à Montréal.",
+    "descEn": "Local initiative or resource in Montreal.",
+    "tags": [
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-170",
+    "nameFr": "LIGNE D’ÉCOUTE D’ESPOIR POUR LE MIEUX-ÊTRE",
+    "nameEn": "HOPE FOR WELLNESS HELPLINE",
+    "categoryIds": [
+      "CRISIS",
+      "INDIGENOUS",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-855-242-3310",
+    "website": "https://www.espoirpourlemieuxetre.ca",
+    "address": "Partout au Québec",
+    "descFr": "Ligne d’écoute et de soutien en bien-être offerte aux Premières Nations, Inuits et Métis.",
+    "descEn": "Listening and wellness support helpline available to First Nations, Inuit, and Métis.",
+    "tags": [
+      "autochtone",
+      "premieres nations",
+      "inuit",
+      "metis",
+      "bien-etre",
+      "ecoute",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-172",
+    "nameFr": "LIGNE QUÉBÉCOISE DE PRÉVENTION DU SUICIDE (988)",
+    "nameEn": "QUEBEC SUICIDE PREVENTION LINE (988)",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-866-277-3553",
+    "website": "https://suicide.ca",
+    "address": "Partout au Québec",
+    "descFr": "Soutien et prévention du suicide par téléphone ou clavardage pour les personnes en détresse, leurs proches et les personnes endeuillées.",
+    "descEn": "Suicide prevention and support by phone or chat for people in distress, their loved ones, and those bereaved by suicide.",
+    "tags": [
+      "suicide",
+      "988",
+      "535353",
+      "detresse",
+      "urgence",
+      "crise",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-173",
+    "nameFr": "LIGNEPARENTS",
+    "nameEn": "LIGNEPARENTS",
+    "categoryIds": [
+      "YOUTH",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-361-5085",
+    "website": "https://www.ligneparents.com",
+    "address": "Partout au Québec",
+    "descFr": "Accompagnement professionnel gratuit pour les parents d’enfants de 0 à 20 ans confrontés à des défis éducatifs ou familiaux.",
+    "descEn": "Free professional support for parents of children aged 0 to 20 facing parenting or family challenges.",
+    "tags": [
+      "parents",
+      "famille",
+      "education",
+      "soutien",
+      "jeunes",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-182",
+    "nameFr": "L’ÉCLUSE DES LAURENTIDES — TRAVAIL DE RUE & HÉBERGEMENT",
+    "nameEn": "L’ÉCLUSE DES LAURENTIDES — STREET OUTREACH & SHELTER",
+    "categoryIds": [
+      "HOUSING",
+      "ADDICTION",
+      "HEALTH"
+    ],
+    "region": "15 - LAURENTIDES",
+    "phone": "450-229-2887",
+    "website": null,
+    "address": "1008, rue Valiquette, Sainte-Adèle, QC J8B 2M3",
+    "descFr": "Travail de rue, écoute, accompagnement et prévention auprès des personnes vivant de l’exclusion sociale, de la précarité ou des enjeux de consommation dans les Laurentides.",
+    "descEn": "Street outreach, listening, accompaniment, and prevention for people experiencing social exclusion, precarity, or substance challenges in the Laurentians.",
+    "tags": [
+      "laurentides",
+      "travail de rue",
+      "soutien",
+      "sante mentale",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-184",
+    "nameFr": "Ma Chambre",
+    "nameEn": "Ma Chambre",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative ou ressource locale à Montréal.",
+    "descEn": "Local initiative or resource in Montreal.",
+    "tags": [
+      "chambre",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-185",
+    "nameFr": "Maison de la culture Janine-Sutto",
+    "nameEn": "Maison de la culture Janine-Sutto",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-872-7882",
+    "website": "https://montreal.ca/lieux/maison-de-la-culture-janine-sutto",
+    "address": "2550, rue Ontario Est, Montréal, QC H2K 1W7",
+    "descFr": "Maison de culture municipale à Montréal offrant spectacles, expositions et activités de médiation culturelle.",
+    "descEn": "Municipal cultural house in Montreal offering performances, exhibitions, and cultural mediation activities.",
+    "tags": [
+      "maison de la culture",
+      "janine-sutto",
+      "culture",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-187",
+    "nameFr": "Maison des jeunes Quinka-Buzz",
+    "nameEn": "Maison des jeunes Quinka-Buzz",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-524-3008",
+    "website": "https://www.mdjquinkabuzz.com",
+    "address": "2102, rue Fullum, Montréal, QC H2K 3N7",
+    "descFr": "Maison des jeunes à Montréal offrant un milieu de vie, d’écoute et d’activités pour les adolescents.",
+    "descEn": "Youth center in Montreal offering a supportive drop-in space, listening, and activities for teenagers.",
+    "tags": [
+      "maison des jeunes",
+      "jeunes",
+      "quinka-buzz",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-188",
+    "nameFr": "MAISON DU PÈRE — REFUGE ET RÉINSERTION POUR HOMMES",
+    "nameEn": "MAISON DU PÈRE — MEN’S EMERGENCY SHELTER",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-845-0168",
+    "website": "https://www.maisondupere.org",
+    "address": "550, boulevard René-Lévesque Est, Montréal, QC H2L 2L3",
+    "descFr": "Hébergement d’urgence, repas, soins et réinsertion sociale pour hommes en situation d’itinérance à Montréal.",
+    "descEn": "Emergency shelter, meals, care, and social reintegration for unhoused men in Montreal.",
+    "tags": [
+      "maison du pere",
+      "refuge",
+      "itinerance",
+      "hommes",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-198",
+    "nameFr": "MIRE",
+    "nameEn": "MIRE",
+    "categoryIds": [
+      "EMPLOYMENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative ou organisme local à Montréal.",
+    "descEn": "Local initiative or organization in Montreal.",
+    "tags": [
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-209",
+    "nameFr": "MOUVEMENT SANTÉ MENTALE QUÉBEC",
+    "nameEn": "QUEBEC MENTAL HEALTH MOVEMENT",
+    "categoryIds": [
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "514-849-3291",
+    "website": "https://mouvementsmq.ca",
+    "address": "911, rue Jean-Talon Est, bureau 326, Montréal, QC H2R 1V5",
+    "descFr": "Regroupement provincial en promotion et prévention de la santé mentale offrant des outils et campagnes de sensibilisation.",
+    "descEn": "Provincial network for mental health promotion and prevention offering awareness tools and campaigns.",
+    "tags": [
+      "sante mentale",
+      "prevention",
+      "mouvement sante mentale",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-213",
+    "nameFr": "Observatoire québécois des inégalités",
+    "nameEn": "Observatoire québécois des inégalités",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": "https://observatoiredesinegalites.com",
+    "address": "Montréal, QC",
+    "descFr": "Organisme indépendant produisant et diffusant des analyses et données sur les inégalités sociales et économiques au Québec.",
+    "descEn": "Independent organization producing and sharing research and data on social and economic inequalities in Quebec.",
+    "tags": [
+      "observatoire",
+      "inegalites",
+      "recherche",
+      "social",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-214",
+    "nameFr": "OFFICE DE LA PROTECTION DU CONSOMMATEUR (OPC)",
+    "nameEn": "OFFICE DE LA PROTECTION DU CONSOMMATEUR (CONSUMER PROTECTION)",
+    "categoryIds": [
+      "LEGAL"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-888-672-2556",
+    "website": "https://www.opc.gouv.qc.ca",
+    "address": "5199, rue Sherbrooke Est, Aile A, bureau 3671, Montréal, QC H1T 3X2",
+    "descFr": "Organisme gouvernemental québécois informant les consommateurs sur leurs droits, contrats, garanties et recours.",
+    "descEn": "Quebec government body informing consumers about their rights, contracts, warranties, and legal remedies.",
+    "tags": [
+      "opc",
+      "consommation",
+      "droits",
+      "contrat",
+      "garantie",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-215",
+    "nameFr": "OFFICE DES PERSONNES HANDICAPÉES DU QUÉBEC (OPHQ)",
+    "nameEn": "OFFICE DES PERSONNES HANDICAPÉES DU QUÉBEC (OPHQ)",
+    "categoryIds": [
+      "LEGAL",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-567-1465",
+    "website": "https://www.ophq.gouv.qc.ca",
+    "address": "Partout au Québec",
+    "descFr": "Service gouvernemental d’accompagnement individuel aidant les personnes handicapées et leur famille à accéder aux programmes, aides financières et services adaptés.",
+    "descEn": "Government individual support service helping people with disabilities and their families access programs, financial aid, and adapted services.",
+    "tags": [
+      "handicap",
+      "ophq",
+      "droits",
+      "aide financiere",
+      "accessibilite",
+      "disability",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-216",
+    "nameFr": "OPTION CONSOMMATEURS",
+    "nameEn": "OPTION CONSOMMATEURS",
+    "categoryIds": [
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-598-7288",
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Association de défense des droits des consommateurs et d’information financière à Montréal.",
+    "descEn": "Consumer rights advocacy and financial information association in Montreal.",
+    "tags": [
+      "consommation",
+      "droits",
+      "option consommateurs",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-225",
+    "nameFr": "POINT DE REPÈRES — RÉDUCTION DES MÉFAITS & PRÉVENTION SURDOSES (QUÉBEC)",
+    "nameEn": "POINT DE REPÈRES — HARM REDUCTION & OVERDOSE PREVENTION (QUEBEC CITY)",
+    "categoryIds": [
+      "ADDICTION",
+      "HEALTH"
+    ],
+    "region": "03 - CAPITALE-NATIONALE",
+    "phone": "418-648-8042",
+    "website": "https://www.pointdereperes.com",
+    "address": "502, rue Saint-Vallier Est, Québec, QC",
+    "descFr": "Organisme communautaire de réduction des méfaits à Québec offrant prévention des surdoses, matériel stérile, naloxone et soutien.",
+    "descEn": "Harm reduction community organization in Quebec City offering overdose prevention, sterile supplies, naloxone, and peer support.",
+    "tags": [
+      "point de reperes",
+      "prevention surdose",
+      "quebec",
+      "naloxone",
+      "reduction des mefaits",
+      "sante",
+      "capitale-nationale"
+    ]
+  },
+  {
+    "id": "QC-226",
+    "nameFr": "PORTAIL VIH/SIDA DU QUÉBEC",
+    "nameEn": "QUEBEC HIV/AIDS PORTAL",
+    "categoryIds": [
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-877-767-8242",
+    "website": "https://pvsq.org",
+    "address": "Partout au Québec",
+    "descFr": "Ligne d’écoute confidentielle, information sur le VIH et les ITSS, et orientation vers les services de dépistage au Québec.",
+    "descEn": "Confidential listening helpline, information on HIV and STIs, and referrals to testing services across Quebec.",
+    "tags": [
+      "vih",
+      "sida",
+      "itss",
+      "depistage",
+      "sante",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-236",
+    "nameFr": "REGROUPEMENT DES MAISONS POUR FEMMES VICTIMES DE VIOLENCE CONJUGALE",
+    "nameEn": "QUEBEC FEDERATION OF SHELTERS FOR ABUSED WOMEN (RMFVVC)",
+    "categoryIds": [
+      "VIOLENCE",
+      "HOUSING"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": null,
+    "website": null,
+    "address": "Partout au Québec",
+    "descFr": "Regroupement provincial de maisons d’hébergement et de soutien pour les femmes et enfants victimes de violence conjugale au Québec.",
+    "descEn": "Provincial federation of shelters and support services for women and children experiencing domestic violence in Quebec.",
+    "tags": [
+      "violence conjugale",
+      "hebergement",
+      "femmes",
+      "refuge",
+      "rmfvvc",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-245",
+    "nameFr": "RETRAITE QUÉBEC — RENTES, INVALIDITÉ & SOUTIEN AUX FAMILLES",
+    "nameEn": "RETRAITE QUÉBEC — PENSIONS, DISABILITY & FAMILY ALLOWANCE",
+    "categoryIds": [
+      "SENIORS",
+      "YOUTH",
+      "LEGAL"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-463-5185",
+    "website": "https://www.retraitequebec.gouv.qc.ca",
+    "address": "Partout au Québec",
+    "descFr": "Gestion du Régime de rentes du Québec (retraite, invalidité, survivants) et de l’Allocation famille pour les parents au Québec.",
+    "descEn": "Administration of the Québec Pension Plan (retirement, disability, survivor benefits) and Family Allowance payments for parents in Quebec.",
+    "tags": [
+      "retraite",
+      "rrq",
+      "invalidite",
+      "allocation famille",
+      "pension",
+      "aines",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-246",
+    "nameFr": "RÉZO",
+    "nameEn": "RÉZO",
+    "categoryIds": [
+      "LGBTQ",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Organisme communautaire à Montréal offrant de la prévention et du soutien en santé pour les hommes gais, bisexuels, queer et les hommes ayant des relations sexuelles avec d’autres hommes.",
+    "descEn": "Community organization in Montreal providing health prevention and support for gay, bisexual, queer men, and men who have sex with men.",
+    "tags": [
+      "rezo",
+      "lgbtq",
+      "sante",
+      "prevention",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-260",
+    "nameFr": "SERVICES QUÉBEC — RENSEIGNEMENTS PROGRAMMES & AIDE SOCIALE",
+    "nameEn": "SERVICES QUÉBEC — GOVERNMENT PROGRAMS & SOCIAL ASSISTANCE",
+    "categoryIds": [
+      "LEGAL",
+      "EMPLOYMENT"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-877-644-4545",
+    "website": "https://www.quebec.ca",
+    "address": "Partout au Québec",
+    "descFr": "Guichet d’information sur les programmes publics du Québec, l’aide financière de dernier recours et les services gouvernementaux.",
+    "descEn": "Information service on Quebec public programs, last-resort financial assistance, and government services.",
+    "tags": [
+      "aide sociale",
+      "services quebec",
+      "gouvernement",
+      "programmes",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-270",
+    "nameFr": "TEL-AIDE MONTÉRÉGIE / SUROÎT (VALLEYFIELD)",
+    "nameEn": "TEL-AIDE MONTÉRÉGIE / SUROÎT",
+    "categoryIds": [
+      "HEALTH",
+      "CRISIS"
+    ],
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-371-4090",
+    "website": "https://www.telaide.org",
+    "address": "Salaberry-de-Valleyfield, QC",
+    "descFr": "Service d’écoute active et de soutien confidentiel pour les résidents de Salaberry-de-Valleyfield, Beauharnois, Vaudreuil-Soulanges et la Montérégie.",
+    "descEn": "Active listening and confidential support service for residents of Salaberry-de-Valleyfield, Beauharnois, Vaudreuil-Soulanges, and Montérégie.",
+    "tags": [
+      "valleyfield",
+      "suroit",
+      "monteregie",
+      "solitude",
+      "ecoute",
+      "telaide",
+      "anxiete"
+    ]
+  },
+  {
+    "id": "QC-271",
+    "nameFr": "TEL-AIDE QUÉBEC (ÉCOUTE & PRÉVENTION DÉTRESSE)",
+    "nameEn": "TEL-AIDE QUÉBEC (ACTIVE LISTENING HELPLINE)",
+    "categoryIds": [
+      "HEALTH",
+      "CRISIS"
+    ],
+    "region": "03 - CAPITALE-NATIONALE",
+    "phone": "418-686-2433",
+    "website": "https://www.telaide.qc.ca",
+    "address": "Québec, QC",
+    "descFr": "Service d’écoute téléphonique gratuit et confidentiel pour toute personne vivant de la solitude, de l’angoisse ou une période difficile.",
+    "descEn": "Free, confidential telephone listening service for anyone experiencing loneliness, distress, or a difficult period.",
+    "tags": [
+      "ecoute",
+      "solitude",
+      "quebec",
+      "detresse",
+      "telaide",
+      "anxiete"
+    ]
+  },
+  {
+    "id": "QC-273",
+    "nameFr": "TRACOM — CENTRE DE CRISE (MONTRÉAL)",
+    "nameEn": "TRACOM — CRISIS CENTER (MONTREAL)",
+    "categoryIds": [
+      "CRISIS",
+      "HOUSING",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-483-3033",
+    "website": "https://www.tracom.ca",
+    "address": "6045, avenue de Monkland, Montréal, QC",
+    "descFr": "Intervention de crise dans le milieu, soutien téléphonique et hébergement temporaire de crise à Montréal.",
+    "descEn": "Community crisis intervention, telephone support, and temporary crisis accommodation in Montreal.",
+    "tags": [
+      "crise",
+      "tracom",
+      "montreal",
+      "sante mentale",
+      "hebergement",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-275",
+    "nameFr": "UNION DES CONSOMMATEURS / RÉSEAU DES ACEF (BUDGET & DETTES)",
+    "nameEn": "ACEF NETWORK — FREE BUDGET & DEBT COUNSELING",
+    "categoryIds": [
+      "LEGAL"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-888-521-6820",
+    "website": "https://consommateur.qc.ca",
+    "address": "Partout au Québec",
+    "descFr": "Aide budgétaire gratuite et confidentielle, défense des droits des consommateurs et accompagnement face aux dettes au Québec.",
+    "descEn": "Free, confidential budget counseling, consumer rights advocacy, and debt guidance across Quebec.",
+    "tags": [
+      "dettes",
+      "budget",
+      "acef",
+      "argent",
+      "consommation",
+      "debt",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-276",
+    "nameFr": "UNION ÉTUDIANTE DU QUÉBEC (UEQ — DROITS UNIVERSITAIRES)",
+    "nameEn": "QUEBEC STUDENT UNION (UEQ — UNIVERSITY STUDENT RIGHTS)",
+    "categoryIds": [
+      "STUDENT",
+      "LEGAL"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "514-396-3380",
+    "website": "https://unionetudiante.ca",
+    "address": "Partout au Québec",
+    "descFr": "Défense des droits des étudiantes et étudiants universitaires, aide financière et soutien au Québec.",
+    "descEn": "Advocacy for university students’ rights, financial assistance, and student support in Quebec.",
+    "tags": [
+      "etudiant",
+      "universite",
+      "ueq",
+      "droits",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-278",
+    "nameFr": "VIOL-SECOURS — CALACS DE QUÉBEC",
+    "nameEn": "VIOL-SECOURS — SEXUAL ASSAULT CENTER (QUEBEC CITY)",
+    "categoryIds": [
+      "VIOLENCE",
+      "LEGAL"
+    ],
+    "region": "03 - CAPITALE-NATIONALE",
+    "phone": "418-522-2120",
+    "website": "https://www.violsecours.qc.ca",
+    "address": "Québec, QC",
+    "descFr": "Centre d’aide et de lutte contre les agressions à caractère sexuel à Québec offrant écoute, groupes de soutien et accompagnement juridique.",
+    "descEn": "Sexual assault support center in Quebec City offering confidential listening, peer groups, and medical or legal accompaniment.",
+    "tags": [
+      "calacs",
+      "agression",
+      "quebec",
+      "violence sexuelle",
+      "femme",
+      "viol-secours"
+    ]
+  }
+]
