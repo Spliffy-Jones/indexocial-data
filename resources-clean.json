@@ -2640,3 +2640,2326 @@
       "ado"
     ]
   },
+  {
+    "id": "QC-101",
+    "nameFr": "DEUIL-JEUNESSE — SOUTIEN AU DEUIL ET À LA MALADIE GRAVE",
+    "nameEn": "DEUIL-JEUNESSE — YOUTH & FAMILY GRIEF SUPPORT",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-855-889-3666",
+    "website": "https://www.deuil-jeunesse.com",
+    "address": "Partout au Québec",
+    "descFr": "Accompagnement professionnel spécialisé pour les jeunes et les familles vivant un deuil, la maladie grave d’un proche ou un abandon.",
+    "descEn": "Specialized professional support for youth and families experiencing bereavement, a loved one’s serious illness, or abandonment.",
+    "tags": [
+      "deuil",
+      "jeunes",
+      "famille",
+      "maladie",
+      "mort",
+      "grief",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-102",
+    "nameFr": "DOPAMINE — CENTRE DE CONSOMMATION SUPERVISÉE (HOCHELAGA)",
+    "nameEn": "DOPAMINE — SUPERVISED CONSUMPTION SITE (HOCHELAGA)",
+    "categoryIds": [
+      "ADDICTION",
+      "FOOD"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-251-8872",
+    "website": "https://www.dopamine.ca",
+    "address": "3591, rue Sainte-Catherine Est, Montréal, QC",
+    "descFr": "Centre de consommation supervisée dans Hochelaga-Maisonneuve offrant un espace sécuritaire, distribution de naloxone, matériel stérile et aide alimentaire.",
+    "descEn": "Supervised consumption site in Hochelaga-Maisonneuve offering a safe space, naloxone kits, sterile supplies, and food assistance.",
+    "tags": [
+      "dopamine",
+      "consommation supervisee",
+      "sis",
+      "hochelaga",
+      "naloxone",
+      "surdose",
+      "montreal"
+    ]
+  },
+  {
+    "id": "QC-103",
+    "nameFr": "DROGUE : AIDE ET RÉFÉRENCE (DAR)",
+    "nameEn": "DRUGS: HELP AND REFERRAL",
+    "categoryIds": [
+      "ADDICTION",
+      "CRISIS"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-265-2626",
+    "website": "https://www.aidedrogue.ca",
+    "address": "Partout au Québec",
+    "descFr": "Soutien, information et orientation 24/7 vers les centres de réadaptation en dépendance (alcool, drogues, médicaments) partout au Québec.",
+    "descEn": "24/7 support, information, and referral to addiction rehabilitation centers (alcohol, drugs, medication) across Quebec.",
+    "tags": [
+      "drogue",
+      "alcool",
+      "dependance",
+      "desintox",
+      "consommation",
+      "addiction",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-104",
+    "nameFr": "Écomusée du fier monde",
+    "nameEn": "Écomusée du fier monde",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Écomusée et musée citoyen dans le quartier Centre-Sud à Montréal offrant des expositions et activités éducatives et culturelles.",
+    "descEn": "Ecomuseum and civic museum in Montreal’s Centre-Sud neighborhood offering exhibitions and educational and cultural activities.",
+    "tags": [
+      "écomusée",
+      "fier",
+      "monde",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-105",
+    "nameFr": "ÉDUCALOI — INFORMATION JURIDIQUE CITOYENNE",
+    "nameEn": "ÉDUCALOI — PLAIN-LANGUAGE LEGAL INFORMATION",
+    "categoryIds": [
+      "LEGAL"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "514-954-3408",
+    "website": "https://educaloi.qc.ca",
+    "address": "Partout au Québec",
+    "descFr": "Organisme sans but lucratif expliquant clairement les lois du Québec (séparation, garde d’enfants, logement, travail, succession, consommation).",
+    "descEn": "Non-profit explaining Quebec laws in plain language (separation, child custody, housing, employment, wills, and consumer rights).",
+    "tags": [
+      "loi",
+      "droit",
+      "juridique",
+      "separation",
+      "educaloi",
+      "garde",
+      "consommation",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-106",
+    "nameFr": "EN MARGE 12-17 — HÉBERGEMENT & TRAVAIL DE RUE JEUNESSE",
+    "nameEn": "EN MARGE 12-17 — YOUTH SHELTER & STREET OUTREACH",
+    "categoryIds": [
+      "YOUTH",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-525-6664",
+    "website": "https://enmarge1217.ca",
+    "address": "Montréal, QC",
+    "descFr": "Ressource alternative 24/7 offrant hébergement d’urgence, écoute et travail de rue aux adolescents de 12 à 17 ans en rupture familiale ou fugue.",
+    "descEn": "24/7 alternative resource providing emergency shelter, listening, and street outreach for teens aged 12 to 17 facing family breakdown or running away.",
+    "tags": [
+      "ado",
+      "fugue",
+      "jeunes",
+      "hebergement",
+      "montreal",
+      "en marge",
+      "travail de rue"
+    ]
+  },
+  {
+    "id": "QC-107",
+    "nameFr": "Ensemble pour le respect de la diversité",
+    "nameEn": "Ensemble pour le respect de la diversité",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative ou organisme communautaire à Montréal axé sur le respect de la diversité, l’inclusion et le soutien social.",
+    "descEn": "Community initiative or organization in Montreal focused on respect for diversity, inclusion, and social support.",
+    "tags": [
+      "ensemble",
+      "pour",
+      "respect",
+      "diversité",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-108",
+    "nameFr": "Entraide Léo Théoret",
+    "nameEn": "Entraide Léo Théoret",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative ou organisme communautaire à Montréal axé sur l’entraide et le soutien de proximité.",
+    "descEn": "Community initiative or organization in Montreal focused on mutual aid and local support.",
+    "tags": [
+      "entraide",
+      "théoret",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-109",
+    "nameFr": "Espace Libre",
+    "nameEn": "Espace Libre",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Lieu culturel et artistique à Montréal offrant des créations et activités de diffusion.",
+    "descEn": "Cultural and arts venue in Montreal offering performances and programming.",
+    "tags": [
+      "espace",
+      "libre",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-110",
+    "nameFr": "Famille pour l’Éducation et l’Entraide pour des Jeunes et des Adultes (FEEJAD)",
+    "nameEn": "Famille pour l’Éducation et l’Entraide pour des Jeunes et des Adultes (FEEJAD)",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Organisme communautaire à Montréal œuvrant auprès des jeunes, des adultes et des familles en matière d’éducation et d’entraide.",
+    "descEn": "Community organization in Montreal working with youth, adults, and families on education and mutual aid.",
+    "tags": [
+      "famille",
+      "pour",
+      "l’éducation",
+      "l’entraide",
+      "pour",
+      "jeunes",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-111",
+    "nameFr": "FÉDÉRATION ÉTUDIANTE COLLÉGIALE DU QUÉBEC (FECQ)",
+    "nameEn": "QUEBEC FEDERATION OF COLLEGE STUDENTS (FECQ)",
+    "categoryIds": [
+      "STUDENT",
+      "LEGAL"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "514-396-3320",
+    "website": "https://www.fecq.org",
+    "address": "Partout au Québec",
+    "descFr": "Fédération représentant les étudiants des cégeps partout au Québec : information sur les droits étudiants, logement, transport et réussite scolaire.",
+    "descEn": "Federation representing CEGEP students across Quebec providing guidance on student rights, housing, transit, and academic success.",
+    "tags": [
+      "etudiant",
+      "cegep",
+      "fecq",
+      "droits",
+      "collegial",
+      "jeunes",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-112",
+    "nameFr": "FÉDÉRATION QUÉBÉCOISE DE L’AUTISME (FQA)",
+    "nameEn": "QUEBEC FEDERATION OF AUTISM (FQA)",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH",
+      "LEGAL"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-888-830-2833",
+    "website": "https://www.autisme.qc.ca",
+    "address": "Partout au Québec",
+    "descFr": "Information, défense des droits et orientation vers les ressources communautaires et de répit pour les personnes autistes et leurs familles.",
+    "descEn": "Information, rights advocacy, and referrals to community and respite resources for autistic individuals and their families.",
+    "tags": [
+      "autisme",
+      "tsa",
+      "famille",
+      "droits",
+      "fqa",
+      "autism",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-113",
+    "nameFr": "FÉDÉRATION QUÉBÉCOISE DES SOCIÉTÉS ALZHEIMER",
+    "nameEn": "FEDERATION OF QUEBEC ALZHEIMER SOCIETIES",
+    "categoryIds": [
+      "SENIORS",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-888-636-6473",
+    "website": "https://alzheimer.ca/fqsa",
+    "address": "Partout au Québec",
+    "descFr": "Consultation individuelle, groupes de soutien, formations et services de répit pour les personnes atteintes de la maladie d’Alzheimer et leurs proches aidants.",
+    "descEn": "Individual counseling, support groups, training, and respite services for individuals living with Alzheimer’s disease and their caregivers.",
+    "tags": [
+      "alzheimer",
+      "aines",
+      "memoire",
+      "proche aidant",
+      "repit",
+      "demence",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-114",
+    "nameFr": "FEMMES AUTOCHTONES DU QUÉBEC (FAQ)",
+    "nameEn": "QUEBEC NATIVE WOMEN (QNW)",
+    "categoryIds": [
+      "INDIGENOUS",
+      "VIOLENCE",
+      "LEGAL"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-363-0322",
+    "website": "https://faq-qnw.org",
+    "address": "Partout au Québec",
+    "descFr": "Soutien, défense des droits, prévention de la violence et accompagnement juridique et social pour les femmes autochtones et leurs familles partout au Québec.",
+    "descEn": "Support, advocacy, violence prevention, and legal and social guidance for Indigenous women and their families across Quebec.",
+    "tags": [
+      "femmes autochtones",
+      "kahnawake",
+      "droits",
+      "justice",
+      "faq",
+      "violence",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-115",
+    "nameFr": "FIN À LA FAIM — BANQUE ALIMENTAIRE (REPENTIGNY / LANAUDIÈRE)",
+    "nameEn": "FIN À LA FAIM — FOOD BANK (REPENTIGNY / LANAUDIÈRE)",
+    "categoryIds": [
+      "FOOD"
+    ],
+    "region": "14 - LANAUDIÈRE",
+    "phone": "450-582-4633",
+    "website": "https://finalafaim.org",
+    "address": "Repentigny, QC",
+    "descFr": "Principale banque alimentaire du sud de Lanaudière distribuant des paniers de provisions équilibrés et denrées fraîches aux ménages vulnérables.",
+    "descEn": "Primary food bank in southern Lanaudière distributing balanced grocery baskets and fresh produce to vulnerable households.",
+    "tags": [
+      "banque alimentaire",
+      "repentigny",
+      "lanaudiere",
+      "panier",
+      "faim",
+      "nourriture"
+    ]
+  },
+  {
+    "id": "QC-116",
+    "nameFr": "FONDATION JEUNES EN TÊTE — SANTÉ MENTALE ÉTUDIANTE",
+    "nameEn": "FONDATION JEUNES EN TÊTE — YOUTH MENTAL HEALTH",
+    "categoryIds": [
+      "STUDENT",
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "514-529-1000",
+    "website": "https://fondationjeunesentete.org",
+    "address": "Partout au Québec",
+    "descFr": "Prévention de la détresse psychologique chez les adolescents et étudiants de 11 à 18 ans grâce à des ateliers en milieu scolaire et trousses numériques gratuites.",
+    "descEn": "Prevention of psychological distress among teens and students aged 11 to 18 through school-based workshops and free digital toolkits.",
+    "tags": [
+      "etudiant",
+      "sante mentale",
+      "jeunes",
+      "ecole",
+      "prevention",
+      "anxiete",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-117",
+    "nameFr": "FRAPRU — FRONT D’ACTION POPULAIRE EN RÉAMÉNAGEMENT URBAIN",
+    "nameEn": "FRAPRU — SOCIAL HOUSING ADVOCACY COALITION",
+    "categoryIds": [
+      "HOUSING",
+      "LEGAL"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "514-522-1010",
+    "website": "https://www.frapru.qc.ca",
+    "address": "1500, rue Beaubien Est, Montréal, QC",
+    "descFr": "Regroupement québécois luttant pour le droit au logement décent et abordable, les HLM et les coopératives d’habitation.",
+    "descEn": "Quebec advocacy coalition fighting for the right to decent, affordable housing, public housing (HLM), and housing cooperatives.",
+    "tags": [
+      "logement social",
+      "hlm",
+      "frapru",
+      "habitation",
+      "pauvrete",
+      "droits",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-118",
+    "nameFr": "Front commun québécois pour une gestion écologique des déchets",
+    "nameEn": "Front commun québécois pour une gestion écologique des déchets",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Regroupement et initiative citoyenne axés sur la gestion écologique des matières résiduelles et l’environnement au Québec.",
+    "descEn": "Coalition and citizen initiative focused on ecological waste management and the environment in Quebec.",
+    "tags": [
+      "front",
+      "commun",
+      "québécois",
+      "pour",
+      "gestion",
+      "écologique",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-119",
+    "nameFr": "GEIPSI",
+    "nameEn": "GEIPSI",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative ou organisme lié à l’intervention et au soutien communautaire à Montréal.",
+    "descEn": "Initiative or organization connected to community intervention and support in Montreal.",
+    "tags": [
+      "geipsi",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-120",
+    "nameFr": "Go Jeunesse",
+    "nameEn": "Go Jeunesse",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative ou organisme communautaire destiné aux jeunes à Montréal offrant des activités et du soutien.",
+    "descEn": "Community initiative or organization for youth in Montreal offering activities and support.",
+    "tags": [
+      "jeunesse",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-121",
+    "nameFr": "Groupe Information Travail (G.I.T.)",
+    "nameEn": "Groupe Information Travail (G.I.T.)",
+    "categoryIds": [
+      "EMPLOYMENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Organisme communautaire d’employabilité à Montréal offrant de l’information sur le travail et de l’accompagnement vers l’emploi.",
+    "descEn": "Community employability organization in Montreal offering employment information and job-search support.",
+    "tags": [
+      "groupe",
+      "information",
+      "travail",
+      "(g.i.t.)",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-122",
+    "nameFr": "Groupe L’Itinéraire",
+    "nameEn": "Groupe L’Itinéraire",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-597-0609",
+    "website": null,
+    "address": "1101, rue Rachel Est, Montréal, QC",
+    "descFr": "Organisme communautaire à Montréal soutenant l’inclusion sociale et l’insertion de personnes en situation de vulnérabilité ou d’itinérance.",
+    "descEn": "Community organization in Montreal supporting social inclusion and reintegration for people experiencing vulnerability or homelessness.",
+    "tags": [
+      "groupe",
+      "l’itinéraire",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-123",
+    "nameFr": "GSP Montréal",
+    "nameEn": "GSP Montréal",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Groupe ou initiative communautaire actif à Montréal offrant de l’accompagnement et du soutien.",
+    "descEn": "Community group or initiative active in Montreal offering guidance and support.",
+    "tags": [
+      "montréal",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-124",
+    "nameFr": "HAVRE L’ÉCLAIRCIE — HÉBERGEMENT VIOLENCE CONJUGALE (BEAUCE)",
+    "nameEn": "HAVRE L’ÉCLAIRCIE — WOMEN’S SHELTER (BEAUCE)",
+    "categoryIds": [
+      "VIOLENCE",
+      "HOUSING"
+    ],
+    "region": "12 - CHAUDIÈRE-APPALACHES",
+    "phone": "418-227-1025",
+    "website": "https://www.havreleclaircie.com",
+    "address": "Saint-Georges, QC",
+    "descFr": "Maison d’aide et d’hébergement confidentielle 24/7 pour femmes et enfants victimes de violence conjugale dans la région de Beauce-Etchemins.",
+    "descEn": "Confidential 24/7 shelter and support center for women and children experiencing domestic violence in the Beauce-Etchemins area.",
+    "tags": [
+      "violence",
+      "femme",
+      "beauce",
+      "saint-georges",
+      "hebergement",
+      "chaudiere-appalaches"
+    ]
+  },
+  {
+    "id": "QC-125",
+    "nameFr": "ICRC Clinique de Finance Sociale",
+    "nameEn": "ICRC Clinique de Finance Sociale",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative ou clinique communautaire à Montréal liée à la finance sociale et au soutien financier communautaire.",
+    "descEn": "Community initiative or clinic in Montreal connected to social finance and community financial support.",
+    "tags": [
+      "icrc",
+      "clinique",
+      "finance",
+      "sociale",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-126",
+    "nameFr": "Inclusion sport",
+    "nameEn": "Inclusion sport",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative ou organisme à Montréal favorisant l’inclusion par le sport et l’activité physique.",
+    "descEn": "Initiative or organization in Montreal promoting inclusion through sports and physical activity.",
+    "tags": [
+      "inclusion",
+      "sport",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-127",
+    "nameFr": "INFO-AIDANT (L’APPUI PROCHES AIDANTS)",
+    "nameEn": "INFO-AIDANT (CAREGIVER SUPPORT)",
+    "categoryIds": [
+      "SENIORS",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-855-852-7784",
+    "website": "https://www.lappui.org",
+    "address": "Partout au Québec",
+    "descFr": "Écoute professionnelle, information et orientation vers des ressources de répit pour les personnes qui soutiennent un proche en perte d’autonomie.",
+    "descEn": "Professional listening, information, and referrals to respite resources for caregivers supporting a loved one with loss of autonomy.",
+    "tags": [
+      "proche aidant",
+      "alzheimer",
+      "repit",
+      "epuisement",
+      "aines",
+      "caregiver",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-128",
+    "nameFr": "INFO-AIDE VIOLENCE SEXUELLE (CALACS)",
+    "nameEn": "SEXUAL VIOLENCE HELPLINE (CALACS)",
+    "categoryIds": [
+      "VIOLENCE",
+      "CRISIS"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-888-933-9007",
+    "website": "https://infoaideviolencesexuelle.ca",
+    "address": "Partout au Québec",
+    "descFr": "Écoute, soutien et orientation 24/7 vers les CALACS et les trousses médico-légales pour toute personne victime d’agression sexuelle.",
+    "descEn": "24/7 listening, support, and referral to CALACS centers and forensic kits for anyone affected by sexual assault.",
+    "tags": [
+      "agression",
+      "calacs",
+      "violence sexuelle",
+      "consentement",
+      "sexual assault",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-129",
+    "nameFr": "INFO-SANTÉ 811 (OPTION 1 — SOINS INFIRMIERS)",
+    "nameEn": "INFO-SANTÉ 811 (OPTION 1 — NURSING CONSULTATION)",
+    "categoryIds": [
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "811",
+    "website": "https://www.quebec.ca/sante/trouver-une-ressource/info-sante-811",
+    "address": "Partout au Québec",
+    "descFr": "Consultation téléphonique gratuite 24/7 avec une infirmière pour évaluer un symptôme ou un problème de santé non urgent et orienter vers la bonne ressource.",
+    "descEn": "Free 24/7 telephone consultation with a registered nurse to assess non-urgent health concerns and guide you to appropriate care.",
+    "tags": [
+      "811",
+      "sante",
+      "infirmiere",
+      "symptome",
+      "clinique",
+      "info-sante",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-130",
+    "nameFr": "INFO-SOCIAL 811 (OPTION 2)",
+    "nameEn": "INFO-SOCIAL 811 (OPTION 2)",
+    "categoryIds": [
+      "HEALTH",
+      "CRISIS"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "811",
+    "website": "https://www.quebec.ca/sante/trouver-une-ressource/info-social-811",
+    "address": "Partout au Québec",
+    "descFr": "Consultation téléphonique gratuite et confidentielle 24/7 avec un intervenant psychosocial (crise, anxiété, conflit familial, deuil).",
+    "descEn": "Free, confidential 24/7 telephone consultation with a psychosocial worker (crisis, anxiety, family conflict, grief).",
+    "tags": [
+      "811",
+      "info-social",
+      "psychosocial",
+      "anxiete",
+      "crise",
+      "clsc",
+      "deuil",
+      "sante mentale",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-131",
+    "nameFr": "Information alimentaire populaire Centre-Sud",
+    "nameEn": "Information alimentaire populaire Centre-Sud",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative communautaire dans le Centre-Sud à Montréal liée à l’information et à l’accès alimentaire populaire.",
+    "descEn": "Community initiative in Montreal’s Centre-Sud connected to community food information and access.",
+    "tags": [
+      "information",
+      "alimentaire",
+      "populaire",
+      "centre-sud",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-132",
+    "nameFr": "Institut National Canadien pour les Aveugles (INCA)",
+    "nameEn": "Institut National Canadien pour les Aveugles (INCA)",
+    "categoryIds": [
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "1-800-563-2642",
+    "website": "https://cnib.ca",
+    "address": "Montréal, QC",
+    "descFr": "Organisme offrant des programmes et du soutien aux personnes aveugles ou ayant une perte de vision.",
+    "descEn": "Organization offering programs and support for people who are blind or experiencing vision loss.",
+    "tags": [
+      "institut",
+      "national",
+      "canadien",
+      "pour",
+      "aveugles",
+      "(inca)",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-133",
+    "nameFr": "INSTITUT NAZARETH ET LOUIS-BRAILLE (DÉFICIENCE VISUELLE)",
+    "nameEn": "NAZARETH AND LOUIS-BRAILLE INSTITUTE (VISUAL IMPAIRMENT)",
+    "categoryIds": [
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-361-7063",
+    "website": "https://www.inlb.qc.ca",
+    "address": "Partout au Québec",
+    "descFr": "Centre public spécialisé offrant réadaptation, apprentissage de l’autonomie et aides visuelles aux personnes aveugles ou ayant une déficience visuelle.",
+    "descEn": "Public specialized center providing rehabilitation, independent living training, and visual aids for blind or visually impaired individuals.",
+    "tags": [
+      "aveugle",
+      "malvoyant",
+      "deficience visuelle",
+      "handicap",
+      "braille",
+      "inlb",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-134",
+    "nameFr": "INTERLIGNE (SOUTIEN LGBTQ+)",
+    "nameEn": "INTERLIGNE (LGBTQ+ SUPPORT)",
+    "categoryIds": [
+      "LGBTQ",
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-888-505-1010",
+    "website": "https://interligne.co",
+    "address": "Partout au Québec",
+    "descFr": "Centre de première ligne offrant écoute, information et intervention 24/7 en matière de diversité sexuelle et de pluralité des genres.",
+    "descEn": "Frontline center providing 24/7 listening, information, and intervention regarding sexual diversity and gender plurality.",
+    "tags": [
+      "lgbtq",
+      "trans",
+      "gai",
+      "lesbienne",
+      "identite",
+      "queer",
+      "diversite",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-135",
+    "nameFr": "Interloge",
+    "nameEn": "Interloge",
+    "categoryIds": [
+      "HOUSING",
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Organisme communautaire à Montréal actif dans le domaine du logement social et communautaire.",
+    "descEn": "Community organization in Montreal active in social and community housing.",
+    "tags": [
+      "interloge",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-136",
+    "nameFr": "IVAC — INDEMNISATION DES VICTIMES D’ACTES CRIMINELS",
+    "nameEn": "IVAC — CRIME VICTIMS COMPENSATION PROGRAM",
+    "categoryIds": [
+      "LEGAL",
+      "VIOLENCE",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-561-4822",
+    "website": "https://www.ivac.qc.ca",
+    "address": "Partout au Québec",
+    "descFr": "Programme public offrant aide financière, remboursement de soins psychologiques et réadaptation aux victimes d’infractions criminelles contre la personne.",
+    "descEn": "Public program providing financial assistance, psychotherapy coverage, and rehabilitation for victims of violent crimes.",
+    "tags": [
+      "ivac",
+      "victime",
+      "crime",
+      "indemnisation",
+      "psychotherapie",
+      "compensation",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-137",
+    "nameFr": "JEU : AIDE ET RÉFÉRENCE",
+    "nameEn": "GAMBLING: HELP AND REFERRAL",
+    "categoryIds": [
+      "ADDICTION",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-461-0140",
+    "website": "https://www.aidejeu.ca",
+    "address": "Partout au Québec",
+    "descFr": "Aide confidentielle et gratuite 24/7 pour les joueurs compulsifs (casino, paris en ligne, loterie) et leur entourage.",
+    "descEn": "Free, confidential 24/7 help for compulsive gamblers (casino, online betting, lottery) and their loved ones.",
+    "tags": [
+      "jeu",
+      "casino",
+      "paris",
+      "dettes",
+      "dependance",
+      "gambling",
+      "loterie",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-138",
+    "nameFr": "JEUNESSE AU SOLEIL (SUN YOUTH) — BANQUE ALIMENTAIRE",
+    "nameEn": "SUN YOUTH ORGANIZATION — EMERGENCY FOOD BANK",
+    "categoryIds": [
+      "FOOD",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-842-6822",
+    "website": "https://sunyouthorg.com",
+    "address": "6700, avenue du Parc, Montréal, QC",
+    "descFr": "Banque alimentaire d’urgence majeure à Montréal distribuant paniers de denrées mensuels, couches, vêtements et fournitures scolaires aux familles.",
+    "descEn": "Major emergency food bank in Montreal distributing monthly grocery hampers, diapers, clothing, and school supplies to families.",
+    "tags": [
+      "banque alimentaire",
+      "jeunesse au soleil",
+      "sun youth",
+      "montreal",
+      "panier",
+      "vetements"
+    ]
+  },
+  {
+    "id": "QC-139",
+    "nameFr": "Jeunesse Lambda",
+    "nameEn": "Jeunesse Lambda",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Groupe communautaire à Montréal offrant des espaces de rencontre et de soutien pour les jeunes de la diversité sexuelle et de genre.",
+    "descEn": "Community group in Montreal offering gathering and support spaces for youth of diverse sexual orientations and gender identities.",
+    "tags": [
+      "jeunesse",
+      "lambda",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-140",
+    "nameFr": "JEUNESSE, J’ÉCOUTE (KIDS HELP PHONE)",
+    "nameEn": "KIDS HELP PHONE",
+    "categoryIds": [
+      "YOUTH",
+      "CRISIS",
+      "STUDENT"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-668-6868",
+    "website": "https://jeunessejecoute.ca",
+    "address": "Partout au Québec",
+    "descFr": "Service gratuit, anonyme et confidentiel d’intervention professionnelle par téléphone ou texto 24/7 pour les enfants, adolescents et jeunes adultes de 5 à 25 ans.",
+    "descEn": "Free, anonymous, and confidential 24/7 professional counseling by phone or text for children, teens, and young adults aged 5 to 25.",
+    "tags": [
+      "jeunesse",
+      "enfants",
+      "ados",
+      "686868",
+      "texto",
+      "ecoute",
+      "kids help phone",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-141",
+    "nameFr": "JEVI — CENTRE DE PRÉVENTION DU SUICIDE (ESTRIE)",
+    "nameEn": "JEVI — SUICIDE PREVENTION CENTER (ESTRIE)",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "05 - ESTRIE",
+    "phone": "819-564-1354",
+    "website": "https://www.jevi.qc.ca",
+    "address": "120, 11e Avenue Nord, Sherbrooke, QC",
+    "descFr": "Intervention téléphonique 24/7, équipe mobile de crise et accompagnement des proches et endeuillés à Sherbrooke et dans toute l’Estrie.",
+    "descEn": "24/7 telephone intervention, mobile crisis outreach, and support for loved ones and the bereaved in Sherbrooke and across Estrie.",
+    "tags": [
+      "suicide",
+      "estrie",
+      "sherbrooke",
+      "crise",
+      "jevi",
+      "deuil"
+    ]
+  },
+  {
+    "id": "QC-142",
+    "nameFr": "JUSTICE PRO BONO",
+    "nameEn": "JUSTICE PRO BONO",
+    "categoryIds": [
+      "LEGAL"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "514-904-1076",
+    "website": "https://justiceprobono.ca",
+    "address": "Partout au Québec",
+    "descFr": "Organisme sans but lucratif mobilisant des avocats bénévoles pour offrir des services juridiques gratuits aux personnes et OBNL démunis.",
+    "descEn": "Non-profit mobilizing volunteer lawyers to provide free legal services to low-income individuals and community organizations.",
+    "tags": [
+      "pro bono",
+      "avocat",
+      "gratuit",
+      "justice",
+      "droit",
+      "juridique",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-143",
+    "nameFr": "La Chaufferie / Coop Lézarts",
+    "nameEn": "La Chaufferie / Coop Lézarts",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative ou espace communautaire et culturel à Montréal lié à l’entraide et aux activités de quartier.",
+    "descEn": "Community and cultural initiative or space in Montreal connected to mutual aid and neighborhood activities.",
+    "tags": [
+      "chaufferie",
+      "coop",
+      "lézarts",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-144",
+    "nameFr": "LA CORBEILLE BORDEAUX-CARTIERVILLE (BANQUE & ÉPICERIE SOLIDAIRE)",
+    "nameEn": "LA CORBEILLE BORDEAUX-CARTIERVILLE (FOOD BANK & SOLIDARITY GROCERY)",
+    "categoryIds": [
+      "FOOD",
+      "EMPLOYMENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-856-3553",
+    "website": "https://www.lacorbeillebc.org",
+    "address": "11855, rue Poitras, Montréal, QC",
+    "descFr": "Organisme de sécurité alimentaire du nord de Montréal offrant dépannage alimentaire d’urgence, épicerie solidaire à faible coût et repas communautaires.",
+    "descEn": "Food security organization in northern Montreal offering emergency food relief, low-cost solidarity grocery shopping, and community meals.",
+    "tags": [
+      "banque alimentaire",
+      "bordeaux-cartierville",
+      "montreal",
+      "epicerie solidaire",
+      "corbeille",
+      "nourriture"
+    ]
+  },
+  {
+    "id": "QC-145",
+    "nameFr": "LA HALTE DU COIN — REFUGE D’URGENCE (LONGUEUIL)",
+    "nameEn": "LA HALTE DU COIN — EMERGENCY SHELTER (LONGUEUIL)",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD"
+    ],
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-332-4463",
+    "website": "https://www.lahalteducoin.org",
+    "address": "Longueuil, QC",
+    "descFr": "Ressource principale en itinérance sur la Rive-Sud de Montréal : refuge de nuit 24/7, halte de jour, repas chauds et intervention sociale.",
+    "descEn": "Primary homelessness resource on Montreal’s South Shore offering a 24/7 night shelter, day drop-in, hot meals, and social intervention.",
+    "tags": [
+      "refuge",
+      "itinerance",
+      "longueuil",
+      "rive-sud",
+      "monteregie",
+      "shelter",
+      "repas"
+    ]
+  },
+  {
+    "id": "QC-146",
+    "nameFr": "LA HUTTE — HÉBERGEMENT D’URGENCE TERREBONNE / LANAUDIÈRE",
+    "nameEn": "LA HUTTE — EMERGENCY SHELTER TERREBONNE / LANAUDIÈRE",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD"
+    ],
+    "region": "14 - LANAUDIÈRE",
+    "phone": "450-471-4664",
+    "website": "https://www.lahutte.org",
+    "address": "Terrebonne, QC",
+    "descFr": "Refuge d’urgence 24/7, halte-chaleur, centre de jour et logements de transition pour adultes en situation d’itinérance dans Lanaudière.",
+    "descEn": "24/7 emergency shelter, warming center, day drop-in, and transitional housing for adults experiencing homelessness in Lanaudière.",
+    "tags": [
+      "refuge",
+      "itinerance",
+      "terrebonne",
+      "lanaudiere",
+      "shelter",
+      "la hutte"
+    ]
+  },
+  {
+    "id": "QC-147",
+    "nameFr": "LA MAISON AKHWÀ:TSIRE — PROJETS AUTOCHTONES DU QUÉBEC (PAQ)",
+    "nameEn": "LA MAISON AKHWÀ:TSIRE — PROJETS AUTOCHTONES DU QUÉBEC (PAQ)",
+    "categoryIds": [
+      "HOUSING",
+      "INDIGENOUS",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-849-4087",
+    "website": "https://www.paqc.org",
+    "address": "1025, rue Saint-Hubert, Montréal, QC",
+    "descFr": "Centre d'hébergement permanent situé au centre-ville comprenant 18 chambres (jusqu'à 22 personnes) avec un soutien psychosocial 24 heures sur 24 pour les personnes ayant vécu l'itinérance chronique.",
+    "descEn": "Permanent housing center located downtown featuring 18 rooms (up to 22 people) with 24/7 psychosocial support for individuals who have experienced chronic homelessness.",
+    "tags": [
+      "autochtone",
+      "hebergement",
+      "logement permanent",
+      "itinerance",
+      "sante mentale",
+      "paq",
+      "montreal"
+    ]
+  },
+  {
+    "id": "QC-148",
+    "nameFr": "LA MAISON ANNAGIARVIK — PROJETS AUTOCHTONES DU QUÉBEC (PAQ)",
+    "nameEn": "LA MAISON ANNAGIARVIK — PROJETS AUTOCHTONES DU QUÉBEC (PAQ)",
+    "categoryIds": [
+      "HOUSING",
+      "INDIGENOUS",
+      "ADDICTION"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-879-3310",
+    "website": "https://www.paqc.org",
+    "address": "3702, rue Sainte-Famille, Montréal, QC",
+    "descFr": "Résidence offrant 14 chambres fermées pour soutenir les personnes autochtones travaillant activement sur leur dépendance à l'alcool dans un cadre transitoire sobre.",
+    "descEn": "Residence offering 14 private rooms to support Indigenous individuals actively working on their alcohol dependency in a sober transitional living environment.",
+    "tags": [
+      "autochtone",
+      "dependance",
+      "alcool",
+      "hebergement",
+      "logement transitoire",
+      "paq",
+      "montreal"
+    ]
+  },
+  {
+    "id": "QC-149",
+    "nameFr": "LA MAISON GRISE DE MONTRÉAL (RÉINSERTION FEMMES)",
+    "nameEn": "LA MAISON GRISE — WOMEN’S REINTEGRATION SHELTER",
+    "categoryIds": [
+      "HOUSING",
+      "VIOLENCE"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-722-0009",
+    "website": "https://lamaisongrise.org",
+    "address": "Montréal, QC",
+    "descFr": "Milieu de vie et d’hébergement de transition aidant les femmes en difficulté à retrouver leur autonomie personnelle, sociale et résidentielle.",
+    "descEn": "Transitional living and shelter environment helping women in difficulty regain personal, social, and housing autonomy.",
+    "tags": [
+      "femme",
+      "hebergement",
+      "transition",
+      "montreal",
+      "maison grise",
+      "reinsertion"
+    ]
+  },
+  {
+    "id": "QC-150",
+    "nameFr": "LA PIAULE DE VAL-D’OR (REFUGE & ITINÉRANCE)",
+    "nameEn": "LA PIAULE DE VAL-D’OR (EMERGENCY SHELTER)",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD"
+    ],
+    "region": "08 - ABITIBI-TÉMISCAMINGUE",
+    "phone": "819-824-8884",
+    "website": "https://lapiaule.org",
+    "address": "Val-d’Or, QC",
+    "descFr": "Refuge d’urgence 24/7, repas communautaires, accueil de jour et accompagnement vers le logement pour personnes itinérantes à Val-d’Or.",
+    "descEn": "24/7 emergency shelter, community meals, day drop-in, and housing support for unhoused individuals in Val-d’Or.",
+    "tags": [
+      "refuge",
+      "val-dor",
+      "abitibi",
+      "itinerance",
+      "repas",
+      "shelter",
+      "la piaule"
+    ]
+  },
+  {
+    "id": "QC-151",
+    "nameFr": "La Relance Jeunes et Familles (également référencé comme Relance jeunes et familles)",
+    "nameEn": "La Relance Jeunes et Familles (également référencé comme Relance jeunes et familles)",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Organisme communautaire à Montréal offrant de l’accompagnement, de l’entraide et du soutien aux jeunes et aux familles.",
+    "descEn": "Community organization in Montreal offering guidance, mutual aid, and support to youth and families.",
+    "tags": [
+      "relance",
+      "jeunes",
+      "familles",
+      "(également",
+      "référencé",
+      "comme",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-152",
+    "nameFr": "LA SOURCE D’ENTRAIDE (SAINT-LAZARE / VAUDREUIL-SOULANGES)",
+    "nameEn": "LA SOURCE D’ENTRAIDE (SAINT-LAZARE / VAUDREUIL-SOULANGES)",
+    "categoryIds": [
+      "FOOD"
+    ],
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-455-1200",
+    "website": "https://www.lasourcedentraide.org",
+    "address": "1691, chemin Sainte-Angélique, Saint-Lazare, QC",
+    "descFr": "Comptoir alimentaire, friperie communautaire, aide matérielle et soutien financier d’urgence pour les ménages de Saint-Lazare et Vaudreuil-Soulanges.",
+    "descEn": "Food pantry, community thrift shop, material aid, and emergency financial support for households in Saint-Lazare and Vaudreuil-Soulanges.",
+    "tags": [
+      "alimentaire",
+      "saint-lazare",
+      "vaudreuil",
+      "panier",
+      "entraide",
+      "banque alimentaire",
+      "suroit"
+    ]
+  },
+  {
+    "id": "QC-153",
+    "nameFr": "LA TABLE DU PAIN — DÉPANNAGE ALIMENTAIRE UNIVERSITÉ LAVAL",
+    "nameEn": "LA TABLE DU PAIN — UNIVERSITÉ LAVAL STUDENT FOOD BANK",
+    "categoryIds": [
+      "FOOD",
+      "STUDENT"
+    ],
+    "region": "03 - CAPITALE-NATIONALE",
+    "phone": "418-656-2765",
+    "website": "https://www.bve.ulaval.ca",
+    "address": "2305, rue de l’Université, Québec, QC",
+    "descFr": "Service de dépannage alimentaire gratuit et confidentiel destiné aux étudiants de l’Université Laval vivant une insécurité alimentaire.",
+    "descEn": "Free, confidential emergency food relief service for Université Laval students experiencing food insecurity in Quebec City.",
+    "tags": [
+      "etudiant",
+      "banque alimentaire",
+      "ulaval",
+      "quebec",
+      "panier",
+      "nourriture"
+    ]
+  },
+  {
+    "id": "QC-154",
+    "nameFr": "LE CHAÎNON — MAISON D’HÉBERGEMENT POUR FEMMES",
+    "nameEn": "LE CHAÎNON — WOMEN’S EMERGENCY & TRANSITIONAL SHELTER",
+    "categoryIds": [
+      "HOUSING",
+      "VIOLENCE"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-845-0151",
+    "website": "https://www.lechainon.org",
+    "address": "4373, avenue de l’Esplanade, Montréal, QC",
+    "descFr": "Principale ressource d’hébergement pour femmes en difficulté ou sans logis à Montréal : accueil d’urgence 24/7, répit et maisons de transition.",
+    "descEn": "Primary shelter resource for vulnerable or unhoused women in Montreal offering 24/7 emergency intake, respite, and transitional housing.",
+    "tags": [
+      "femme",
+      "refuge",
+      "chainon",
+      "itinerance",
+      "montreal",
+      "hebergement",
+      "shelter"
+    ]
+  },
+  {
+    "id": "QC-155",
+    "nameFr": "LE CHIC RESTO POP — ALIMENTATION COMMUNAUTAIRE (HOCHELAGA)",
+    "nameEn": "LE CHIC RESTO POP — COMMUNITY RESTAURANT & FOOD AID",
+    "categoryIds": [
+      "FOOD",
+      "EMPLOYMENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-521-4089",
+    "website": "https://chicrestopop.com",
+    "address": "4226, rue Adam, Montréal, QC",
+    "descFr": "Restaurant communautaire dans Hochelaga-Maisonneuve offrant petits-déjeuners et dîners nutritifs à prix modique, livraison et aide alimentaire.",
+    "descEn": "Community restaurant in Hochelaga-Maisonneuve serving nutritious breakfasts and lunches at symbolic prices, meal delivery, and food aid.",
+    "tags": [
+      "repas",
+      "hochelaga",
+      "montreal",
+      "alimentaire",
+      "resto pop",
+      "banque alimentaire"
+    ]
+  },
+  {
+    "id": "QC-156",
+    "nameFr": "LE DÉPÔT — CENTRE COMMUNAUTAIRE D’ALIMENTATION (NDG)",
+    "nameEn": "THE DEPOT COMMUNITY FOOD CENTRE (NDG)",
+    "categoryIds": [
+      "FOOD"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-483-4680",
+    "website": "https://depotmtl.org",
+    "address": "6450, avenue Somerled, Montréal, QC",
+    "descFr": "Banque alimentaire et centre communautaire à Notre-Dame-de-Grâce offrant paniers de produits frais, repas communautaires et marchés mobiles.",
+    "descEn": "Food bank and community food center in Notre-Dame-de-Grâce offering fresh produce hampers, community meals, and mobile markets.",
+    "tags": [
+      "banque alimentaire",
+      "ndg",
+      "montreal",
+      "depot",
+      "nourriture",
+      "repas"
+    ]
+  },
+  {
+    "id": "QC-157",
+    "nameFr": "LE GÎTE AMI — REFUGE D’URGENCE (GATINEAU)",
+    "nameEn": "LE GÎTE AMI — EMERGENCY SHELTER (GATINEAU)",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD"
+    ],
+    "region": "07 - OUTAOUAIS",
+    "phone": "819-771-6070",
+    "website": "https://www.legiteami.org",
+    "address": "84, rue Lois, Gatineau, QC",
+    "descFr": "Refuge d’urgence 24/7, repas chauds, accueil de jour et accompagnement vers le logement pour personnes en situation d’itinérance à Gatineau.",
+    "descEn": "24/7 emergency shelter, hot meals, day drop-in, and housing transition support for unhoused individuals in Gatineau.",
+    "tags": [
+      "refuge",
+      "gatineau",
+      "outaouais",
+      "itinerance",
+      "gite ami",
+      "repas",
+      "shelter"
+    ]
+  },
+  {
+    "id": "QC-158",
+    "nameFr": "LE MURMURE — CALACS DU BAS-SAINT-LAURENT (RIMOUSKI)",
+    "nameEn": "LE MURMURE — SEXUAL ASSAULT CENTER (RIMOUSKI)",
+    "categoryIds": [
+      "VIOLENCE",
+      "LEGAL"
+    ],
+    "region": "01 - BAS-SAINT-LAURENT",
+    "phone": "418-723-3939",
+    "website": "https://www.calacslemurmure.com",
+    "address": "Rimouski, QC",
+    "descFr": "Aide, écoute confidentielle, groupes de soutien et accompagnement médical ou judiciaire pour les femmes victimes d’agression sexuelle.",
+    "descEn": "Confidential listening, support groups, and medical or legal accompaniment for women who have experienced sexual assault.",
+    "tags": [
+      "calacs",
+      "agression",
+      "rimouski",
+      "violence sexuelle",
+      "femme",
+      "bas-saint-laurent"
+    ]
+  },
+  {
+    "id": "QC-159",
+    "nameFr": "LE PONT — MAISON D’HÉBERGEMENT POUR FEMMES (VAUDREUIL-SOULANGES)",
+    "nameEn": "LE PONT — WOMEN’S SHELTER (VAUDREUIL-SOULANGES)",
+    "categoryIds": [
+      "VIOLENCE",
+      "HOUSING"
+    ],
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-455-7371",
+    "website": "https://www.maisonlepont.ca",
+    "address": "Vaudreuil-Dorion, QC",
+    "descFr": "Maison d’aide et d’hébergement confidentielle 24/7 pour femmes et enfants victimes de violence conjugale dans Vaudreuil-Soulanges.",
+    "descEn": "Confidential 24/7 shelter and support center for women and children experiencing domestic violence in Vaudreuil-Soulanges.",
+    "tags": [
+      "violence",
+      "femme",
+      "vaudreuil",
+      "hebergement",
+      "le pont",
+      "suroit",
+      "refuge"
+    ]
+  },
+  {
+    "id": "QC-160",
+    "nameFr": "Le Sac à dos",
+    "nameEn": "Le Sac à dos",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative ou organisme communautaire à Montréal offrant de l’aide ou de l’entraide locale.",
+    "descEn": "Community initiative or organization in Montreal offering local assistance or mutual aid.",
+    "tags": [
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-161",
+    "nameFr": "LE SNAC — BANQUE ALIMENTAIRE D’AHUNTSIC",
+    "nameEn": "LE SNAC — AHUNTSIC COMMUNITY FOOD BANK",
+    "categoryIds": [
+      "FOOD"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-385-6499",
+    "website": "https://lesnac.org",
+    "address": "10780, rue Laverdure, Montréal, QC",
+    "descFr": "Principale banque alimentaire de l’arrondissement Ahuntsic-Cartierville offrant paniers de provisions, plats congelés et repas communautaires.",
+    "descEn": "Primary food bank in Ahuntsic-Cartierville providing grocery hampers, frozen prepared meals, and community lunches.",
+    "tags": [
+      "banque alimentaire",
+      "ahuntsic",
+      "montreal",
+      "panier",
+      "snac",
+      "nourriture"
+    ]
+  },
+  {
+    "id": "QC-162",
+    "nameFr": "LE TOURNANT — CENTRE DE CRISE (SUROÎT)",
+    "nameEn": "LE TOURNANT — CRISIS CENTER (SUROÎT)",
+    "categoryIds": [
+      "CRISIS",
+      "HOUSING",
+      "HEALTH"
+    ],
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-371-2820",
+    "website": "https://www.letournant.org",
+    "address": "Salaberry-de-Valleyfield, QC",
+    "descFr": "Intervention téléphonique 24/7, équipe mobile dans le milieu et hébergement temporaire de crise pour adultes dans le secteur du Suroît.",
+    "descEn": "24/7 telephone intervention, mobile community outreach, and temporary crisis shelter for adults in the Suroît area.",
+    "tags": [
+      "valleyfield",
+      "crise",
+      "hebergement",
+      "suroit",
+      "mobile",
+      "le tournant",
+      "monteregie"
+    ]
+  },
+  {
+    "id": "QC-163",
+    "nameFr": "LE TREMPLIN — REFUGE D’URGENCE ET ITINÉRANCE (LÉVIS)",
+    "nameEn": "LE TREMPLIN — EMERGENCY SHELTER (LÉVIS)",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD"
+    ],
+    "region": "12 - CHAUDIÈRE-APPALACHES",
+    "phone": "418-835-1005",
+    "website": "https://www.letremplin.org",
+    "address": "Lévis, QC",
+    "descFr": "Hébergement d’urgence 24/7, halte de jour, repas et accompagnement vers l’autonomie résidentielle pour les personnes sans-abri à Lévis.",
+    "descEn": "24/7 emergency shelter, day drop-in, meals, and housing transition support for unhoused individuals in Lévis.",
+    "tags": [
+      "refuge",
+      "levis",
+      "itinerance",
+      "chaudiere-appalaches",
+      "shelter",
+      "le tremplin"
+    ]
+  },
+  {
+    "id": "QC-164",
+    "nameFr": "LE VIRAGE — RÉADAPTATION EN DÉPENDANCE (MONTÉRÉGIE)",
+    "nameEn": "LE VIRAGE — ADDICTION REHABILITATION (MONTÉRÉGIE)",
+    "categoryIds": [
+      "ADDICTION",
+      "HEALTH"
+    ],
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-371-3011",
+    "website": "https://www.santemonteregie.qc.ca",
+    "address": "Salaberry-de-Valleyfield, QC",
+    "descFr": "Centre public de réadaptation en dépendance offrant suivi externe, désintoxication et soutien aux proches partout en Montérégie et au Suroît.",
+    "descEn": "Public addiction rehabilitation center offering outpatient counseling, detox referrals, and family support across Montérégie and Suroît.",
+    "tags": [
+      "dependance",
+      "alcool",
+      "drogue",
+      "desintox",
+      "valleyfield",
+      "virage",
+      "suroit",
+      "monteregie"
+    ]
+  },
+  {
+    "id": "QC-165",
+    "nameFr": "LES BANQUES ALIMENTAIRES DU QUÉBEC (BAQ)",
+    "nameEn": "FOOD BANKS OF QUEBEC (BAQ)",
+    "categoryIds": [
+      "FOOD"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "514-344-0789",
+    "website": "https://banquesalimentaires.org",
+    "address": "Partout au Québec",
+    "descFr": "Réseau provincial regroupant les banques alimentaires Moisson et plus de 1 300 organismes communautaires d’aide alimentaire partout au Québec.",
+    "descEn": "Provincial network uniting Moisson food banks and over 1,300 community food assistance organizations across Quebec.",
+    "tags": [
+      "banque alimentaire",
+      "nourriture",
+      "moisson",
+      "faim",
+      "baq",
+      "food bank",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-166",
+    "nameFr": "LES IMPATIENTS — ART-THÉRAPIE ET SANTÉ MENTALE",
+    "nameEn": "LES IMPATIENTS — ART THERAPY & MENTAL HEALTH",
+    "categoryIds": [
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "514-842-1043",
+    "website": "https://impatients.ca",
+    "address": "Partout au Québec",
+    "descFr": "Ateliers gratuits de création artistique offerts dans plusieurs régions (Montréal, Valleyfield, Québec, etc.) pour les personnes vivant un trouble de santé mentale.",
+    "descEn": "Free creative art workshops offered across multiple regions (Montreal, Valleyfield, Quebec City, etc.) for individuals living with mental health challenges.",
+    "tags": [
+      "art-therapie",
+      "sante mentale",
+      "impatients",
+      "valleyfield",
+      "montreal",
+      "ateliers",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-167",
+    "nameFr": "LES PETITS FRÈRES — ACCOMPAGNEMENT DES AÎNÉS ISOLÉS",
+    "nameEn": "LES PETITS FRÈRES — ISOLATED SENIORS COMPANIONSHIP",
+    "categoryIds": [
+      "SENIORS",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-866-627-8653",
+    "website": "https://www.petitsfreres.ca",
+    "address": "Partout au Québec",
+    "descFr": "Brise la solitude des personnes âgées de 75 ans et plus sans réseau familial grâce à des visites bénévoles, appels et séjours de répit.",
+    "descEn": "Relieves loneliness among isolated seniors aged 75 and older without family support through volunteer visits, calls, and respite stays.",
+    "tags": [
+      "aines",
+      "solitude",
+      "isolement",
+      "petits freres",
+      "benevole",
+      "visite",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-168",
+    "nameFr": "LESPACEMAKER",
+    "nameEn": "LESPACEMAKER",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative ou espace communautaire à Montréal offrant des activités et du soutien.",
+    "descEn": "Community initiative or space in Montreal offering activities and support.",
+    "tags": [
+      "lespacemaker",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-169",
+    "nameFr": "LIGNE AIDE ABUS AÎNÉS",
+    "nameEn": "ELDER MISTREATMENT HELPLINE",
+    "categoryIds": [
+      "SENIORS",
+      "VIOLENCE",
+      "LEGAL"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-888-489-2287",
+    "website": "https://www.aideabusaines.ca",
+    "address": "Partout au Québec",
+    "descFr": "Ligne provinciale d’écoute, d’évaluation et de référence face à la maltraitance psychologique, financière ou physique envers les personnes aînées.",
+    "descEn": "Provincial helpline for listening, assessment, and referral regarding psychological, financial, or physical elder mistreatment.",
+    "tags": [
+      "aines",
+      "maltraitance",
+      "abus financier",
+      "personne agee",
+      "seniors",
+      "elder abuse",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-170",
+    "nameFr": "LIGNE D’ÉCOUTE D’ESPOIR POUR LE MIEUX-ÊTRE",
+    "nameEn": "HOPE FOR WELLNESS INDIGENOUS HELPLINE",
+    "categoryIds": [
+      "INDIGENOUS",
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-855-242-3310",
+    "website": "https://www.espoirpourlemieuxetre.ca",
+    "address": "Partout au Québec",
+    "descFr": "Counseling immédiat et intervention de crise 24/7 culturellement adaptée pour tous les peuples autochtones (Premières Nations, Inuit, Métis).",
+    "descEn": "Immediate 24/7 counseling and culturally grounded crisis intervention for all Indigenous peoples (First Nations, Inuit, Métis).",
+    "tags": [
+      "autochtone",
+      "premieres nations",
+      "inuit",
+      "cri",
+      "innu",
+      "indigenous",
+      "crise",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-171",
+    "nameFr": "LIGNE PARENTSSECOURS",
+    "nameEn": "PARENTSSECOURS HELPLINE",
+    "categoryIds": [
+      "YOUTH",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-361-5085",
+    "website": "https://www.ligneparents.com",
+    "address": "Partout au Québec",
+    "descFr": "Ressource d’écoute et de référence professionnelle pour épauler les parents dans l’éducation de leurs enfants.",
+    "descEn": "Professional listening and referral resource to support parents in raising their children.",
+    "tags": [
+      "parents",
+      "famille",
+      "education",
+      "soutien",
+      "jeunes"
+    ]
+  },
+  {
+    "id": "QC-172",
+    "nameFr": "LIGNE QUÉBÉCOISE DE PRÉVENTION DU SUICIDE (988)",
+    "nameEn": "QUEBEC SUICIDE PREVENTION LINE (988)",
+    "categoryIds": [
+      "CRISIS",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-866-277-3553",
+    "website": "https://suicide.ca",
+    "address": "Partout au Québec",
+    "descFr": "Soutien immédiat 24/7 par téléphone (988 ou 1-866-277-3553), texto ou clavardage pour les personnes en détresse, les proches inquiets et les personnes endeuillées.",
+    "descEn": "Immediate 24/7 support by phone (988 or 1-866-277-3553), text, or chat for people in distress, worried loved ones, and those bereaved by suicide.",
+    "tags": [
+      "suicide",
+      "988",
+      "535353",
+      "detresse",
+      "urgence",
+      "crise",
+      "texto",
+      "clavardage",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-173",
+    "nameFr": "LIGNEPARENTS",
+    "nameEn": "LIGNEPARENTS",
+    "categoryIds": [
+      "YOUTH",
+      "HEALTH"
+    ],
+    "region": "PROVINCIAL (TOUT LE QUÉBEC)",
+    "phone": "1-800-361-5085",
+    "website": "https://www.ligneparents.com",
+    "address": "Partout au Québec",
+    "descFr": "Accompagnement professionnel gratuit 24/7 pour tous les parents d’enfants de 0 à 20 ans confrontés à des défis éducatifs ou familiaux.",
+    "descEn": "Free 24/7 professional support for all parents of children aged 0 to 20 facing parenting or family challenges.",
+    "tags": [
+      "parents",
+      "enfant",
+      "famille",
+      "crise ado",
+      "education",
+      "parenting",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-174",
+    "nameFr": "Logis Phare",
+    "nameEn": "Logis Phare",
+    "categoryIds": [
+      "HOUSING",
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative ou organisme communautaire à Montréal lié au logement et au soutien résidentiel.",
+    "descEn": "Community initiative or organization in Montreal connected to housing and residential support.",
+    "tags": [
+      "logis",
+      "phare",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-175",
+    "nameFr": "L’ABRI D’ESPOIR — ARMÉE DU SALUT (REFUGE & RÉINSERTION)",
+    "nameEn": "L’ABRI D’ESPOIR — SALVATION ARMY SHELTER (MONTREAL)",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-935-7428",
+    "website": "https://armeedusalut.ca",
+    "address": "2000, rue Notre-Dame Ouest, Montréal, QC",
+    "descFr": "Refuge d’urgence 24/7, repas chauds, soutien psychosocial et programmes de stabilisation résidentielle au centre-ville de Montréal.",
+    "descEn": "24/7 emergency shelter, hot meals, psychosocial support, and housing stabilization programs in downtown Montreal.",
+    "tags": [
+      "refuge",
+      "armee du salut",
+      "itinerance",
+      "montreal",
+      "shelter",
+      "abri espoir"
+    ]
+  },
+  {
+    "id": "QC-176",
+    "nameFr": "L’ACCÈS — CENTRE DE CRISE (LONGUEUIL / RIVE-SUD)",
+    "nameEn": "L’ACCÈS — CRISIS CENTER (LONGUEUIL / SOUTH SHORE)",
+    "categoryIds": [
+      "CRISIS",
+      "HOUSING",
+      "HEALTH"
+    ],
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-679-8689",
+    "website": "https://www.lacces.org",
+    "address": "Longueuil, QC",
+    "descFr": "Ligne d’intervention de crise 24/7, équipe mobile dans le milieu et hébergement temporaire pour adultes en détresse sur la Rive-Sud.",
+    "descEn": "24/7 crisis intervention helpline, mobile community outreach, and temporary crisis shelter for adults on the South Shore.",
+    "tags": [
+      "crise",
+      "longueuil",
+      "monteregie",
+      "mobile",
+      "hebergement",
+      "rive-sud",
+      "detresse"
+    ]
+  },
+  {
+    "id": "QC-177",
+    "nameFr": "L’ACTUEL — CENTRE D’ENTRAIDE DE VAUDREUIL-SOULANGES",
+    "nameEn": "L’ACTUEL — VAUDREUIL-SOULANGES MUTUAL AID CENTER",
+    "categoryIds": [
+      "FOOD",
+      "HOUSING"
+    ],
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-455-3331",
+    "website": "https://www.lactuel.org",
+    "address": "88, rue Adèle, Vaudreuil-Dorion, QC",
+    "descFr": "Banque alimentaire, comptoir vestimentaire, meubles et dépannage d’urgence pour les personnes et familles à faible revenu de Vaudreuil-Soulanges.",
+    "descEn": "Food bank, thrift shop, furniture, and emergency assistance for low-income individuals and families in Vaudreuil-Soulanges.",
+    "tags": [
+      "banque alimentaire",
+      "vaudreuil",
+      "actuel",
+      "panier",
+      "friperie",
+      "suroit",
+      "monteregie"
+    ]
+  },
+  {
+    "id": "QC-178",
+    "nameFr": "L’ANCRE DES JEUNES (PERSÉVÉRANCE SCOLAIRE — VERDUN)",
+    "nameEn": "L’ANCRE DES JEUNES (SCHOOL PERSEVERANCE — VERDUN)",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-769-2228",
+    "website": "https://ancredesjeunes.org",
+    "address": "400, rue Hickson, Montréal, QC",
+    "descFr": "Organisme communautaire de Verdun favorisant la persévérance scolaire, le raccrochage et l’épanouissement personnel des jeunes de 11 à 25 ans.",
+    "descEn": "Community organization in Verdun promoting school perseverance, re-engagement, and personal growth for youth aged 11 to 25.",
+    "tags": [
+      "jeunes",
+      "verdun",
+      "ecole",
+      "perseverance",
+      "montreal",
+      "raccrochage"
+    ]
+  },
+  {
+    "id": "QC-179",
+    "nameFr": "L’ANONYME — UNITÉ MOBILE & CONSOMMATION SUPERVISÉE",
+    "nameEn": "L’ANONYME — MOBILE UNIT & SUPERVISED CONSUMPTION",
+    "categoryIds": [
+      "ADDICTION",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-842-1488",
+    "website": "https://www.anonyme.ca",
+    "address": "Montréal, QC",
+    "descFr": "Unité mobile de consommation supervisée, prévention des surdoses, distribution de naloxone et matériel d’injection ou d’inhalation stérile, écoute et référence.",
+    "descEn": "Mobile supervised consumption unit offering overdose prevention, naloxone and sterile injection/inhalation supply distribution, listening, and referrals.",
+    "tags": [
+      "anonyme",
+      "consommation supervisee",
+      "sis",
+      "surdose",
+      "naloxone",
+      "seringue",
+      "reduction des mefaits",
+      "montreal"
+    ]
+  },
+  {
+    "id": "QC-180",
+    "nameFr": "L’Astérisque / Coalition des groupes jeunesses LGBTQ+",
+    "nameEn": "L’Astérisque / Coalition des groupes jeunesses LGBTQ+",
+    "categoryIds": [
+      "LGBTQ",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Coalition et regroupement de groupes communautaires jeunesse LGBTQ+ à Montréal.",
+    "descEn": "Coalition and network of LGBTQ+ youth community groups in Montreal.",
+    "tags": [
+      "l’astérisque",
+      "coalition",
+      "groupes",
+      "jeunesses",
+      "lgbtq+",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-181",
+    "nameFr": "L’Autre Montréal",
+    "nameEn": "L’Autre Montréal",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative communautaire à Montréal axée sur la découverte urbaine, la participation citoyenne et l’inclusion.",
+    "descEn": "Community initiative in Montreal focused on urban discovery, civic participation, and inclusion.",
+    "tags": [
+      "l’autre",
+      "montréal",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-182",
+    "nameFr": "L’ÉCLUSE DES LAURENTIDES — TRAVAIL DE RUE & HÉBERGEMENT",
+    "nameEn": "L’ÉCLUSE DES LAURENTIDES — STREET OUTREACH & SHELTER",
+    "categoryIds": [
+      "HOUSING",
+      "ADDICTION"
+    ],
+    "region": "15 - LAURENTIDES",
+    "phone": "450-569-0115",
+    "website": "https://www.leclusedeslaurentides.org",
+    "address": "Saint-Jérôme, QC",
+    "descFr": "Travail de rue, halte-chaleur, hébergement d’urgence hivernal et réduction des méfaits pour personnes marginalisées ou sans-abri à Saint-Jérôme.",
+    "descEn": "Street outreach, warming center, winter emergency shelter, and harm reduction for marginalized or unhoused people in Saint-Jérôme.",
+    "tags": [
+      "laurentides",
+      "saint-jerome",
+      "itinerance",
+      "travail de rue",
+      "refuge",
+      "ecluse"
+    ]
+  },
+  {
+    "id": "QC-183",
+    "nameFr": "L’HIRONDELLE — ACCUEIL ET INTÉGRATION DES IMMIGRANTS",
+    "nameEn": "L’HIRONDELLE — IMMIGRANT SETTLEMENT & EMPLOYMENT",
+    "categoryIds": [
+      "EMPLOYMENT",
+      "HOUSING",
+      "LEGAL"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-281-5696",
+    "website": "https://hirondelle.qc.ca",
+    "address": "4652, rue Jeanne-Mance, Montréal, QC",
+    "descFr": "Accompagnement gratuit des personnes immigrantes et réfugiées : recherche d’emploi, reconnaissance des acquis, recherche de logement et soutien familial.",
+    "descEn": "Free settlement services for immigrants and refugees including job search support, credential recognition, housing assistance, and family services.",
+    "tags": [
+      "immigrant",
+      "emploi",
+      "refugie",
+      "montreal",
+      "hirondelle",
+      "cv",
+      "logement"
+    ]
+  },
+  {
+    "id": "QC-184",
+    "nameFr": "Ma Chambre",
+    "nameEn": "Ma Chambre",
+    "categoryIds": [
+      "HEALTH",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative ou projet communautaire à Montréal offrant un espace d’accueil ou de soutien.",
+    "descEn": "Community initiative or project in Montreal offering a welcoming or support space.",
+    "tags": [
+      "chambre",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-185",
+    "nameFr": "Maison de la culture Janine-Sutto",
+    "nameEn": "Maison de la culture Janine-Sutto",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Maison de la culture municipale à Montréal offrant des spectacles, expositions et activités culturelles de quartier.",
+    "descEn": "Municipal cultural center in Montreal offering performances, exhibitions, and neighborhood cultural activities.",
+    "tags": [
+      "maison",
+      "culture",
+      "janine-sutto",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-186",
+    "nameFr": "MAISON DE LAUBERIVIÈRE — REFUGE & SOUPE POPULAIRE (QUÉBEC)",
+    "nameEn": "MAISON DE LAUBERIVIÈRE — SHELTER & SOUP KITCHEN (QUEBEC CITY)",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD",
+      "HEALTH"
+    ],
+    "region": "03 - CAPITALE-NATIONALE",
+    "phone": "418-692-4248",
+    "website": "https://www.lauberiviere.org",
+    "address": "485, rue du Pont, Québec, QC",
+    "descFr": "Refuge d’urgence 24/7 à Québec offrant repas chauds gratuits, lits d’hébergement, soins infirmiers, halte-chaleur et accompagnement vers le logement.",
+    "descEn": "24/7 emergency shelter in Quebec City offering free hot meals, emergency beds, nursing care, warming center, and housing support.",
+    "tags": [
+      "refuge",
+      "itinerance",
+      "quebec",
+      "soupe populaire",
+      "lauberiviere",
+      "repas"
+    ]
+  },
+  {
+    "id": "QC-187",
+    "nameFr": "Maison des jeunes Quinka-Buzz",
+    "nameEn": "Maison des jeunes Quinka-Buzz",
+    "categoryIds": [
+      "YOUTH",
+      "STUDENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Maison des jeunes à Montréal offrant des activités et un milieu de vie pour les adolescents.",
+    "descEn": "Youth center in Montreal offering activities and a gathering space for teenagers.",
+    "tags": [
+      "maison",
+      "jeunes",
+      "quinka-buzz",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-188",
+    "nameFr": "MAISON DU PÈRE — REFUGE ET RÉINSERTION POUR HOMMES",
+    "nameEn": "MAISON DU PÈRE — MEN’S EMERGENCY SHELTER",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-845-0168",
+    "website": "https://www.maisondupere.org",
+    "address": "550, boulevard René-Lévesque Est, Montréal, QC",
+    "descFr": "Refuge d’urgence 24/7, centre de jour, clinique médicale et programmes de réinsertion sociale pour hommes sans-abri à Montréal.",
+    "descEn": "24/7 emergency shelter, day center, medical clinic, and social reintegration programs for unhoused men in Montreal.",
+    "tags": [
+      "refuge",
+      "maison du pere",
+      "hommes",
+      "itinerance",
+      "montreal",
+      "shelter",
+      "repas"
+    ]
+  },
+  {
+    "id": "QC-189",
+    "nameFr": "MAISON D’HÉBERGEMENT AU BERCAIL (SAINT-GEORGES / BEAUCE)",
+    "nameEn": "AU BERCAIL — EMERGENCY SHELTER & SOUP KITCHEN (BEAUCE)",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD"
+    ],
+    "region": "12 - CHAUDIÈRE-APPALACHES",
+    "phone": "418-228-1071",
+    "website": "https://www.aubercail.org",
+    "address": "12220, 2e Avenue, Saint-Georges, QC",
+    "descFr": "Refuge d’urgence 24/7, soupe populaire, dépannage alimentaire et accompagnement vers l’autonomie pour personnes sans-abri ou en crise en Beauce.",
+    "descEn": "24/7 emergency shelter, soup kitchen, food aid, and transitional support for unhoused people or individuals in crisis in Beauce.",
+    "tags": [
+      "refuge",
+      "beauce",
+      "saint-georges",
+      "chaudiere-appalaches",
+      "itinerance",
+      "bercail",
+      "soupe populaire"
+    ]
+  },
+  {
+    "id": "QC-190",
+    "nameFr": "MAISON D’HÉBERGEMENT DÉPANNAGE DE VALLEYFIELD (MHDV)",
+    "nameEn": "VALLEYFIELD EMERGENCY SHELTER (MHDV)",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD"
+    ],
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-371-9617",
+    "website": "https://mhdv.org",
+    "address": "67, rue Wilfrid, Salaberry-de-Valleyfield, QC",
+    "descFr": "Refuge d’urgence sans-abri 24/7, accueil de jour, hébergement temporaire pour hommes, femmes et familles du Suroît et accompagnement psychosocial.",
+    "descEn": "24/7 emergency homeless shelter, day center, temporary housing for men, women, and families in Suroît, plus psychosocial support.",
+    "tags": [
+      "refuge",
+      "shelter",
+      "itinerance",
+      "sans-abri",
+      "valleyfield",
+      "mhdv",
+      "suroit"
+    ]
+  },
+  {
+    "id": "QC-191",
+    "nameFr": "MAISON D’HÉBERGEMENT LA RE-SOURCE (CHÂTEAUGUAY)",
+    "nameEn": "LA RE-SOURCE WOMEN’S SHELTER (CHÂTEAUGUAY)",
+    "categoryIds": [
+      "VIOLENCE",
+      "HOUSING"
+    ],
+    "region": "16 - MONTÉRÉGIE (INCL. SUROÎT)",
+    "phone": "450-699-0908",
+    "website": "https://www.lare-source.org",
+    "address": "Châteauguay, QC",
+    "descFr": "Maison d’aide et d’hébergement sécuritaire 24/7 pour femmes et enfants victimes de violence conjugale dans le secteur de Châteauguay et Roussillon.",
+    "descEn": "Safe 24/7 shelter and support center for women and children experiencing domestic violence in the Châteauguay and Roussillon area.",
+    "tags": [
+      "violence",
+      "femme",
+      "chateauguay",
+      "hebergement",
+      "roussillon",
+      "refuge",
+      "monteregie"
+    ]
+  },
+  {
+    "id": "QC-192",
+    "nameFr": "MAISON JEUNESSE — PROJETS AUTOCHTONES DU QUÉBEC (PAQ)",
+    "nameEn": "MAISON JEUNESSE — PROJETS AUTOCHTONES DU QUÉBEC (PAQ)",
+    "categoryIds": [
+      "YOUTH",
+      "HOUSING",
+      "INDIGENOUS"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-879-3310",
+    "website": "https://www.paqc.org",
+    "address": "1668, rue Saint-Germain, Montréal, QC",
+    "descFr": "Maison offrant un milieu de vie transitoire (séjour pouvant aller jusqu'à 3 ans) avec accompagnement de jour pour les jeunes autochtones à Montréal.",
+    "descEn": "House offering a transitional living environment (stays up to 3 years) with daytime accompaniment for Indigenous youth in Montreal.",
+    "tags": [
+      "jeunesse",
+      "logement transitoire",
+      "autochtone",
+      "jeunes",
+      "paq",
+      "montreal"
+    ]
+  },
+  {
+    "id": "QC-193",
+    "nameFr": "MAISON JOANNE-BLANCHET (HÉBERGEMENT POUR FEMMES — LANAUDIÈRE)",
+    "nameEn": "MAISON JOANNE-BLANCHET — WOMEN’S SHELTER (LANAUDIÈRE)",
+    "categoryIds": [
+      "VIOLENCE",
+      "HOUSING"
+    ],
+    "region": "14 - LANAUDIÈRE",
+    "phone": "450-839-6721",
+    "website": "https://www.maisonjoanneblanchet.com",
+    "address": "Lanaudière, QC",
+    "descFr": "Maison d’aide et d’hébergement pour les femmes et les enfants victimes de violence conjugale dans Lanaudière.",
+    "descEn": "Shelter and support center for women and children experiencing domestic violence in Lanaudière.",
+    "tags": [
+      "violence",
+      "femme",
+      "hebergement",
+      "lanaudiere",
+      "conjugale"
+    ]
+  },
+  {
+    "id": "QC-194",
+    "nameFr": "MAISON MARGUERITE DE MONTRÉAL (HÉBERGEMENT POUR FEMMES)",
+    "nameEn": "MAISON MARGUERITE — WOMEN’S TRANSITIONAL SHELTER",
+    "categoryIds": [
+      "HOUSING",
+      "VIOLENCE"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-932-2250",
+    "website": "https://www.maisonmarguerite.com",
+    "address": "Montréal, QC",
+    "descFr": "Maison d’hébergement communautaire offrant gîte sécuritaire, repas et accompagnement psychosocial aux femmes en situation de précarité ou d’itinérance.",
+    "descEn": "Community shelter providing safe housing, meals, and psychosocial support for women facing housing instability or homelessness.",
+    "tags": [
+      "femme",
+      "refuge",
+      "itinerance",
+      "montreal",
+      "maison marguerite",
+      "hebergement"
+    ]
+  },
+  {
+    "id": "QC-195",
+    "nameFr": "Maison Plein Coeur",
+    "nameEn": "Maison Plein Coeur",
+    "categoryIds": [
+      "HEALTH",
+      "CRISIS"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Ressource ou initiative communautaire à Montréal offrant de l’accueil et du soutien.",
+    "descEn": "Community resource or initiative in Montreal offering welcome and support.",
+    "tags": [
+      "maison",
+      "plein",
+      "coeur",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-196",
+    "nameFr": "Mères avec pouvoir",
+    "nameEn": "Mères avec pouvoir",
+    "categoryIds": [
+      "VIOLENCE",
+      "YOUTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Groupe ou initiative communautaire à Montréal soutenant les mères et familles.",
+    "descEn": "Community group or initiative in Montreal supporting mothers and families.",
+    "tags": [
+      "mères",
+      "avec",
+      "pouvoir",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-197",
+    "nameFr": "Méta d’Âme",
+    "nameEn": "Méta d’Âme",
+    "categoryIds": [
+      "HEALTH",
+      "CRISIS"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative ou organisme communautaire à Montréal lié au soutien et au mieux-être.",
+    "descEn": "Community initiative or organization in Montreal connected to support and well-being.",
+    "tags": [
+      "méta",
+      "d’âme",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-198",
+    "nameFr": "MIRE",
+    "nameEn": "MIRE",
+    "categoryIds": [
+      "EMPLOYMENT"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": null,
+    "website": null,
+    "address": "Montréal, QC",
+    "descFr": "Initiative ou organisme lié à l’employabilité et à l’insertion socioprofessionnelle à Montréal.",
+    "descEn": "Initiative or organization connected to employability and socioprofessional integration in Montreal.",
+    "tags": [
+      "mire",
+      "montreal",
+      "quebec"
+    ]
+  },
+  {
+    "id": "QC-199",
+    "nameFr": "MISSION BON ACCUEIL — REFUGE & SÉCURITÉ ALIMENTAIRE",
+    "nameEn": "WELCOME HALL MISSION — SHELTER & FOOD SECURITY",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-523-5288",
+    "website": "https://missionbonaccueil.com",
+    "address": "4755, rue Acorn, Montréal, QC",
+    "descFr": "Aide d’urgence aux personnes en situation d’itinérance et familles vulnérables : refuge d’urgence 24/7, épicerie gratuite Marché Bon Accueil et réinsertion.",
+    "descEn": "Emergency aid for unhoused individuals and vulnerable families offering a 24/7 emergency shelter, free grocery market, and housing reintegration.",
+    "tags": [
+      "refuge",
+      "itinerance",
+      "alimentaire",
+      "epicerie",
+      "montreal",
+      "bon accueil",
+      "welcome hall"
+    ]
+  },
+  {
+    "id": "QC-200",
+    "nameFr": "MISSION OLD BREWERY — REFUGE & SOUTIEN ITINÉRANCE",
+    "nameEn": "OLD BREWERY MISSION — EMERGENCY SHELTER",
+    "categoryIds": [
+      "HOUSING",
+      "FOOD",
+      "HEALTH"
+    ],
+    "region": "06 - MONTRÉAL",
+    "phone": "514-798-2244",
+    "website": "https://www.missionoldbrewery.ca",
+    "address": "915, rue Clark, Montréal, QC",
+    "descFr": "Plus grand refuge d’urgence au Québec pour hommes et femmes sans-abri : lits d’urgence 24/7, repas chauds, soins de santé et transition vers le logement.",
+    "descEn": "Largest emergency shelter in Quebec for unhoused men and women providing 24/7 emergency beds, hot meals, healthcare, and housing transition.",
+    "tags": [
+      "refuge",
+      "shelter",
+      "itinerance",
+      "montreal",
+      "repas",
+      "lit",
+      "old brewery"
+    ]
+  },
+  
